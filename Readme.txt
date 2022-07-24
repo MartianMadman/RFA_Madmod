@@ -1,0 +1,139 @@
+Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the game a much better experience.
+
+\Initial Release Changes/
+-The shotgun, pistols, banshees, pulse grenades, rocket launcher, lava barge, and rail driver will fire as fast as you click.
+-Increased distance at which blood and bullet hole decals are allowed to be drawn.
+-Decals will only start despawning based on a limit rather than a timer.
+-Gibs will only start despawning based on a limit rather than a timer.
+-Added ability to skip all startup splash screens.
+-Gibs, ammo boxes, and salvage cast shadows.
+-Reduced bullet spread for all weapons.
+-Increased range that weapons can fire.
+-Increased max amount of ammo to 999.
+-Increased nanoforge repair radius.
+-No charge up on the plasma cannon.
+-Removed cooldown on all weapons.
+-Increased draw distance of gibs.
+-Increased draw distance of npcs.
+-Increased player sprint speed.
+-Removed melee auto targeting.
+-All structures drop salvage.
+-Removed nanoforge cooldown.
+-Bullets damage structures.
+-Increased jumping height.
+-Removed weapon recoil.
+-Disabled camera shake.
+-Bigger blood decals.
+-Removed fall damage.
+-Infinite sprint.
+
+\Changelog v0.11b/
+-Changed on foot camera view to 1st person because 1st person has superior player movement handling. Vertical fov is at 75 and horizontal fov will differ depending on the aspect ratio. Horizontal fovs will be |5:4 = 87|4:3 = 91|16:10 = 101|16:9 = 107|21:9 = 121|.
+-Attempted to improve the AI of the aliens and their ability to kill the player as well as increasing their overall aggressiveness. AI pathfinding is generally still pretty bad.
+-Removed creeper and grunt melee finishers since they mess with the 1st person view and also slow down the player.
+-Fixed not being able to stop napalm laser from firing along with other weapons which may have the same issue.
+-Removed player flinch and landing animations since they slow down the players movement.
+-Classic FPS movement controls. Always run by default, use shift to walk.
+-Increased player movement speed when in the forced walk state.
+-Removed weapon fire charge up on unicorn gun and plasma beam.
+-Singularity cannon and xmg-5000 fire as fast as you click.
+-Increased refire rate of repair grenades.
+-Increased alien pod spawn rate.
+-Removed weapon swapping delay.
+-Tweaked blood decals.
+
+\Changelog v0.12b/
+-Added collide_as_mover_not_with_humans flag to all gibs which allows the magnet gun to target them. Also allows physics to be applied from melee attacks.
+-Removed goon AI effects. Idk what it really does but I found it in tweak_tables.xtbl. When I set it to always be on, I found that the AI seemed dumber.
+-Added casts_shadows flag to everything in gameplay_properties.xtbl, rfg_materials.xtbl, and items_3d.xtbl.
+-Increased draw distance of all dynamic lights giving the game one hell of a visual upgrade.
+-Increased vertical fov to 90. New horizontal fovs are |4:3 = 106|16:9 = 120|
+-Replaced NPC death animations with ragdoll physics for some weapons.
+-Restored nanoforge cooldown. Cooldown speed has been doubled.
+-Increased alien pod spawn rate to as high as possible.
+-Remove player sequential damage reduction.
+-Improved NPC vs NPC combat gameplay.
+-Tweaks to rfg_stress_controls.xtbl.
+-Increased potential lod distances.
+-Increased velocity of tracers.
+-Increased NPC fire burst size.
+-Reduced NPC bullet spread.
+-Tweaks to difficulty.xtbl.
+-Improved NPC aim.
+
+\Changelog v0.13b/
+-Slightly shifted 1st person camera forward when crouching to prevent dual pistol models from clipping in view.
+-Slightly shifted camera on exos to the right to prevent crosshair from targeting itself.
+-Decreased vertical fov back to 75 for a less distorted view and higher draw distances.
+-Removed deep pockets upgrade since this mod makes that upgrade useless.
+-Lava barge turrets and Charge launcher will fire as fast as you click.
+-Slightly offset camera view forward when looking down.
+-Increased dynamic light draw distances even further.
+-Decreased delay between remote charge detonations.
+-Added 1st person to ragdolling.
+-Decreased player jumping delay.
+-Assault rifle can gib enemies.
+-Added 1st person to turrets.
+-Tweaked blood decals again.
+-Tweaks to weapon zoom.
+-Tweaks to ammo.xtbl.
+
+\Changelog v0.14b/
+-Slightly reduced amount of salvage received to compensate for the removed upgrades. Doesn't affect the amount spawned.
+-Removed NPC fall damage to prevent aliens from tripping over debris and instantly dying.
+-Removed exo flinch and landing animations because they slow down the players movement.
+-Removed bigger clips and rapid blast upgrades since they are useless with this mod.
+-Tweaks to aim_drift.xtbl and weapon_firing_patterns.xtbl.
+-Attempted to improve the AI of the aliens again.
+-Tweaked difficulty.xtbl and ammo.xtbl again.
+-Fixed odd and out of place shadows.
+-Doubled magnet gun pull radius.
+-Doubled repair grenade radius.
+-Even more aggressive AI.
+-Removed reloading.
+
+\Changelog v0.141b/
+-Readded casts_shadows flag to almost everything in gameplay_properties.xtbl but without creating most of the odd shadows.
+
+\Changelog v0.142b/
+-Reduce NPC combat reposition distance from 999 to 99.
+-Remove player and npc weapon hit effects delay.
+-Removed walk decreasing health regen rate.
+-Increased pull speed of all magnet guns.
+-Increase human fall movement modifier.
+-Remove tentacle melee cooldown.
+
+\Changelog v0.143b/
+-Fix enemies not moving in close enough for melee attacks to make contact with the player.
+-Removed player forward dodge animation since they don't work with the 1st person view.
+-Increase npc incline/decline blend tree distance.
+-Allow Rail Driver to gib enemies.
+
+\Changelog v0.9b/
+-Fix AI using movement behaviors in which they don't have animations for.
+-Fix certain weapons slowing player movement speed while being fired.
+-Tweaks to ammo.xtbl and lod_properties.xtbl again.
+-Fix startup crash on publicbeta version of RFA.
+-Remove tweaks to rfg_stress_controls.xtbl.
+-Add a choice between 3rd or 1st person.
+
+\Changelog v0.91b/
+-Increase return to mission area countdown timer to absurd levels to basically disable the feature.
+-Slightly decrease ammo pickup amount from pistol, shotgun, and assault rifle.
+-Adjust lod_properties.xtbl to potentially fix more lights not working.
+-Fixed some AI bugs caused by the increased weapon firing distances.
+-Changed many player animations to improve the 1st person view.
+-Restore original ai burst size to fix more ai issues.
+-Utilize more of the player model in 1st person.
+-Fix many missing visual features in 1st person.
+-Increase pre-placed salvage pickup radius.
+-Adjust salvage multiplier.
+-Adjust game difficulty.
+-Adjust turret view.
+
+\Issues/
+-Makes game more hardware demanding.
+-Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions.
+-Repaired objects with moving parts may break shortly after being repaired. This is caused by spawned salvage getting stuck in moving parts.
+-Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
+-There seems to be some engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
