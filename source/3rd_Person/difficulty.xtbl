@@ -47,10 +47,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_DAMAGE_TAKEN</Name>
-				<Easy>0.75</Easy>
-				<Medium>1.0</Medium>
-				<Hard>1.25</Hard>
-				<Insane>1.5</Insane>
+				<Easy>1.0</Easy>
+				<Medium>1.25</Medium>
+				<Hard>1.5</Hard>
+				<Insane>1.75</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_REGEN_DELAY</Name>
@@ -82,10 +82,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_VEHICLE_DAMAGE</Name>
-				<Easy>0.5</Easy>
-				<Medium>0.75</Medium>
-				<Hard>1.0</Hard>
-				<Insane>1.25</Insane>
+				<Easy>1.0</Easy>
+				<Medium>1.25</Medium>
+				<Hard>1.5</Hard>
+				<Insane>1.75</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_VEHICLE_MASS</Name>
@@ -138,10 +138,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_ENV_EXPLOSION_DAMAGE</Name>
-				<Easy>0.75</Easy>
+				<Easy>1.0</Easy>
 				<Medium>1.0</Medium>
 				<Hard>1.25</Hard>
-				<Insane>1.5</Insane>
+				<Insane>1.75</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_FALLING_DAMAGE</Name>
