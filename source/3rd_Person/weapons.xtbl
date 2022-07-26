@@ -109,7 +109,7 @@
 									</Launcher>
 								</Shot_Type>
 							<Trigger_Type>
-								<Automatic></Automatic>
+								<Single></Single>
 								</Trigger_Type>
 							<Magazine_Size>0</Magazine_Size>
 							<Spread_Min>0.0</Spread_Min>
@@ -144,7 +144,8 @@
 							<Ammo_Per_Round>0</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Player_Refire_Delay_ms>200</Player_Refire_Delay_ms>
+							<Player_Refire_Delay_ms>0</Player_Refire_Delay_ms>
+							<NPC_Refire_Delay_ms>200</NPC_Refire_Delay_ms>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0.0</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_mar_tur_rockets</Icon_Name>
