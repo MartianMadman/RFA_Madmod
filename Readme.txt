@@ -119,21 +119,22 @@ Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the 
 
 \Changelog v0.91b/
 -Increase return to mission area countdown timer to absurd levels to basically disable the feature.
--Slightly decrease ammo pickup amount from pistol, shotgun, and assault rifle.
 -Adjust lod_properties.xtbl to potentially fix more lights not working.
--Fixed some AI bugs caused by the increased weapon firing distances.
+-Fixed AI bugs caused by the increased weapon firing distances.
 -Changed many player animations to improve the 1st person view.
--Restore original ai burst size to fix more ai issues.
+-Restore original npc burst size to fix more ai issues.
 -Utilize more of the player model in 1st person.
--Fix many missing visual features in 1st person.
+-Heavy walker now fires as fast as you click.
+-Fix missing visual features in 1st person.
 -Increase pre-placed salvage pickup radius.
 -Adjust salvage multiplier.
 -Adjust game difficulty.
+-Reduce ammo pickups.
 -Adjust turret view.
 
 \Issues/
 -Makes game more hardware demanding.
 -Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions.
--Repaired objects with moving parts may break shortly after being repaired. This is caused by spawned salvage getting stuck in moving parts.
+-Destructables with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
 -There seems to be some engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
