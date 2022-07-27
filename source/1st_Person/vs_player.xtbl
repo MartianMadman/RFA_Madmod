@@ -126,7 +126,7 @@
 <Action><ID>mission 8 death</ID><Animation><Filename>plyr_dflt_m08_ml_dth.animx</Filename></Animation></Action>
 <Action><ID>MO1 Transition</ID><Animation><Filename>plyr_dflt_mo1_trns.animx</Filename></Animation></Action>
 <Action><ID>tunnel crawl ms3 exit</ID><Animation><Filename>pc_ms3_crawl_exit.animx</Filename></Animation></Action>
-<Action><ID>jump start crouch</ID><Animation><Filename>pc_rfl_crch_jmp_strt.animx</Filename></Animation></Action>
+<Action><ID>jump start crouch</ID><Animation><Filename>pc_rfl_aim_jmprun.animx</Filename></Animation></Action>
 <Action><ID>crouch to sprint</ID><Animation><Filename>pc_rfl_crch_to_sprnt.animx</Filename></Animation></Action>
 <Action><ID>nano push</ID><Animation><Filename>pc_nano_ability.animx</Filename></Animation></Action>
 <Action><ID>nano shard storm</ID><Animation><Filename>pc_nano_storm.animx</Filename></Animation></Action>
@@ -1035,7 +1035,7 @@
 </Group>
 <Group><group>Unicorn</group>
 <States>
-<State><ID>sprint</ID><Animation><Filename>pc_uni_spnt.animx</Filename></Animation></State>
+<State><ID>sprint</ID><Animation><Filename>pc_spray_fn_aim_wlk.animx</Filename></Animation></State>
 <State><ID>charged</ID><Animation><Filename>pc_uni_sht.animx</Filename></Animation></State>
 </States>
 <Actions>
