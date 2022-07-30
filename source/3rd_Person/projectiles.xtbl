@@ -11475,50 +11475,11 @@
 									</Type>
 								<Branch_Jump>1</Branch_Jump>
 								</Trigger>
-							<Trigger>
-								<Type>
-									<Timed>
-										<Delay_ms>600</Delay_ms>
-										</Timed>
-									</Type>
-								</Trigger>
 							</Triggers>
 						<Drag>0.0</Drag>
 						<Effects>
 							<Effect>
 								<Effect_Name>wep_mar_fly_rkt_proj</Effect_Name>
-								<Looping>True</Looping>
-								<Parented>True</Parented>
-								<Stop_Type>Stop Looping</Stop_Type>
-								<Check_For_Obstruction>False</Check_For_Obstruction>
-								</Effect>
-							</Effects>
-						</Stage>
-					<Stage>
-						<Description>Spawn Projectiles</Description>
-						<Type>
-							<Spawn_Projectiles>
-								<Projectile>flyer_cluster_stage2</Projectile>
-								<Min_Count>5</Min_Count>
-								<Max_Count>5</Max_Count>
-								<Direction>
-									<X>0.0</X>
-									<Y>0.0</Y>
-									<Z>-1.0</Z>
-									</Direction>
-								<Max_Angle>75.0</Max_Angle>
-								<Distribute_Evenly>True</Distribute_Evenly>
-								<Min_Speed>5.0</Min_Speed>
-								<Max_Speed>10.0</Max_Speed>
-								<Distribution_Offset>180.0</Distribution_Offset>
-								</Spawn_Projectiles>
-							</Type>
-						<Gravity_Multiplier>0.0</Gravity_Multiplier>
-						<Triggers></Triggers>
-						<Drag>0.0</Drag>
-						<Effects>
-							<Effect>
-								<Effect_Name>wep_mar_fly_init</Effect_Name>
 								<Looping>True</Looping>
 								<Parented>True</Parented>
 								<Stop_Type>Stop Looping</Stop_Type>
