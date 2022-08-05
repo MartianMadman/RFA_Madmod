@@ -119,6 +119,7 @@ Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the 
 
 \Changelog v0.91b/
 -Increase return to mission area countdown timer to absurd levels to basically disable the feature.
+-Limit charge launcher max projectiles to 32 because of engine limitation.
 -Adjust lod_properties.xtbl to potentially fix more lights not working.
 -Fixed AI bugs caused by the increased weapon firing distances.
 -Changed many player animations to improve the 1st person view.
