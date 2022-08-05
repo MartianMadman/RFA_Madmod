@@ -1289,6 +1289,7 @@
 									<Delete_Old_Projectiles>False</Delete_Old_Projectiles>
 									<Force_Muzzle_Orient>False</Force_Muzzle_Orient>
 									<Launch_To_Aim_Position>False</Launch_To_Aim_Position>
+									<Max_Simultaneous_Projectiles>32</Max_Simultaneous_Projectiles>
 									<Autoaim_With_Lockon>False</Autoaim_With_Lockon>
 									<Projectile_Arc_Simulation_Time_s>1.0</Projectile_Arc_Simulation_Time_s>
 									</Launcher>
