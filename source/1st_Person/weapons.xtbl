@@ -6575,9 +6575,9 @@
 								</Shot_Type>
 							<Trigger_Type>
 								<Burst>
-									<Rounds_In_Burst>3</Rounds_In_Burst>
+									<Rounds_In_Burst>1</Rounds_In_Burst>
 									<Do_Burst_Per_Lock_On>False</Do_Burst_Per_Lock_On>
-									<Burst_Cooldown_ms>500</Burst_Cooldown_ms>
+									<Burst_Cooldown_ms>0</Burst_Cooldown_ms>
 									<Single_Burst_Only>True</Single_Burst_Only>
 									</Burst>
 								</Trigger_Type>
