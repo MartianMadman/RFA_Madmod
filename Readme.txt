@@ -123,9 +123,11 @@ Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the 
 -Adjust lod_properties.xtbl to potentially fix more lights not working.
 -Fixed AI bugs caused by the increased weapon firing distances.
 -Changed many player animations to improve the 1st person view.
+-Optimize use of projectiles from RF exo secondary fire.
 -Restore original npc burst size to fix more ai issues.
 -Optimize use of projectiles from flyer secondary fire.
 -Utilize more of the player model in 1st person.
+-Tie RF exo alt fire rate to mouse click rate.
 -Heavy walker now fires as fast as you click.
 -Fix missing visual features in 1st person.
 -Increase pre-placed salvage pickup radius.
