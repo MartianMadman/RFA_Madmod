@@ -117,7 +117,7 @@ Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the 
 -Remove tweaks to rfg_stress_controls.xtbl.
 -Add a choice between 3rd or 1st person.
 
-\Changelog v0.91b/
+\Changelog v0.9.1/
 -Increase return to mission area countdown timer to absurd levels to basically disable the feature.
 -Limit charge launcher max projectiles to 32 because of engine limitation.
 -Adjust lod_properties.xtbl to potentially fix more lights not working.
@@ -136,9 +136,14 @@ Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the 
 -Reduce ammo pickups.
 -Adjust turret view.
 
+\Changelog v0.9.2/
+-Disable homing rockets for rpg and exos because it feels too guided and removes a factor of skill.
+-Tie leo rocket launcher fire rate to mouse click rate.
+-Optimize leo rocket launcher usage of projectiles.
+
 \Issues/
 -Makes game more hardware demanding.
--Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions.
--Destructables with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
+-Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view.
+-Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
 -There seems to be some engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
