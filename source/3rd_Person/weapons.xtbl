@@ -3775,26 +3775,6 @@
 								<pain_pc_override>pain</pain_pc_override>
 								<death_pc_override>death</death_pc_override>
 								</Sounds>
-							<Lock_On>
-								<Type>Passive</Type>
-								<Max_Targets>1</Max_Targets>
-								<Lock_On_Delay_ms>0</Lock_On_Delay_ms>
-								<Locking_On_Decay_Time_ms>0</Locking_On_Decay_Time_ms>
-								<Exclusivity>None</Exclusivity>
-								<Clear_On_Trigger_Release>False</Clear_On_Trigger_Release>
-								<Show_Icons>True</Show_Icons>
-								<Near_Angles>
-									<Acquire_Lock_Angle>5.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>5.0</Locking_On_Angle>
-									<Locked_On_Angle>5.0</Locked_On_Angle>
-									</Near_Angles>
-								<Far_Angles>
-									<Acquire_Lock_Angle>5.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>5.0</Locking_On_Angle>
-									<Locked_On_Angle>5.0</Locked_On_Angle>
-									</Far_Angles>
-								<Always_Use_Closest>False</Always_Use_Closest>
-								</Lock_On>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
 							<Headshot_Multiplier>1.0</Headshot_Multiplier>
@@ -6632,26 +6612,6 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>4000</Overheat_Cool_Down_Time_ms>
 							<Desired_Interface_Position>lower right</Desired_Interface_Position>
-							<Lock_On>
-								<Type>Trigger Down</Type>
-								<Max_Targets>3</Max_Targets>
-								<Lock_On_Delay_ms>0</Lock_On_Delay_ms>
-								<Locking_On_Decay_Time_ms>0</Locking_On_Decay_Time_ms>
-								<Exclusivity>Weapon</Exclusivity>
-								<Clear_On_Trigger_Release>True</Clear_On_Trigger_Release>
-								<Show_Icons>True</Show_Icons>
-								<Near_Angles>
-									<Acquire_Lock_Angle>15</Acquire_Lock_Angle>
-									<Locking_On_Angle>15</Locking_On_Angle>
-									<Locked_On_Angle>90</Locked_On_Angle>
-									</Near_Angles>
-								<Far_Angles>
-									<Acquire_Lock_Angle>30.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>30.0</Locking_On_Angle>
-									<Locked_On_Angle>180.0</Locked_On_Angle>
-									</Far_Angles>
-								<Always_Use_Closest>False</Always_Use_Closest>
-								</Lock_On>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Sounds>
 								<sound_event>WEP_RF_EXO_PC_FIRE</sound_event>
@@ -10769,9 +10729,9 @@
 								</Shot_Type>
 							<Trigger_Type>
 								<Burst>
-									<Rounds_In_Burst>3</Rounds_In_Burst>
+									<Rounds_In_Burst>1</Rounds_In_Burst>
 									<Do_Burst_Per_Lock_On>False</Do_Burst_Per_Lock_On>
-									<Burst_Cooldown_ms>500</Burst_Cooldown_ms>
+									<Burst_Cooldown_ms>0</Burst_Cooldown_ms>
 									<Single_Burst_Only>True</Single_Burst_Only>
 									</Burst>
 								</Trigger_Type>
@@ -10807,26 +10767,6 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>4000</Overheat_Cool_Down_Time_ms>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Lock_On>
-								<Type>Trigger Down</Type>
-								<Max_Targets>3</Max_Targets>
-								<Lock_On_Delay_ms>0</Lock_On_Delay_ms>
-								<Locking_On_Decay_Time_ms>0</Locking_On_Decay_Time_ms>
-								<Exclusivity>Weapon</Exclusivity>
-								<Clear_On_Trigger_Release>True</Clear_On_Trigger_Release>
-								<Show_Icons>True</Show_Icons>
-								<Near_Angles>
-									<Acquire_Lock_Angle>30.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>30.0</Locking_On_Angle>
-									<Locked_On_Angle>180.0</Locked_On_Angle>
-									</Near_Angles>
-								<Far_Angles>
-									<Acquire_Lock_Angle>30.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>30.0</Locking_On_Angle>
-									<Locked_On_Angle>180.0</Locked_On_Angle>
-									</Far_Angles>
-								<Always_Use_Closest>False</Always_Use_Closest>
-								</Lock_On>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Sounds>
 								<sound_event>WEP_RF_EXO_PC_FIRE</sound_event>
