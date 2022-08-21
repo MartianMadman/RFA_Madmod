@@ -95,22 +95,22 @@
 			</_Editor>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>4</Medium>
-				<Easy>4</Easy>
-				<Hard>4</Hard>
-				<Insane>4</Insane>
+				<Medium>3</Medium>
+				<Easy>3</Easy>
+				<Hard>3</Hard>
+				<Insane>3</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>4</Medium>
-				<Easy>4</Easy>
-				<Hard>4</Hard>
-				<Insane>4</Insane>
+				<Medium>3</Medium>
+				<Easy>3</Easy>
+				<Hard>3</Hard>
+				<Insane>3</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>8</Medium>
-				<Easy>8</Easy>
-				<Hard>8</Hard>
-				<Insane>8</Insane>
+				<Medium>6</Medium>
+				<Easy>6</Easy>
+				<Hard>6</Hard>
+				<Insane>6</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		</Ammo>
