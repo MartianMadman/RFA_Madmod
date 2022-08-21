@@ -6,22 +6,22 @@
 		<Max_Reserve_MP>999</Max_Reserve_MP>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>3</Medium>
-				<Easy>3</Easy>
-				<Hard>3</Hard>
-				<Insane>3</Insane>
+				<Medium>4</Medium>
+				<Easy>4</Easy>
+				<Hard>4</Hard>
+				<Insane>4</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>3</Medium>
-				<Easy>3</Easy>
-				<Hard>3</Hard>
-				<Insane>3</Insane>
+				<Medium>4</Medium>
+				<Easy>4</Easy>
+				<Hard>4</Hard>
+				<Insane>4</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>6</Medium>
-				<Easy>6</Easy>
-				<Hard>6</Hard>
-				<Insane>6</Insane>
+				<Medium>8</Medium>
+				<Easy>8</Easy>
+				<Hard>8</Hard>
+				<Insane>8</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		<_Editor>
@@ -39,22 +39,22 @@
 		<Max_Reserve_MP>999</Max_Reserve_MP>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>3</Medium>
-				<Easy>3</Easy>
-				<Hard>3</Hard>
-				<Insane>3</Insane>
+				<Medium>4</Medium>
+				<Easy>4</Easy>
+				<Hard>4</Hard>
+				<Insane>4</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>3</Medium>
-				<Easy>3</Easy>
-				<Hard>3</Hard>
-				<Insane>3</Insane>
+				<Medium>4</Medium>
+				<Easy>4</Easy>
+				<Hard>4</Hard>
+				<Insane>4</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>6</Medium>
-				<Easy>6</Easy>
-				<Hard>6</Hard>
-				<Insane>6</Insane>
+				<Medium>8</Medium>
+				<Easy>8</Easy>
+				<Hard>8</Hard>
+				<Insane>8</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		</Ammo>
@@ -176,22 +176,22 @@
 		<Max_Reserve_MP>999</Max_Reserve_MP>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>60</Medium>
-				<Easy>60</Easy>
-				<Hard>60</Hard>
-				<Insane>60</Insane>
+				<Medium>40</Medium>
+				<Easy>40</Easy>
+				<Hard>40</Hard>
+				<Insane>40</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		<_Editor>
@@ -291,22 +291,22 @@
 			</_Editor>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>60</Medium>
-				<Easy>60</Easy>
-				<Hard>60</Hard>
-				<Insane>60</Insane>
+				<Medium>40</Medium>
+				<Easy>40</Easy>
+				<Hard>40</Hard>
+				<Insane>40</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		</Ammo>
@@ -316,22 +316,22 @@
 		<Max_Reserve_MP>999</Max_Reserve_MP>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>60</Medium>
-				<Easy>60</Easy>
-				<Hard>60</Hard>
-				<Insane>60</Insane>
+				<Medium>40</Medium>
+				<Easy>40</Easy>
+				<Hard>40</Hard>
+				<Insane>40</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		<_Editor>
@@ -403,22 +403,22 @@
 			</_Editor>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>60</Medium>
-				<Easy>60</Easy>
-				<Hard>60</Hard>
-				<Insane>60</Insane>
+				<Medium>40</Medium>
+				<Easy>40</Easy>
+				<Hard>40</Hard>
+				<Insane>40</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		</Ammo>
@@ -540,22 +540,22 @@
 		<Max_Reserve_MP>999</Max_Reserve_MP>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>60</Medium>
-				<Easy>60</Easy>
-				<Hard>60</Hard>
-				<Insane>60</Insane>
+				<Medium>40</Medium>
+				<Easy>40</Easy>
+				<Hard>40</Hard>
+				<Insane>40</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		<_Editor>
@@ -568,22 +568,22 @@
 		<Max_Reserve_MP>999</Max_Reserve_MP>
 		<Ammo_Pickup_Tiers>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>30</Medium>
-				<Easy>30</Easy>
-				<Hard>30</Hard>
-				<Insane>30</Insane>
+				<Medium>20</Medium>
+				<Easy>20</Easy>
+				<Hard>20</Hard>
+				<Insane>20</Insane>
 				</Ammo_Pickup_Tier>
 			<Ammo_Pickup_Tier>
-				<Medium>60</Medium>
-				<Easy>60</Easy>
-				<Hard>60</Hard>
-				<Insane>60</Insane>
+				<Medium>40</Medium>
+				<Easy>40</Easy>
+				<Hard>40</Hard>
+				<Insane>40</Insane>
 				</Ammo_Pickup_Tier>
 			</Ammo_Pickup_Tiers>
 		<_Editor>
