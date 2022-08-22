@@ -377,12 +377,12 @@
 <Action><ID>melee move</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
 <Action><ID>move equip</ID><Animation><Filename>pc_rfl_drw.animx</Filename></Animation></Action>
 <Action><ID>fire</ID><Animation><Filename>pc_rfl_sht.animx</Filename></Animation></Action>
-<Action><ID>melee air</ID><Animation><Filename>pc_rfl_ml_jmp_inair.animx</Filename></Animation></Action>
+<Action><ID>melee air</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
 <Action><ID>melee b</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
 <Action><ID>head smash</ID><Animation><Filename>pc_rfl_head_smash.animx</Filename></Animation></Action>
 <Action><ID>head punch</ID><Animation><Filename>pc_rfl_nano_kill.animx</Filename></Animation></Action>
 <Action><ID>melee move b</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
-<Action><ID>melee air b</ID><Animation><Filename>pc_rfl_ml_jmp_inair.animx</Filename></Animation></Action>
+<Action><ID>melee air b</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
 <Action><ID>fall m3</ID><Animation><Filename>pc_rfl_ms3_fall.animx</Filename></Animation></Action>
 <Action><ID>nano push</ID><Animation><Filename>pc_rfl_nano_push.animx</Filename></Animation></Action>
 <Action><ID>nano shockwave</ID><Animation><Filename>pc_rfl_nano_stasis.animx</Filename></Animation></Action>
@@ -480,7 +480,7 @@
 <Action><ID>stand to run</ID><Animation><Filename>pc_hmr_std_to_run.animx</Filename></Animation></Action>
 <Action><ID>melee move</ID><Animation><Filename>pc_hmr_mele_cmbo.animx</Filename></Animation></Action>
 <Action><ID>jump start</ID><Animation><Filename>pc_hmr_jmprun.animx</Filename></Animation></Action>
-<Action><ID>melee air</ID><Animation><Filename>pc_hmr_ml_jmp_inair.animx</Filename></Animation></Action>
+<Action><ID>melee air</ID><Animation><Filename>pc_hmr_mele_cmbo.animx</Filename></Animation></Action>
 <Action><ID>melee move b</ID><Animation><Filename>pc_hmr_melemv_b.animx</Filename></Animation></Action>
 <Action><ID>melee air b</ID><Animation><Filename>pc_hmr_melemv_b.animx</Filename></Animation></Action>
 <Action><ID>melee air c</ID><Animation><Filename>pc_hmr_melemv_b.animx</Filename></Animation></Action>
@@ -672,9 +672,9 @@
 <Action><ID>run fire nano grenade left</ID><Animation><Filename>pc_dw_nano_grnde_frwrd.animx</Filename></Animation></Action>
 <Action><ID>run fire nano grenade right</ID><Animation><Filename>pc_dw_nano_grnde_frwrd.animx</Filename></Animation></Action>
 <Action><ID>jump fire nano grenade</ID><Animation><Filename>pc_dw_jump_nano_grnde.animx</Filename></Animation></Action>
-<Action><ID>melee air</ID><Animation><Filename>pc_dw_ml_jmp_inair.animx</Filename></Animation></Action>
-<Action><ID>melee air b</ID><Animation><Filename>pc_dw_ml_jmp_inair.animx</Filename></Animation></Action>
-<Action><ID>melee air c</ID><Animation><Filename>pc_dw_ml_jmp_inair.animx</Filename></Animation></Action>
+<Action><ID>melee air</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
+<Action><ID>melee air b</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
+<Action><ID>melee air c</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
 <Action><ID>walk reload</ID><Animation><Filename>pc_dw_std_rld.animx</Filename></Animation></Action>
 <Action><ID>fall m3</ID><Animation><Filename>pc_dw_ms3_fall.animx</Filename></Animation></Action>
 <Action><ID>nano shockwave</ID><Animation><Filename>pc_dw_nano_stasis.animx</Filename></Animation></Action>
