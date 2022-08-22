@@ -158,26 +158,6 @@
 								</Sounds>
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>2000</Overheat_Cool_Down_Time_ms>
-							<Lock_On>
-								<Type>Passive</Type>
-								<Max_Targets>1</Max_Targets>
-								<Lock_On_Delay_ms>0</Lock_On_Delay_ms>
-								<Locking_On_Decay_Time_ms>0</Locking_On_Decay_Time_ms>
-								<Near_Angles>
-									<Acquire_Lock_Angle>10.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>10.0</Locking_On_Angle>
-									<Locked_On_Angle>10.0</Locked_On_Angle>
-									</Near_Angles>
-								<Far_Angles>
-									<Acquire_Lock_Angle>5.0</Acquire_Lock_Angle>
-									<Locking_On_Angle>5.0</Locking_On_Angle>
-									<Locked_On_Angle>5.0</Locked_On_Angle>
-									</Far_Angles>
-								<Exclusivity>None</Exclusivity>
-								<Clear_On_Trigger_Release>False</Clear_On_Trigger_Release>
-								<Show_Icons>False</Show_Icons>
-								<Always_Use_Closest>True</Always_Use_Closest>
-								</Lock_On>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -5888,26 +5868,6 @@
 							<Gib_Chance>0.0</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_mar_tur_guns</Icon_Name>
 							<Explosion>flyer_rapid_exp</Explosion>
-							<Lock_On>
-								<Type>Passive</Type>
-								<Max_Targets>1</Max_Targets>
-								<Lock_On_Delay_ms>0</Lock_On_Delay_ms>
-								<Locking_On_Decay_Time_ms>0</Locking_On_Decay_Time_ms>
-								<Exclusivity>Firing Mode</Exclusivity>
-								<Clear_On_Trigger_Release>False</Clear_On_Trigger_Release>
-								<Show_Icons>False</Show_Icons>
-								<Near_Angles>
-									<Acquire_Lock_Angle>4.5</Acquire_Lock_Angle>
-									<Locking_On_Angle>4.5</Locking_On_Angle>
-									<Locked_On_Angle>5.5</Locked_On_Angle>
-									</Near_Angles>
-								<Far_Angles>
-									<Acquire_Lock_Angle>4.5</Acquire_Lock_Angle>
-									<Locking_On_Angle>4.5</Locking_On_Angle>
-									<Locked_On_Angle>5.5</Locked_On_Angle>
-									</Far_Angles>
-								<Always_Use_Closest>True</Always_Use_Closest>
-								</Lock_On>
 							<Sounds>
 								<sound_event>WEP_FLYER_BLASTERS</sound_event>
 								<pain_override>pain</pain_override>
