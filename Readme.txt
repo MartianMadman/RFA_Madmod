@@ -145,6 +145,9 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Optimize use of projectiles for flyer secondary fire.
 -Optimize use of projectiles for leo rocket launcher.
 
+\Changelog v 0.9.3/
+-Disable homing projectiles for flyer and heavy walker.
+
 \Issues/
 -Makes game more hardware demanding.
 -Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view.
