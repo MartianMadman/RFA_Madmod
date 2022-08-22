@@ -88,7 +88,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Tweaks to aim_drift.xtbl and weapon_firing_patterns.xtbl.
 -Attempted to improve the AI of the aliens again.
 -Tweaked difficulty.xtbl and ammo.xtbl again.
--Fixed some odd and out of place shadows.
+-Fixed more odd and out of place shadows.
 -Doubled magnet gun pull radius.
 -Doubled repair grenade radius.
 (REVERTED)-Even more aggressive AI.
