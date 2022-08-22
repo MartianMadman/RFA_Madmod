@@ -136,8 +136,9 @@ Madmod is a large overhaul mod for Red Faction Armageddon that aims to make the 
 -Adjust turret view.
 
 \Changelog v0.9.2/
+-Slightly reduce ammo pickups for a few more weapons like the plasma beam, charge launcher, and singularity cannon.
 -Disable homing rockets for rpg and exos because it feels too guided and removes a factor of player skill.
--Slightly reduce ammo pickups for a few more weapons like the plasma beam and charge launcher.
+-Change player in air melee animations for 1st person view.
 -Tie leo rocket launcher fire rate to mouse click rate.
 -Optimize use of projectiles for flyer secondary fire.
 -Optimize use of projectiles for leo rocket launcher.
