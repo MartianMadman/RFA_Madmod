@@ -47,7 +47,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 \Changelog v0.12b/
 -Added collide_as_mover_not_with_humans flag to all gibs which allows the magnet gun to target them. Also allows physics to be applied from melee attacks.
 -Removed goon AI effects. Idk what it really does but I found it in tweak_tables.xtbl. When I set it to always be on, I found that the AI seemed dumber.
--Added casts_shadows flag to everything in gameplay_properties.xtbl, rfg_materials.xtbl, and items_3d.xtbl.
+(REVERTED)-Added casts_shadows flag to everything in gameplay_properties.xtbl, rfg_materials.xtbl, and items_3d.xtbl.
 -Increased draw distance of all dynamic lights giving the game a noticeable visual upgrade.
 (REVERTED)-Increased vertical fov to 90. New horizontal fovs are |4:3 = 106|16:9 = 120|
 -Replaced NPC death animations with ragdoll physics for some weapons.
@@ -86,7 +86,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Removed exo flinch and landing animations because they slow down the players movement.
 -Removed bigger clips and rapid blast upgrades since they are useless with this mod.
 -Tweaks to aim_drift.xtbl and weapon_firing_patterns.xtbl.
--Attempted to improve the AI of the aliens again.
+(REVERTED)-Attempted to improve the AI of the aliens again.
 -Tweaked difficulty.xtbl and ammo.xtbl again.
 -Fixed more odd and out of place shadows.
 -Doubled magnet gun pull radius.
