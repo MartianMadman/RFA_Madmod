@@ -148,7 +148,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 \Changelog v 0.9.3/
 -Remove no_auto_delete flag for spawned salvage to hopefully fix entities not always spawning.
 -Disable homing projectiles for flyer and heavy walker.
--Increase draw distances more.
+-Increase draw distances even more.
 
 \Issues/
 -Makes game more hardware demanding.
