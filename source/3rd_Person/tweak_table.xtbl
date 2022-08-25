@@ -1437,7 +1437,7 @@ Overridded by Ai_heavy_vehicle_always_cower_chance - if that is true,  this will
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Npc_use_incline_blend_tree_dist</Name>
-		<Value>9999</Value>
+		<Value>0</Value>
 		<Description>How far away from the camera before NPCs stop using incline/decline blend trees for walking, running, etc.</Description>
 		<_Editor>
 			<Category>AI</Category>
