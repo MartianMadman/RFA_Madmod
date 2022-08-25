@@ -1088,7 +1088,6 @@
 		<Touch_Sound>ITM_SALVAGE_PICKUP_MD</Touch_Sound>
 		<Item_Flags>
 			<Flag>cast_shadows</Flag>
-			<Flag>no_auto_delete</Flag>
 			<Flag>collide_as_mover</Flag>
 			</Item_Flags>
 		<Fade_Out_Distance>99999</Fade_Out_Distance>
