@@ -880,33 +880,33 @@
 </Group>
 <Group><group>remote charge</group>
 <States>
-<State><ID>stand aim</ID><Animation><Filename>pc_rcl_aim_std.animx</Filename></Animation></State>
-<State><ID>aim turn</ID><Animation><Filename>pc_rcl_aim_std.animx</Filename></Animation></State>
-<State><ID>run aim</ID><Animation><Filename>pc_rcl_aim_wlk.animx</Filename></Animation></State>
-<State><ID>run aim back</ID><Animation><Filename>pc_rcl_aim_wlk_b.animx</Filename></Animation></State>
-<State><ID>crouch aim</ID><Animation><Filename>pc_rcl_aim_crch.animx</Filename></Animation></State>
-<State><ID>run aim right</ID><Animation><Filename>pc_rcl_aim_wlk_r.animx</Filename></Animation></State>
-<State><ID>crouch wlk aim back</ID><Animation><Filename>pc_rcl_aim_crchwlk_b.animx</Filename></Animation></State>
-<State><ID>crouch wlk aim fwd</ID><Animation><Filename>pc_rcl_aim_crchwlk.animx</Filename></Animation></State>
-<State><ID>crouch wlk aim left</ID><Animation><Filename>pc_rcl_aim_crchwlk_l.animx</Filename></Animation></State>
-<State><ID>crouch wlk aim right</ID><Animation><Filename>pc_rcl_aim_crchwlk_r.animx</Filename></Animation></State>
-<State><ID>run aim left</ID><Animation><Filename>pc_rcl_aim_wlk_l.animx</Filename></Animation></State>
-<State><ID>walk back aim</ID><Animation><Filename>pc_rcl_aim_wlk_b.animx</Filename></Animation></State>
-<State><ID>walk left aim</ID><Animation><Filename>pc_rcl_aim_wlk_l.animx</Filename></Animation></State>
-<State><ID>walk right aim</ID><Animation><Filename>pc_rcl_aim_wlk_r.animx</Filename></Animation></State>
-<State><ID>walk aim</ID><Animation><Filename>pc_rcl_aim_wlk.animx</Filename></Animation></State>
-<State><ID>crouch aim turn</ID><Animation><Filename>pc_rcl_aim_crch.animx</Filename></Animation></State>
-<State><ID>fine aim walk back</ID><Animation><Filename>pc_rcl_aim_wlk_b.animx</Filename></Animation></State>
-<State><ID>fine aim walk left</ID><Animation><Filename>pc_rcl_aim_wlk_l.animx</Filename></Animation></State>
-<State><ID>fine aim walk right</ID><Animation><Filename>pc_rcl_aim_wlk_r.animx</Filename></Animation></State>
-<State><ID>fine aim</ID><Animation><Filename>pc_rcl_aim_std.animx</Filename></Animation></State>
-<State><ID>fine aim crouch</ID><Animation><Filename>pc_rcl_aim_crch.animx</Filename></Animation></State>
-<State><ID>fine aim crouch walk</ID><Animation><Filename>pc_rcl_aim_crchwlk.animx</Filename></Animation></State>
-<State><ID>fine aim crouch walk back</ID><Animation><Filename>pc_rcl_aim_crchwlk_b.animx</Filename></Animation></State>
-<State><ID>fine aim crouch walk left</ID><Animation><Filename>pc_rcl_aim_crchwlk_l.animx</Filename></Animation></State>
-<State><ID>fine aim crouch walk right</ID><Animation><Filename>pc_rcl_aim_crchwlk_r.animx</Filename></Animation></State>
-<State><ID>fine aim walk</ID><Animation><Filename>pc_rcl_aim_wlk.animx</Filename></Animation></State>
-<State><ID>fine aim turn</ID><Animation><Filename>pc_rcl_aim_std.animx</Filename></Animation></State>
+<State><ID>stand aim</ID><Animation><Filename>pc_spray_fn_aim_std.animx</Filename></Animation></State>
+<State><ID>aim turn</ID><Animation><Filename>pc_spray_fn_aim_std.animx</Filename></Animation></State>
+<State><ID>run aim</ID><Animation><Filename>pc_spray_fn_aim_wlk.animx</Filename></Animation></State>
+<State><ID>run aim back</ID><Animation><Filename>pc_spray_fn_aim_wlk_b.animx</Filename></Animation></State>
+<State><ID>crouch aim</ID><Animation><Filename>pc_rfl_aim_crch.animx</Filename></Animation></State>
+<State><ID>run aim right</ID><Animation><Filename>pc_spray_fn_aim_wlk_r.animx</Filename></Animation></State>
+<State><ID>crouch wlk aim back</ID><Animation><Filename>pc_rfl_aim_crchwlk_bck.animx</Filename></Animation></State>
+<State><ID>crouch wlk aim fwd</ID><Animation><Filename>pc_rfl_aim_crchwlk.animx</Filename></Animation></State>
+<State><ID>crouch wlk aim left</ID><Animation><Filename>pc_rfl_aim_crchwlk_l.animx</Filename></Animation></State>
+<State><ID>crouch wlk aim right</ID><Animation><Filename>pc_rfl_aim_crchwlk_r.animx</Filename></Animation></State>
+<State><ID>run aim left</ID><Animation><Filename>pc_spray_fn_aim_wlk_l.animx</Filename></Animation></State>
+<State><ID>walk back aim</ID><Animation><Filename>pc_spray_fn_aim_wlk_b.animx</Filename></Animation></State>
+<State><ID>walk left aim</ID><Animation><Filename>pc_spray_fn_aim_wlk_l.animx</Filename></Animation></State>
+<State><ID>walk right aim</ID><Animation><Filename>pc_spray_fn_aim_wlk_r.animx</Filename></Animation></State>
+<State><ID>walk aim</ID><Animation><Filename>pc_spray_fn_aim_wlk.animx</Filename></Animation></State>
+<State><ID>crouch aim turn</ID><Animation><Filename>pc_rfl_aim_crch.animx</Filename></Animation></State>
+<State><ID>fine aim walk back</ID><Animation><Filename>pc_spray_fn_aim_wlk_b.animx</Filename></Animation></State>
+<State><ID>fine aim walk left</ID><Animation><Filename>pc_spray_fn_aim_wlk_l.animx</Filename></Animation></State>
+<State><ID>fine aim walk right</ID><Animation><Filename>pc_spray_fn_aim_wlk_r.animx</Filename></Animation></State>
+<State><ID>fine aim</ID><Animation><Filename>pc_spray_fn_aim_std.animx</Filename></Animation></State>
+<State><ID>fine aim crouch</ID><Animation><Filename>pc_rfl_aim_crch.animx</Filename></Animation></State>
+<State><ID>fine aim crouch walk</ID><Animation><Filename>pc_rfl_aim_crchwlk.animx</Filename></Animation></State>
+<State><ID>fine aim crouch walk back</ID><Animation><Filename>pc_rfl_aim_crchwlk_bck.animx</Filename></Animation></State>
+<State><ID>fine aim crouch walk left</ID><Animation><Filename>pc_rfl_aim_crchwlk_l.animx</Filename></Animation></State>
+<State><ID>fine aim crouch walk right</ID><Animation><Filename>pc_rfl_aim_crchwlk_r.animx</Filename></Animation></State>
+<State><ID>fine aim walk</ID><Animation><Filename>pc_spray_fn_aim_wlk.animx</Filename></Animation></State>
+<State><ID>fine aim turn</ID><Animation><Filename>pc_spray_fn_aim_std.animx</Filename></Animation></State>
 </States>
 <Actions>
 <Action><ID>reload</ID><Animation><Filename>pc_rfl_rld_rc_launcher.animx</Filename></Animation></Action>
@@ -937,14 +937,14 @@
 </Group>
 <Group><group>Shotgun</group>
 <States>
-<State><ID>aim turn</ID><Animation><Filename>pc_shtgn_std.animx</Filename></Animation></State>
+<State><ID>aim turn</ID><Animation><Filename>pc_spray_fn_aim_std.animx</Filename></Animation></State>
 <State><ID>crouch aim</ID><Animation><Filename>pc_rfl_aim_crch.animx</Filename></Animation></State>
 <State><ID>crouch aim turn</ID><Animation><Filename>pc_rfl_aim_crch.animx</Filename></Animation></State>
 <State><ID>crouch wlk aim back</ID><Animation><Filename>pc_rfl_aim_crchwlk_bck.animx</Filename></Animation></State>
 <State><ID>crouch wlk aim fwd</ID><Animation><Filename>pc_rfl_aim_crchwlk.animx</Filename></Animation></State>
 <State><ID>crouch wlk aim left</ID><Animation><Filename>pc_rfl_aim_crchwlk_l.animx</Filename></Animation></State>
 <State><ID>crouch wlk aim right</ID><Animation><Filename>pc_rfl_aim_crchwlk_r.animx</Filename></Animation></State>
-<State><ID>fine aim</ID><Animation><Filename>pc_shtgn_std.animx</Filename></Animation></State>
+<State><ID>fine aim</ID><Animation><Filename>pc_spray_fn_aim_std.animx</Filename></Animation></State>
 <State><ID>fine aim crouch</ID><Animation><Filename>pc_rfl_aim_crch.animx</Filename></Animation></State>
 <State><ID>fine aim crouch walk</ID><Animation><Filename>pc_rfl_aim_crchwlk.animx</Filename></Animation></State>
 <State><ID>fine aim crouch walk back</ID><Animation><Filename>pc_rfl_aim_crchwlk_bck.animx</Filename></Animation></State>
