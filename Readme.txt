@@ -145,7 +145,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Optimize use of projectiles for flyer secondary fire.
 -Optimize use of projectiles for leo rocket launcher.
 
-\Changelog v 0.9.3/
+\Changelog v0.9.3/
 -Remove no_auto_delete flag for spawned salvage to hopefully fix entities not always spawning.
 -Disable homing projectiles for flyer and heavy walker.
 
