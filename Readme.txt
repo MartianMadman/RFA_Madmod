@@ -47,7 +47,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 \Changelog v0.12b/
 -Added collide_as_mover_not_with_humans flag to all gibs which allows the magnet gun to target them. Also allows physics to be applied from melee attacks.
 -Removed goon AI effects. Idk what it really does but I found it in tweak_tables.xtbl. When I set it to always be on, I found that the AI seemed dumber.
-(REVERTED)-Added casts_shadows flag to everything in gameplay_properties.xtbl, rfg_materials.xtbl, and items_3d.xtbl.
+-Added casts_shadows flag to everything in gameplay_properties.xtbl, rfg_materials.xtbl, and items_3d.xtbl.
 -Increased draw distance of all dynamic lights giving the game a noticeable visual upgrade.
 (REVERTED)-Increased vertical fov to 90. New horizontal fovs are |4:3 = 106|16:9 = 120|
 -Replaced NPC death animations with ragdoll physics for some weapons.
@@ -86,7 +86,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Removed exo flinch and landing animations because they slow down the players movement.
 -Removed bigger clips and rapid blast upgrades since they are useless with this mod.
 -Tweaks to aim_drift.xtbl and weapon_firing_patterns.xtbl.
-(REVERTED)-Attempted to improve the AI of the aliens again.
+-Attempted to improve the AI of the aliens again.
 -Tweaked difficulty.xtbl and ammo.xtbl again.
 -Fixed more odd and out of place shadows.
 -Doubled magnet gun pull radius.
@@ -152,7 +152,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 
 \Issues/
 -Makes game more hardware demanding.
--Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view.
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
--There seems to be some engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
+-Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view.
+-There is a engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
