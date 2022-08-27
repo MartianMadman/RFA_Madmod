@@ -116,7 +116,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Fix certain weapons slowing player movement speed while being fired.
 -Tweaks to ammo.xtbl and lod_properties.xtbl again.
 -Fix startup crash on publicbeta version of RFA.
--Remove tweaks to rfg_stress_controls.xtbl.
+(REVERTED)-Remove tweaks to rfg_stress_controls.xtbl.
 -Add a choice between 3rd or 1st person.
 
 \Changelog v0.9.1/
