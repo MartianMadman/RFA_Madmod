@@ -150,6 +150,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Change shotgun and charge launcher player animations for 1st person view.
 -Add alternate version of Madmod optimized for older computers.
 -Disable homing projectiles for flyer and heavy walker.
+-Redo rfg_stress_controls.xtbl tweaks.
 -Increase draw distances even more.
 -Fix more potential ai issues.
 
