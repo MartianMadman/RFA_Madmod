@@ -150,6 +150,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Change shotgun and charge launcher player animations animation.
 -Disable homing projectiles for flyer and heavy walker.
 -Increase draw distances even more.
+-Fix more potential ai issues.
 
 \Issues/
 -Makes game more hardware demanding.
