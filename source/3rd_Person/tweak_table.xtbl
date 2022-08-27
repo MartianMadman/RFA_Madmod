@@ -1389,7 +1389,7 @@ Overridded by Ai_heavy_vehicle_always_cower_chance - if that is true,  this will
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Combat_reposition_distance</Name>
-		<Value>99.0</Value>
+		<Value>10.0</Value>
 		<Description>Distance an NPC will attempt to move for the combat reposition action</Description>
 		<_Editor>
 			<Category>AI</Category>
@@ -1737,7 +1737,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Ai_remote_charge_panic_chance</Name>
-		<Value>75</Value>
+		<Value>100</Value>
 		<Description>Chance the AI will panic when a remote charge attaches to them.</Description>
 		<_Editor>
 			<Category>AI:Behavioral Persona</Category>
@@ -3541,7 +3541,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Ambush_land_distance</Name>
-		<Value>10</Value>
+		<Value>12</Value>
 		<Description>Distance away from a target an ambushing NPC will attempt to land in order to attack</Description>
 		<_Editor>
 			<Category>AI</Category>
