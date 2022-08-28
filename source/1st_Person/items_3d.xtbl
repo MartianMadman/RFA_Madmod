@@ -1946,7 +1946,7 @@
 		<streaming_category>Environmental</streaming_category>
 		<Mass>20.0</Mass>
 		<Item_Flags>
-			<Flag>collide_as_box</Flag>
+			<Flag>collide_as_mover</Flag>
 			<Flag>no_auto_delete</Flag>
 			<Flag>spin</Flag>
 			<Flag>no_pickup_delete</Flag>
@@ -1982,7 +1982,7 @@
 		<streaming_category>Environmental</streaming_category>
 		<Mass>20.0</Mass>
 		<Item_Flags>
-			<Flag>collide_as_box</Flag>
+			<Flag>collide_as_mover</Flag>
 			<Flag>no_auto_delete</Flag>
 			<Flag>spin</Flag>
 			<Flag>no_pickup_delete</Flag>
@@ -2018,7 +2018,7 @@
 		<streaming_category>Environmental</streaming_category>
 		<Mass>20.0</Mass>
 		<Item_Flags>
-			<Flag>collide_as_box</Flag>
+			<Flag>collide_as_mover</Flag>
 			<Flag>no_auto_delete</Flag>
 			<Flag>spin</Flag>
 			<Flag>no_pickup_delete</Flag>
