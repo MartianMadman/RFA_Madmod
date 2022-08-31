@@ -255,7 +255,7 @@
 		</camera_view>
 	<camera_view>
 		<Name>normal</Name>
-		<change_view_time>250</change_view_time>
+		<change_view_time>225</change_view_time>
 		<distance>0.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
@@ -288,7 +288,7 @@
 		</camera_view>
 	<camera_view>
 		<Name>normal_old</Name>
-		<change_view_time>325</change_view_time>
+		<change_view_time>225</change_view_time>
 		<distance>0.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
