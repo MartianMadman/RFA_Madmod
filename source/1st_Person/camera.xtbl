@@ -3,7 +3,7 @@
 	<camera_view>
 		<Name>normal_crouch</Name>
 		<change_view_time>325</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -24,11 +24,11 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.18</Y>
-			<Z>0.7</Z>
+			<Z>0.69</Z>
 			</offset>
 		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		<fov_min>75</fov_min>
@@ -36,7 +36,7 @@
 	<camera_view>
 		<Name>fine_aim_crouch</Name>
 		<change_view_time>150</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -57,18 +57,18 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.18</Y>
-			<Z>0.7</Z>
+			<Z>0.69</Z>
 			</offset>
 		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		</camera_view>
 	<camera_view>
 		<Name>fine_aim_turret</Name>
 		<change_view_time>150</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -89,18 +89,18 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.0</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		</camera_view>
 	<camera_view>
 		<Name>scope</Name>
 		<change_view_time>200</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -121,18 +121,18 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		</camera_view>
 	<camera_view>
 		<Name>scope_crouch</Name>
 		<change_view_time>200</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -153,18 +153,18 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.18</Y>
-			<Z>0.7</Z>
+			<Z>0.69</Z>
 			</offset>
 		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		</camera_view>
 	<camera_view>
 		<Name>sprint</Name>
 		<change_view_time>500</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -185,11 +185,11 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		<fov_min>75</fov_min>
@@ -216,15 +216,15 @@
 		<z_offset_adjust_up>0</z_offset_adjust_up>
 		<z_offset_adjust_down>0</z_offset_adjust_down>
 		<out_time_override>1500</out_time_override>
-		<dist_adjust_up>-0.01</dist_adjust_up>
-		<dist_adjust_down>-0.01</dist_adjust_down>
+		<dist_adjust_up>0.0</dist_adjust_up>
+		<dist_adjust_down>0.0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		<fov_min>75</fov_min>
 		</camera_view>
 	<camera_view>
 		<Name>fine_aim</Name>
 		<change_view_time>200</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -245,18 +245,18 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		</camera_view>
 	<camera_view>
 		<Name>normal</Name>
 		<change_view_time>225</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -277,11 +277,11 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		<fov_min>75</fov_min>
@@ -289,7 +289,7 @@
 	<camera_view>
 		<Name>normal_old</Name>
 		<change_view_time>225</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -310,11 +310,11 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		<fov_min>75</fov_min>
@@ -322,7 +322,7 @@
 	<camera_view>
 		<Name>fine_aim_old</Name>
 		<change_view_time>200</change_view_time>
-		<distance>0.0</distance>
+		<distance>-0.01</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -343,11 +343,11 @@
 		<offset>
 			<X>0.07</X>
 			<Y>1.79</Y>
-			<Z>0.5</Z>
+			<Z>0.49</Z>
 			</offset>
 		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
-		<dist_adjust_up>-0.01</dist_adjust_up>
+		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
 		<Lock_Camera>False</Lock_Camera>
 		</camera_view>
