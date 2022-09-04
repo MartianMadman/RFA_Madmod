@@ -159,8 +159,9 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Fix ammo box collision bug. Issue caused by previous update.
 
 \Changelog v0.9.4/
--Slightly reduce lighting draw distances for lower-specs branch.
 -Change dual pistols player jump animation for 1st person view.
+-Slightly reduce lighting draw distances for lower-specs.
+-Increase draw distances even more for default-specs.
 -Improve player model clipping for 1st person view.
 -Increase crouch to stand view switch speed.
 
