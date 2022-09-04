@@ -632,7 +632,7 @@
 <Action><ID>free running hop over right</ID><Animation><Filename>pc_dw_frrn_hpovr_lo_r.animx</Filename></Animation></Action>
 <Action><ID>hop turn left</ID><Animation><Filename>pc_rfl_hop_trn_r.animx</Filename></Animation><Flags><Flag>Mirror</Flag></Flags></Action>
 <Action><ID>hop turn right</ID><Animation><Filename>pc_rfl_hop_trn_r.animx</Filename></Animation></Action>
-<Action><ID>jump start</ID><Animation><Filename>pc_dw_aim_jmp.animx</Filename></Animation></Action>
+<Action><ID>jump start</ID><Animation><Filename>pc_rfl_aim_jmprun.animx</Filename></Animation></Action>
 <Action><ID>melee</ID><Animation><Filename>pc_rfl_ml.animx</Filename></Animation></Action>
 <Action><ID>reload</ID><Animation><Filename>pc_dw_std_rld.animx</Filename></Animation></Action>
 <Action><ID>run fire</ID><Animation><Filename>pc_dw_walkfire.animx</Filename></Animation></Action>
@@ -659,7 +659,7 @@
 <Action><ID>fire</ID><Animation><Filename>pc_dw_standfire.animx</Filename></Animation></Action>
 <Action><ID>melee b</ID><Animation><Filename>pc_dw_nano_mele.animx</Filename></Animation></Action>
 <Action><ID>melee move b</ID><Animation><Filename>pc_dw_nano_mele.animx</Filename></Animation></Action>
-<Action><ID>jump start aim</ID><Animation><Filename>pc_dw_aim_jmp.animx</Filename></Animation></Action>
+<Action><ID>jump start aim</ID><Animation><Filename>pc_rfl_aim_jmprun.animx</Filename></Animation></Action>
 <Action><ID>head punch</ID><Animation><Filename>pc_dw_nano_kill.animx</Filename></Animation></Action>
 <Action><ID>crouch fire nano grenade</ID><Animation><Filename>pc_dw_crch_nano_grnde.animx</Filename></Animation></Action>
 <Action><ID>crouch walk fire nano grenade back</ID><Animation><Filename>pc_dw_crch_nano_grnd_f.animx</Filename></Animation></Action>
