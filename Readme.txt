@@ -169,3 +169,10 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
 -Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view.
 -There is a engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
+
+\Installation/NOT FOR GITHUB!
+There are two versions of this mod, default-specs is for modern computers while lower-specs is for older computers.
+
+For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
+
+For advanced users you can pack .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Raw contains the modified .xtbl files of this mod.
