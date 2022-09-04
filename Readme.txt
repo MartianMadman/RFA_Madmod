@@ -158,6 +158,11 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 \Changelog v0.9.31/
 -Fix ammo box collision bug. Issue caused by previous update.
 
+\Changelog v0.9.4/
+-Improve collision physics for weapon pickups. Can now be targeted by magnet gun and collides with geo debris.
+-Improve player model clipping for 1st person view.
+-Increase crouch to stand view switch speed.
+
 \Issues/
 -Makes game more hardware demanding.
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
