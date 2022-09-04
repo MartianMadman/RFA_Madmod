@@ -417,7 +417,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -511,7 +510,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -732,7 +730,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -831,7 +828,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -871,7 +867,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -943,7 +938,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -1014,7 +1008,6 @@
 			</Touch_Script>
 		<Item_Flags>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>spin</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
@@ -1171,7 +1164,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -1245,7 +1237,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -1298,7 +1289,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -1350,7 +1340,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -1773,7 +1762,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -1840,7 +1828,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -1883,7 +1870,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -2384,7 +2370,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -2921,7 +2906,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -2974,7 +2958,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -3159,7 +3142,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -3552,7 +3534,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -3602,7 +3583,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -5399,7 +5379,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -5458,7 +5437,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -5536,7 +5514,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -6219,7 +6196,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -6705,7 +6681,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -6757,7 +6732,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -6811,7 +6785,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -6856,7 +6829,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -7501,9 +7473,9 @@
 			</_Editor>
 		<Spin_Time>5000</Spin_Time>
 		<Item_Flags>
+			<Flag>collide_as_box</Flag>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
@@ -7518,8 +7490,8 @@
 		<Name>singularity_bomb</Name>
 		<Item_Flags>
 			<Flag>spin</Flag>
+			<Flag>collide_as_box</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -8285,7 +8257,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
@@ -8342,7 +8313,6 @@
 		<Item_Flags>
 			<Flag>spin</Flag>
 			<Flag>high_res_map</Flag>
-			<Flag>collide_as_mover_not_with_humans</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
