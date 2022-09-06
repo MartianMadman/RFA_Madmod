@@ -66,7 +66,7 @@
 		</LOD>
 	<LOD>
 		<Name>light_large</Name>
-		<lod_start_fade_distance>175</lod_start_fade_distance>
+		<lod_start_fade_distance>150</lod_start_fade_distance>
 		<lod_fade_duration>3000</lod_fade_duration>
 		<_Editor>
 			<Category>Entries:lighting_LOD</Category>

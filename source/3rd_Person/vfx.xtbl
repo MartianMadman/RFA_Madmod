@@ -154,8 +154,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -215,8 +215,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -235,8 +235,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -255,8 +255,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -274,8 +274,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -294,8 +294,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -343,7 +343,7 @@
 			</_Editor>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -487,8 +487,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -506,8 +506,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -538,8 +538,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -557,8 +557,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -576,8 +576,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -595,8 +595,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -616,6 +616,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_minecart</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>wep_lav_turret_muzz</Name>
@@ -640,8 +647,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1061,6 +1068,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_rot_grn</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_rot_yel</Name>
@@ -1073,6 +1087,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_rot_yel</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_rot_red</Name>
@@ -1085,6 +1106,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_rot_red</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>gibs_creeper</Name>
@@ -1111,6 +1139,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:mar_glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>wep_acid_spit_trail</Name>
@@ -1194,13 +1229,13 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -1218,13 +1253,13 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -1244,13 +1279,13 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -1378,8 +1413,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -1401,8 +1436,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -1424,8 +1459,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -1447,8 +1482,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -1520,8 +1555,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1540,8 +1575,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1560,12 +1595,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1584,12 +1619,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1605,7 +1640,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>200</Distance>
+				<Distance>2000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -1693,8 +1728,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1713,7 +1748,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>200</Distance>
+				<Distance>2000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -1735,8 +1770,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1779,12 +1814,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>15</Distance>
+				<Distance>150</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>False</Restore>
 				</Distance>
 			</LOD>
@@ -1803,7 +1838,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>200</Distance>
+				<Distance>2000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -1822,7 +1857,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>400</Distance>
+				<Distance>4000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -1934,8 +1969,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -1954,8 +1989,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>65</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>650</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2078,8 +2113,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2098,8 +2133,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2144,8 +2179,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>False</Restore>
 				</Distance>
 			<Update>
@@ -2266,7 +2301,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>10</Distance>
+				<Distance>100</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2285,12 +2320,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>10</Distance>
+				<Distance>100</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2333,7 +2368,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2351,7 +2386,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2369,7 +2404,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2387,7 +2422,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2405,7 +2440,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2423,7 +2458,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2441,7 +2476,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2459,7 +2494,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2478,7 +2513,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>25</Distance>
+				<Distance>250</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2497,7 +2532,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>25</Distance>
+				<Distance>250</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2516,12 +2551,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2540,12 +2575,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2603,12 +2638,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2627,12 +2662,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2651,12 +2686,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2675,12 +2710,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2699,12 +2734,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2723,7 +2758,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>1000</Distance>
+				<Distance>10000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -2784,8 +2819,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -2856,8 +2891,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2876,8 +2911,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2896,8 +2931,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>230</Fading_start>
-				<Fading_end>330</Fading_end>
+				<Fading_start>2300</Fading_start>
+				<Fading_end>3300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2916,8 +2951,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -2939,8 +2974,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -2972,8 +3007,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -2995,8 +3030,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -3018,12 +3053,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3042,12 +3077,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>1000</Distance>
+				<Distance>10000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3066,12 +3101,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>1000</Distance>
+				<Distance>10000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3090,12 +3125,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3114,12 +3149,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3138,7 +3173,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>25</Distance>
+				<Distance>250</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3180,12 +3215,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3204,12 +3239,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3228,12 +3263,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3252,12 +3287,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>1000</Distance>
+				<Distance>10000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3276,7 +3311,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>500</Distance>
+				<Distance>5000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3308,7 +3343,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>25</Distance>
+				<Distance>250</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3327,12 +3362,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>95</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>950</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3351,8 +3386,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3371,7 +3406,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>45</Distance>
+				<Distance>450</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3390,7 +3425,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>30</Distance>
+				<Distance>300</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3409,7 +3444,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3427,7 +3462,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3446,7 +3481,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3489,7 +3524,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>45</Distance>
+				<Distance>450</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -3533,7 +3568,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>35</Distance>
+				<Distance>350</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -3571,8 +3606,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3591,8 +3626,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3611,8 +3646,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -3669,16 +3704,16 @@
 		<Radius>80</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
 				<Minimum_time>10</Minimum_time>
 				</Update>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -3696,16 +3731,16 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
 				<Minimum_time>10</Minimum_time>
 				</Update>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -3724,8 +3759,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -3759,8 +3794,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -3821,12 +3856,12 @@
 			</_Editor>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -3845,7 +3880,7 @@
 			</_Editor>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -4018,8 +4053,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -4072,7 +4107,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>400</Distance>
+				<Distance>4000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -4124,8 +4159,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -4147,8 +4182,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -4173,8 +4208,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -4325,8 +4360,8 @@
 		<Radius>100</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4345,8 +4380,8 @@
 		<Radius>100</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4365,8 +4400,8 @@
 		<Radius>100</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4397,8 +4432,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4417,8 +4452,8 @@
 		<Radius>15</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4437,8 +4472,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>10</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>100</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4457,8 +4492,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4477,8 +4512,8 @@
 		<Radius>50</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>35</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>350</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4492,6 +4527,13 @@
 		<Radius>8</Radius>
 		<Singleplayer>True</Singleplayer>
 		<Multiplayer>True</Multiplayer>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		<_Editor>
 			<Category>Entries:Environment:Exterior:Glares</Category>
 			</_Editor>
@@ -4505,6 +4547,13 @@
 		<Radius>8</Radius>
 		<Singleplayer>True</Singleplayer>
 		<Multiplayer>True</Multiplayer>
+		<LOD>
+			<Distance>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		<_Editor>
 			<Category>Entries:Environment:Exterior:Glares</Category>
 			</_Editor>
@@ -4520,6 +4569,13 @@
 		<_Editor>
 			<Category>Entries:Environment:Exterior:Glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_light_ray_lg</Name>
@@ -4532,6 +4588,13 @@
 		<_Editor>
 			<Category>Entries:Environment:Exterior:Glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_ice_vista</Name>
@@ -4560,8 +4623,8 @@
 		<Radius>40</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>300</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>3000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4580,8 +4643,8 @@
 		<Radius>30</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>160</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>1600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4600,8 +4663,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -4623,8 +4686,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>10</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>100</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4694,8 +4757,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4713,8 +4776,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4757,8 +4820,8 @@
 		<Radius>50</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>300</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>3000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -4945,7 +5008,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>400</Distance>
+				<Distance>4000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -5018,13 +5081,13 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -5043,13 +5106,13 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -5070,13 +5133,13 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -5096,8 +5159,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5166,7 +5229,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>400</Distance>
+				<Distance>4000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -5222,6 +5285,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_md</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_md_blue</Name>
@@ -5235,6 +5305,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_md</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_md_red</Name>
@@ -5248,6 +5325,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_md</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_md_yellow</Name>
@@ -5261,6 +5345,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_md</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_md_white_cone</Name>
@@ -5274,6 +5365,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_md</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_steam_vent_low</Name>
@@ -5289,8 +5387,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5309,8 +5407,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5328,6 +5426,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>player_light_01</Name>
@@ -5433,8 +5538,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5453,8 +5558,8 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5473,8 +5578,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5548,8 +5653,8 @@
 		<Radius>30</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5568,8 +5673,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5588,8 +5693,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>300</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>3000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5605,12 +5710,12 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>15</Distance>
+				<Distance>150</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>False</Restore>
 				</Distance>
 			</LOD>
@@ -5632,8 +5737,8 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5653,8 +5758,8 @@
 		<Radius>40</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5673,8 +5778,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>200</Fading_start>
-				<Fading_end>300</Fading_end>
+				<Fading_start>2000</Fading_start>
+				<Fading_end>3000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5754,6 +5859,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_sm_blue_flash</Name>
@@ -5766,6 +5878,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_sm_orange_flash</Name>
@@ -5778,6 +5897,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_sm_green_flash</Name>
@@ -5790,6 +5916,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_sm_white_flash</Name>
@@ -5802,6 +5935,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>prop_glare_sconce</Name>
@@ -5814,6 +5954,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:prop_glare_sconce</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_ice_fog_rising</Name>
@@ -5829,8 +5976,8 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5847,6 +5994,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_gondola</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_lightpole_white</Name>
@@ -5860,6 +6014,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_lightpoles</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_steam_chasm</Name>
@@ -5875,8 +6036,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -5894,7 +6055,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -5912,7 +6073,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -5987,8 +6148,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6010,8 +6171,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6027,8 +6188,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6075,8 +6236,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>200</Fading_start>
-				<Fading_end>300</Fading_end>
+				<Fading_start>2000</Fading_start>
+				<Fading_end>3000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6095,8 +6256,8 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6113,6 +6274,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_searchlight</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>ice_dripping_water</Name>
@@ -6128,8 +6296,8 @@
 		<Radius>15</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6149,8 +6317,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6167,6 +6335,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_flood</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_drip_splash</Name>
@@ -6181,8 +6356,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6268,8 +6443,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6287,8 +6462,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6306,8 +6481,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6325,8 +6500,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6344,8 +6519,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6363,8 +6538,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6395,8 +6570,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6414,8 +6589,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6433,8 +6608,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6462,7 +6637,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>200</Distance>
+				<Distance>2000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -6481,7 +6656,7 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>200</Distance>
+				<Distance>2000</Distance>
 				<View>False</View>
 				</Spawning>
 			</LOD>
@@ -6599,8 +6774,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6618,8 +6793,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6637,8 +6812,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6656,8 +6831,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6675,8 +6850,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6708,8 +6883,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6726,6 +6901,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_flood</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>cus_ind_steam_vent</Name>
@@ -6741,8 +6923,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6761,8 +6943,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6781,8 +6963,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6801,8 +6983,8 @@
 		<Radius>1</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6821,8 +7003,8 @@
 		<Radius>1</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6841,8 +7023,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6860,7 +7042,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -6879,8 +7061,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6898,7 +7080,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -6929,8 +7111,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6961,8 +7143,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -6994,8 +7176,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7052,8 +7234,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7177,8 +7359,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -7200,8 +7382,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -7330,8 +7512,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7350,8 +7532,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7383,8 +7565,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7414,6 +7596,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:mar_glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_mar_simple_a</Name>
@@ -7427,6 +7616,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:mar_glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>100</Fading_start>
+				<Fading_end>200</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_mag_vista_sm</Name>
@@ -7454,7 +7650,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -7510,7 +7706,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -7528,7 +7724,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -7599,8 +7795,8 @@
 		<Radius>15</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7645,8 +7841,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>180</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1800</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7702,8 +7898,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7722,8 +7918,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7744,8 +7940,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7763,8 +7959,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7847,8 +8043,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -7866,8 +8062,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8016,8 +8212,8 @@
 		<Start_time>2</Start_time>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8049,8 +8245,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8069,8 +8265,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8087,6 +8283,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:mar_glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_mar_simple_dbl</Name>
@@ -8100,6 +8303,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:mar_glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>20</Fading_start>
+				<Fading_end>50</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>glare_sm_wrm_cone_simple</Name>
@@ -8113,6 +8323,13 @@
 		<_Editor>
 			<Category>Entries:glares:props:glare_sm</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_mag_vista_med</Name>
@@ -8180,8 +8397,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>180</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1800</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8356,8 +8573,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8376,8 +8593,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8406,8 +8623,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8427,8 +8644,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>25</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>250</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8448,8 +8665,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8468,8 +8685,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8492,8 +8709,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8512,8 +8729,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8532,8 +8749,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8552,8 +8769,8 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8572,8 +8789,8 @@
 		<Radius>10</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8592,8 +8809,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8652,8 +8869,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>10</Fading_start>
-				<Fading_end>15</Fading_end>
+				<Fading_start>100</Fading_start>
+				<Fading_end>150</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8671,8 +8888,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>10</Fading_start>
-				<Fading_end>15</Fading_end>
+				<Fading_start>100</Fading_start>
+				<Fading_end>150</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8720,8 +8937,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8753,8 +8970,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8806,8 +9023,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8825,8 +9042,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8844,8 +9061,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8863,8 +9080,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8882,8 +9099,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8901,8 +9118,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8920,8 +9137,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -8942,8 +9159,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9045,8 +9262,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9068,8 +9285,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>25</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>250</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9088,8 +9305,8 @@
 		<Radius>2</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9104,8 +9321,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9123,8 +9340,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>25</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>250</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9147,8 +9364,8 @@
 		<Start_time>2</Start_time>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9163,8 +9380,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>25</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>250</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9182,8 +9399,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>25</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>250</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9287,8 +9504,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>140</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9322,8 +9539,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9341,8 +9558,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9360,8 +9577,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9377,8 +9594,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9399,7 +9616,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -9440,8 +9657,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9462,13 +9679,13 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<View>False</View>
-			<Fading_start>100</Fading_start>
-			<Fading_end>200</Fading_end>
+			<Fading_start>1000</Fading_start>
+			<Fading_end>2000</Fading_end>
 			<Restore>True</Restore>
 			<Minimum_time>0.0</Minimum_time>
 			</LOD>
@@ -9523,8 +9740,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9540,8 +9757,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9588,8 +9805,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9608,8 +9825,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9627,8 +9844,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9647,8 +9864,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>180</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1800</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9668,8 +9885,8 @@
 		<Radius>15</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9687,8 +9904,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9706,8 +9923,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9740,8 +9957,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>25</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>250</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9772,8 +9989,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9791,8 +10008,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9810,8 +10027,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9829,8 +10046,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9848,8 +10065,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9920,8 +10137,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9952,8 +10169,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9971,8 +10188,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9987,8 +10204,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10020,8 +10237,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10043,8 +10260,8 @@
 		<Radius>30</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>160</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>1600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10062,8 +10279,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10143,8 +10360,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10238,8 +10455,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10257,8 +10474,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10302,8 +10519,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>140</Fading_start>
-				<Fading_end>160</Fading_end>
+				<Fading_start>1400</Fading_start>
+				<Fading_end>1600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10321,8 +10538,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10340,8 +10557,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10387,8 +10604,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10407,8 +10624,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10443,8 +10660,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -10589,8 +10806,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10632,8 +10849,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10667,8 +10884,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10746,8 +10963,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10833,8 +11050,8 @@
 		<Multiplayer>False</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10852,8 +11069,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -10868,8 +11085,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11028,8 +11245,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11077,8 +11294,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11097,8 +11314,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11141,8 +11358,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11187,7 +11404,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -11246,8 +11463,8 @@
 		<Radius>25</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>150</Fading_start>
-				<Fading_end>300</Fading_end>
+				<Fading_start>1500</Fading_start>
+				<Fading_end>3000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11291,8 +11508,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11324,8 +11541,8 @@
 		<Start_time>2</Start_time>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11453,8 +11670,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11472,8 +11689,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11491,8 +11708,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11510,8 +11727,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11526,8 +11743,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11548,8 +11765,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11567,8 +11784,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11586,8 +11803,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11606,8 +11823,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -11652,8 +11869,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11671,8 +11888,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11690,8 +11907,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11709,8 +11926,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11729,8 +11946,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -11763,8 +11980,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11783,8 +12000,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11819,8 +12036,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11839,8 +12056,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11862,8 +12079,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11881,8 +12098,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11917,8 +12134,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11938,8 +12155,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -11971,7 +12188,7 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Spawning>
-				<Distance>100</Distance>
+				<Distance>1000</Distance>
 				<View>True</View>
 				</Spawning>
 			</LOD>
@@ -11990,12 +12207,12 @@
 			</_Editor>
 		<LOD>
 			<Spawning>
-				<Distance>150</Distance>
+				<Distance>1500</Distance>
 				<View>False</View>
 				</Spawning>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12013,8 +12230,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12054,8 +12271,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12101,8 +12318,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -12138,8 +12355,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -12175,8 +12392,8 @@
 		<Radius>1</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -12198,8 +12415,8 @@
 		<Start_time>2</Start_time>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12227,6 +12444,13 @@
 		<_Editor>
 			<Category>Entries:Environment:Exterior:Glares</Category>
 			</_Editor>
+		<LOD>
+			<Distance>
+				<Fading_start>1900</Fading_start>
+				<Fading_end>2000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		</Effect>
 	<Effect>
 		<Name>env_bastion_vista</Name>
@@ -12267,8 +12491,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12338,8 +12562,8 @@
 		<Radius>5</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12358,8 +12582,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>180</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1800</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12476,8 +12700,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12496,8 +12720,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12516,8 +12740,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12536,8 +12760,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12556,8 +12780,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12576,8 +12800,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12596,8 +12820,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12616,8 +12840,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12636,8 +12860,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12656,8 +12880,8 @@
 		<Radius>1.0</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12676,8 +12900,8 @@
 		<Radius>3</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12696,8 +12920,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -12833,8 +13057,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12853,8 +13077,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12887,8 +13111,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12906,8 +13130,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12925,8 +13149,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12944,8 +13168,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>40</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -12964,8 +13188,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -12986,8 +13210,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13005,8 +13229,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13024,8 +13248,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>5</Fading_start>
-				<Fading_end>10</Fading_end>
+				<Fading_start>50</Fading_start>
+				<Fading_end>100</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13043,8 +13267,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13059,8 +13283,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13079,8 +13303,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>140</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13099,8 +13323,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13119,8 +13343,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13142,8 +13366,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13159,8 +13383,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13179,8 +13403,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13199,8 +13423,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13221,8 +13445,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13253,8 +13477,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>140</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13273,8 +13497,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>140</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13293,8 +13517,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>140</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1400</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13327,8 +13551,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>70</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>700</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13347,8 +13571,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13390,8 +13614,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13413,8 +13637,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13433,8 +13657,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13453,8 +13677,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13472,8 +13696,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13490,8 +13714,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13509,8 +13733,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13528,8 +13752,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13548,8 +13772,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13583,8 +13807,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>60</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>600</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13599,8 +13823,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13621,8 +13845,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>20</Fading_start>
-				<Fading_end>30</Fading_end>
+				<Fading_start>200</Fading_start>
+				<Fading_end>300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13638,8 +13862,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13658,8 +13882,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13719,8 +13943,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>90</Fading_start>
-				<Fading_end>100</Fading_end>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13738,8 +13962,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>30</Fading_start>
-				<Fading_end>35</Fading_end>
+				<Fading_start>300</Fading_start>
+				<Fading_end>350</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13757,8 +13981,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13776,8 +14000,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13795,8 +14019,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13814,8 +14038,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13833,8 +14057,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13852,8 +14076,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13871,8 +14095,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13890,8 +14114,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13909,8 +14133,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13928,8 +14152,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13947,8 +14171,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13966,8 +14190,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -13985,8 +14209,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>15</Fading_start>
-				<Fading_end>20</Fading_end>
+				<Fading_start>150</Fading_start>
+				<Fading_end>200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14021,8 +14245,8 @@
 		<Radius>15</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>40</Fading_start>
-				<Fading_end>50</Fading_end>
+				<Fading_start>400</Fading_start>
+				<Fading_end>500</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14040,8 +14264,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14059,8 +14283,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>80</Fading_start>
-				<Fading_end>90</Fading_end>
+				<Fading_start>800</Fading_start>
+				<Fading_end>900</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14079,8 +14303,8 @@
 		<Radius>8</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -14102,8 +14326,8 @@
 		<Radius>1</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -14154,8 +14378,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>180</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1800</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14170,8 +14394,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>50</Fading_start>
-				<Fading_end>60</Fading_end>
+				<Fading_start>500</Fading_start>
+				<Fading_end>600</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14218,8 +14442,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14238,8 +14462,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14258,8 +14482,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>200</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>2000</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14286,8 +14510,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14379,6 +14603,13 @@
 		<Radius>10</Radius>
 		<Singleplayer>True</Singleplayer>
 		<Multiplayer>True</Multiplayer>
+		<LOD>
+			<Distance>
+				<Fading_start>900</Fading_start>
+				<Fading_end>1000</Fading_end>
+				<Restore>True</Restore>
+				</Distance>
+			</LOD>
 		<_Editor>
 			<Category>Entries:Environment:Exterior:Mar</Category>
 			</_Editor>
@@ -14489,8 +14720,8 @@
 		<Radius>20</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -14512,8 +14743,8 @@
 		<Radius>100</Radius>
 		<LOD>
 			<Distance>
-				<Fading_start>110</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1100</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			<Update>
@@ -14596,8 +14827,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14619,8 +14850,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>100</Fading_start>
-				<Fading_end>120</Fading_end>
+				<Fading_start>1000</Fading_start>
+				<Fading_end>1200</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14656,8 +14887,8 @@
 			</_Editor>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14687,8 +14918,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14707,8 +14938,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>70</Fading_start>
-				<Fading_end>80</Fading_end>
+				<Fading_start>700</Fading_start>
+				<Fading_end>800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14727,8 +14958,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>120</Fading_start>
-				<Fading_end>130</Fading_end>
+				<Fading_start>1200</Fading_start>
+				<Fading_end>1300</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -14747,8 +14978,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>160</Fading_start>
-				<Fading_end>180</Fading_end>
+				<Fading_start>1600</Fading_start>
+				<Fading_end>1800</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
