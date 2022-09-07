@@ -161,15 +161,15 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 \Changelog v0.9.4/
 -Change dual pistols player jump animation for 1st person view.
 -Slightly reduce lighting draw distances for lower-specs.
--Increase draw distance of glares for default-specs.
 -Improve player model clipping for 1st person view.
+-Increase vfx draw distances for default-specs.
 -Increase crouch to stand view switch speed.
 
 \Issues/
 -Makes game more hardware demanding.
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
--Unwanted fov scaling for 4:3/5:4 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view.
+-Unwanted fov scaling for 4:3 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view or 16:9+ displays.
 -There is a engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
 
 \Installation/NOT FOR GITHUB!
