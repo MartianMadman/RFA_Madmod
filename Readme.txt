@@ -178,4 +178,4 @@ There are two versions of this mod, default-specs is for modern computers while 
 
 For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
 
-For advanced users you can pack .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Raw contains the modified .xtbl files of this mod.
+For advanced users you can pack .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Source contains the modified .xtbl files of this mod.
