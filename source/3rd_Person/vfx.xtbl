@@ -9432,8 +9432,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>0</Fading_start>
-				<Fading_end>0</Fading_end>
+				<Fading_start>30</Fading_start>
+				<Fading_end>40</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9465,8 +9465,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>0</Fading_start>
-				<Fading_end>0</Fading_end>
+				<Fading_start>30</Fading_start>
+				<Fading_end>40</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
@@ -9485,8 +9485,8 @@
 		<Multiplayer>True</Multiplayer>
 		<LOD>
 			<Distance>
-				<Fading_start>0</Fading_start>
-				<Fading_end>0</Fading_end>
+				<Fading_start>30</Fading_start>
+				<Fading_end>40</Fading_end>
 				<Restore>True</Restore>
 				</Distance>
 			</LOD>
