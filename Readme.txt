@@ -173,8 +173,18 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -There is a engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
 
 \Installation/NOT FOR GITHUB!
-There are two versions of this mod, default-specs is for modern computers while lower-specs is for older computers.
+Multiple versions of this mod are included to support as many users as possible.
 
-For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
+If you use modern aspect ratio displays like 16:9 or 16:10 then open folder 16;9+.
+If you still use a 4:3 aspect ratio display then open folder 4;3.
+
+Now you need to choose which specs you want to use for performance reasons.
+
+If you have a modern computer then open the default-specs folder.
+If you have a older computer then open the lower-specs folder.
+
+Finally you need to choose if you want to play in 1st person or 3rd person.
+
+For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in your main RFA installation directory. Replace existing files when asked.
 
 For advanced users you can pack .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Source contains the modified .xtbl files of this mod.
