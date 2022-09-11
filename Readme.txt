@@ -164,28 +164,18 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Slightly reduce lighting draw distances for lower-specs.
 -Improve player model clipping for 1st person view.
 -Increase crouch to stand view switch speed.
--Add support for 4:3 aspect ratio displays.
 -Increase fov for walkers.
 
 \Issues/
 -Makes game more hardware demanding.
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
+-Unwanted fov scaling for 4:3 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view or 16:9+ displays.
 -There is a engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
 
 \Installation/NOT FOR GITHUB!
-Multiple versions of this mod are included to support as many users as possible.
+There are two versions of this mod, default-specs is for modern computers while lower-specs is for older computers.
 
-If you use modern aspect ratio displays like 16:9 or 16:10 then open folder 16;9+.
-If you still use a 4:3 aspect ratio display then open folder 4;3.
-
-Now you need to choose which specs you want to use for performance reasons.
-
-If you have a modern computer then open the default-specs folder.
-If you have a older computer then open the lower-specs folder.
-
-Finally you need to choose if you want to play in 1st person or 3rd person.
-
-For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in your main RFA installation directory. Replace existing files when asked.
+For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
 
 For advanced users you can pack .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Source contains the modified .xtbl files of this mod.
