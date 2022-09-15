@@ -3165,7 +3165,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Player_forced_walk_camera_speed_mult</Name>
-		<Value>2.0</Value>
+		<Value>1.0</Value>
 		<Description>The multiplier to apply to the camera speed when the player is in the "forced walk" state.</Description>
 		<_Editor>
 			<Category>Movement</Category>
