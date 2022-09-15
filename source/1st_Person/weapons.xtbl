@@ -183,7 +183,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>magnet_gun</Name>
@@ -335,7 +335,7 @@
 		<Interface_Priority_SP>2</Interface_Priority_SP>
 		<Interface_Priority_MP>7</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>acid_glob</Name>
@@ -502,7 +502,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>acid_puke</Name>
@@ -614,7 +614,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>acid_spit</Name>
@@ -728,7 +728,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>acid_thrower</Name>
@@ -906,7 +906,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>gravitic_imploder</Name>
@@ -1082,7 +1082,7 @@
 		<Interface_Priority_MP>20</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - gravitic imploder</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>chain_lightning_gun</Name>
@@ -1229,7 +1229,7 @@
 		<Interface_Priority_MP>19</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - chain lightning gun</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>charge_placer</Name>
@@ -1411,7 +1411,7 @@
 		<Interface_Priority_MP>6</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - charge placer</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_beam</Name>
@@ -1568,7 +1568,7 @@
 		<Interface_Priority_MP>17</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - phased plasma beam</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_cannon</Name>
@@ -1734,7 +1734,7 @@
 		<Interface_Priority_MP>16</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - phased plasma cannon</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_rifle</Name>
@@ -1898,7 +1898,7 @@
 		<Interface_Priority_MP>10</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - phased plasma rifle</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>m16</Name>
@@ -2063,7 +2063,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>enforcer</Name>
@@ -2236,7 +2236,7 @@
 		<Interface_Priority_MP>11</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - enforcer</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>shotgun</Name>
@@ -2378,7 +2378,7 @@
 		<Interface_Priority_MP>3</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - shotgun</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>plasma_thrower</Name>
@@ -2512,7 +2512,7 @@
 		<Interface_Priority_MP>13</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - plasma thrower</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>nano_grenade</Name>
@@ -2634,7 +2634,7 @@
 		<Interface_Priority_MP>5</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - nano grenade</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>nano_rifle</Name>
@@ -2819,7 +2819,7 @@
 		<Interface_Priority_MP>15</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - nano rifle</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>nano_auto_rifle</Name>
@@ -3003,7 +3003,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>grenade_launcher</Name>
@@ -3130,7 +3130,7 @@
 		<Interface_Priority_MP>4</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - grenade launcher</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>napalm_laser_handheld</Name>
@@ -3259,7 +3259,7 @@
 			</MeleeAttacks>
 		<Melee_Group>Nano_arm_swing</Melee_Group>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>delayed_explosion_laser_handheld</Name>
@@ -3393,7 +3393,7 @@
 			</MeleeAttacks>
 		<Melee_Group>Nano_arm_swing</Melee_Group>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>lava_barge_turret_handheld</Name>
@@ -3511,7 +3511,7 @@
 		<Unlock_Cheat>weapon unlock - lava barge turret</Unlock_Cheat>
 		<Melee_Group>Nano_arm_swing</Melee_Group>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>rail_driver</Name>
@@ -3663,7 +3663,7 @@
 		<Interface_Priority_MP>13</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - rail driver</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>rpg_launcher</Name>
@@ -3789,7 +3789,7 @@
 		<Interface_Priority_MP>12</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - rpg launcher</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>sledgehammer</Name>
@@ -3940,7 +3940,7 @@
 		<Interface_Priority_SP>1</Interface_Priority_SP>
 		<Interface_Priority_MP>1</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>standard_bullet_pistol</Name>
@@ -4078,7 +4078,7 @@
 		<Interface_Priority_MP>2</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - standard bullet pistol</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>1.5</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>alien_shotgun</Name>
@@ -4204,7 +4204,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>ball_lightning_gun</Name>
@@ -4367,7 +4367,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>behemoth_roar</Name>
@@ -4519,7 +4519,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>bomb_lobber</Name>
@@ -4687,7 +4687,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>boom_cannon</Name>
@@ -4850,7 +4850,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>creeper_claw</Name>
@@ -4992,7 +4992,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>civilian_melee</Name>
@@ -5071,7 +5071,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>electrical_pulse_blast</Name>
@@ -5205,7 +5205,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>gambit_gun</Name>
@@ -5374,7 +5374,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>grunt_quill</Name>
@@ -5574,7 +5574,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_machinegun_1</Name>
@@ -5694,7 +5694,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_rocket_1</Name>
@@ -5787,7 +5787,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_flyer2_Main</Name>
@@ -5901,7 +5901,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_flyer2_Secondary</Name>
@@ -6012,7 +6012,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_flyer_3</Name>
@@ -6113,7 +6113,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>artillery_gun_weapon</Name>
@@ -6206,7 +6206,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Heavy_Walker_cannon</Name>
@@ -6332,7 +6332,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>crusader_exo_mg</Name>
@@ -6477,7 +6477,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>crusader_exo_launcher</Name>
@@ -6611,7 +6611,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_lav_plasma</Name>
@@ -6746,7 +6746,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_cru_tank_main</Name>
@@ -6830,7 +6830,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mar_lrg_turret_1_main</Name>
@@ -6937,7 +6937,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>repair_ability_weapon</Name>
@@ -7028,7 +7028,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_dummy</Name>
@@ -7098,7 +7098,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_cru_tank_mg</Name>
@@ -7199,7 +7199,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Light_Walker_Test</Name>
@@ -7296,7 +7296,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>miner_exo_magnet</Name>
@@ -7419,7 +7419,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>miner_exo_remote</Name>
@@ -7574,7 +7574,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Light_Walker_lightning</Name>
@@ -7784,7 +7784,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Light_Walker_laser</Name>
@@ -7894,7 +7894,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Light_Walker_lightning_dummy</Name>
@@ -8101,7 +8101,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>flare_throw</Name>
@@ -8419,7 +8419,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>big_creeper_claw</Name>
@@ -8556,7 +8556,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>big_acid_spit</Name>
@@ -8670,7 +8670,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>monolith_gun</Name>
@@ -8778,7 +8778,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>queen_beam</Name>
@@ -8881,7 +8881,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Light_Walker_lightning_dummy_m1</Name>
@@ -9085,7 +9085,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Light_Walker_lightning_m1</Name>
@@ -9292,7 +9292,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>mar_exo_charge</Name>
@@ -9506,7 +9506,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>mar_exo_rapid</Name>
@@ -9694,7 +9694,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>scripted_flyer_weapon</Name>
@@ -9806,7 +9806,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_rpg</Name>
@@ -9917,7 +9917,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>anti_tank_pistol</Name>
@@ -10054,7 +10054,7 @@
 		<Interface_Priority_MP>8</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - anti tank pistol</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>1.5</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>low_acc_phased_plasma_rifle</Name>
@@ -10211,7 +10211,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>laser_pistol</Name>
@@ -10351,7 +10351,7 @@
 		<Interface_Priority_MP>9</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
 		<Unlimited_Ammo_Cheat>infinite ammo - laser pistol</Unlimited_Ammo_Cheat>
-		<Player_Move_Speed>1.5</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>unicorn_gun</Name>
@@ -10508,7 +10508,7 @@
 		<Interface_Priority_MP>18</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - phased plasma beam</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>rf_exo_machine_gun_handheld</Name>
@@ -10652,7 +10652,7 @@
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Unlock_Cheat>weapon unlock - rf exo machine gun</Unlock_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>rf_exo_launcher_handheld</Name>
@@ -10773,7 +10773,7 @@
 			</MeleeAttacks>
 		<Melee_Group>Nano_arm_swing</Melee_Group>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mar_gauss</Name>
@@ -10887,7 +10887,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>hi_acc_grunt_quill</Name>
@@ -11087,7 +11087,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>ball_lightning_m12</Name>
@@ -11250,7 +11250,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>rpg_launcher_npc</Name>
@@ -11395,7 +11395,7 @@
 		<Interface_Priority_MP>11</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - rpg launcher</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_rpg_no_light</Name>
@@ -11506,7 +11506,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mar_gauss_no_light</Name>
@@ -11620,7 +11620,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>cru_quad_plasma</Name>
@@ -11746,7 +11746,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>cru_quad_plasma_no_light</Name>
@@ -11872,7 +11872,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_lav_plasma_no_light</Name>
@@ -12007,7 +12007,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>rpg_launcher_npc_fast</Name>
@@ -12155,7 +12155,7 @@
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Unlimited_Ammo_Cheat>infinite ammo - rpg launcher</Unlimited_Ammo_Cheat>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>Mar_Heavy_Walker_rocket_hale</Name>
@@ -12358,7 +12358,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	</Table>
 
@@ -12518,7 +12518,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mar_nano</Name>
@@ -12628,7 +12628,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mega_rapid_primary</Name>
@@ -12744,7 +12744,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mega_rapid_secondary</Name>
@@ -12858,7 +12858,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mega_drunk1</Name>
@@ -12990,7 +12990,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mega_drunk2</Name>
@@ -13118,7 +13118,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_mega_drunk3</Name>
@@ -13246,7 +13246,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>mar_exo_charge_old</Name>
@@ -13402,7 +13402,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>mar_exo_spike</Name>
@@ -13508,7 +13508,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>mar_exo_jericho</Name>
@@ -13640,7 +13640,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_machine_pistol</Name>
@@ -13772,7 +13772,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>1.5</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>mar_shotgun</Name>
@@ -13955,7 +13955,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>1.5</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>knight_goo</Name>
@@ -14057,7 +14057,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_flyer_1</Name>
@@ -14157,7 +14157,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_flyer_2</Name>
@@ -14255,7 +14255,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>turret_spike</Name>
@@ -14360,7 +14360,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>charge_cannon</Name>
@@ -14500,7 +14500,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>propane_tank</Name>
@@ -14595,7 +14595,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>crusader_exo_painter</Name>
@@ -14704,7 +14704,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>nano_rifle_test</Name>
@@ -14837,7 +14837,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_rifle_alien</Name>
@@ -14986,7 +14986,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_cannon_alien</Name>
@@ -15152,7 +15152,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>flag_edf</Name>
@@ -15234,7 +15234,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>flag_guerrilla</Name>
@@ -15316,7 +15316,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>phased_plasma_rifle_enemy</Name>
@@ -15466,7 +15466,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	<Weapon>
 		<Name>guns_of_tharsis</Name>
@@ -15555,7 +15555,7 @@
 		<Interface_Priority_SP>255</Interface_Priority_SP>
 		<Interface_Priority_MP>255</Interface_Priority_MP>
 		<Interface_Priority_Ruin_Mode>255</Interface_Priority_Ruin_Mode>
-		<Player_Move_Speed>2.0</Player_Move_Speed>
+		<Player_Move_Speed>1.0</Player_Move_Speed>
 		</Weapon>
 	</TableTemplates>
 
