@@ -1221,7 +1221,7 @@ Overridded by Ai_heavy_vehicle_always_cower_chance - if that is true,  this will
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Character_collision_damage_speed_max</Name>
-		<Value>20.0</Value>
+		<Value>9999</Value>
 		<Description>The maximum speed used in damage calculation for debris.  This keeps really fast moving small pieces of debris from killing the player.</Description>
 		<_Editor>
 			<Category>Miscellaneous:Collision</Category>
@@ -1229,7 +1229,7 @@ Overridded by Ai_heavy_vehicle_always_cower_chance - if that is true,  this will
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Character_collision_damage_min</Name>
-		<Value>15.0</Value>
+		<Value>99999</Value>
 		<Description>If the damage calculated by a debris collision is below this, do not apply it.</Description>
 		<_Editor>
 			<Category>Miscellaneous:Collision</Category>
