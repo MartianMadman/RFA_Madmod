@@ -2711,6 +2711,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>is minor hit to vehicles</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>keep magazine filled</Flag>
 								</Flags>
 							<Rounds_On_Pickup>12</Rounds_On_Pickup>
@@ -2896,6 +2897,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>is minor hit to vehicles</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>keep magazine filled</Flag>
 								</Flags>
 							<Rounds_On_Pickup>18</Rounds_On_Pickup>
@@ -4134,6 +4136,7 @@
 								</Damage_Scaling_Max>
 							<Flags>
 								<Flag>throttle hit effects</Flag>
+								<Flag>suppress death anims</Flag>
 								</Flags>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -5449,6 +5452,7 @@
 								<Flag>dont scale fire animation</Flag>
 								<Flag>dont interrupt fire animation</Flag>
 								<Flag>dependent on fire animation</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>is minor hit to vehicles</Flag>
 								</Flags>
 							<Barrel_Behavior>
@@ -6686,6 +6690,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								</Flags>
 							<Barrel_Behavior>
 								<Alternating>
@@ -6895,6 +6900,7 @@
 								<Fire_Camera_Shake>turret_mg</Fire_Camera_Shake>
 								</Visuals>
 							<Flags>
+								<Flag>suppress death anims</Flag>
 								</Flags>
 							<Barrel_Behavior>
 								<Alternating>
@@ -7151,6 +7157,7 @@
 							<Flags>
 								<Flag>kill kamikaze instantly</Flag>
 								<Flag>allow overheat cooldown during fire</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>dont damage owner</Flag>
 								</Flags>
 							<Barrel_Behavior>
@@ -8362,6 +8369,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>kill kamikaze instantly</Flag>
 								</Flags>
 							<Barrel_Behavior>
@@ -10962,6 +10970,7 @@
 								<Flag>dont scale fire animation</Flag>
 								<Flag>dont interrupt fire animation</Flag>
 								<Flag>dependent on fire animation</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>is minor hit to vehicles</Flag>
 								</Flags>
 							<Barrel_Behavior>
@@ -11684,6 +11693,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>kill kamikaze instantly</Flag>
 								</Flags>
 							<Barrel_Behavior>
@@ -11810,6 +11820,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>kill kamikaze instantly</Flag>
 								</Flags>
 							<Barrel_Behavior>
@@ -11947,6 +11958,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								</Flags>
 							<Barrel_Behavior>
 								<Alternating>
@@ -12691,6 +12703,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								</Flags>
 							<Barrel_Behavior>
 								<Alternating>
@@ -14115,6 +14128,7 @@
 								</Visuals>
 							<Flags>
 								<Flag>shatter</Flag>
+								<Flag>suppress death anims</Flag>
 								<Flag>looping fire effects</Flag>
 								<Flag>ignore firing direction</Flag>
 								</Flags>
@@ -14934,6 +14948,7 @@
 								</Sounds>
 							<Flags>
 								<Flag>looping fire effects</Flag>
+								<Flag>suppress death anims</Flag>
 								</Flags>
 							<Rounds_On_Pickup>72</Rounds_On_Pickup>
 							<Barrel_Behavior>
