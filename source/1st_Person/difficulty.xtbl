@@ -117,24 +117,24 @@
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_FINEAIM_DURATION</Name>
-				<Easy>200.0</Easy>
-				<Medium>1.0</Medium>
-				<Hard>0.75</Hard>
-				<Insane>0.5</Insane>
+				<Easy>999</Easy>
+				<Medium>999</Medium>
+				<Hard>999</Hard>
+				<Insane>999</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_FINEAIM_ANGLE_CLOSE</Name>
 				<Easy>2.5</Easy>
-				<Medium>1.0</Medium>
-				<Hard>1.0</Hard>
-				<Insane>1.0</Insane>
+				<Medium>2.5</Medium>
+				<Hard>2.5</Hard>
+				<Insane>2.5</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_FINEAIM_ANGLE_FAR</Name>
 				<Easy>2.5</Easy>
-				<Medium>1.0</Medium>
-				<Hard>1.0</Hard>
-				<Insane>1.0</Insane>
+				<Medium>2.5</Medium>
+				<Hard>2.5</Hard>
+				<Insane>2.5</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_ENV_EXPLOSION_DAMAGE</Name>
