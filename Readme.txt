@@ -1,4 +1,4 @@
-controllersRed Faction Armageddon Madmod is a major overhaul mod that is dedicated towards transforming the slow and sluggish feel of being a modern shooter to the much more enjoyable style of older games. Engine technology has also been given a fair improvement as well with better light draw distances and more advanced collision physics for many objects. 
+Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards transforming the slow and sluggish feel of being a modern shooter to the much more enjoyable style of older games. Engine technology has also been given a fair improvement as well with better light draw distances and more advanced collision physics for many objects. 
 
 (REVERTED) means that the change is no longer in the latest versions because of reasons like issues caused by them or not being an ideal change to the game.
 
