@@ -1,4 +1,4 @@
-Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards transforming the slow and sluggish feel of being a modern shooter to the much more enjoyable style of older games. Engine technology has also been given a fair improvement as well with better light draw distances and more advanced collision physics for many objects. 
+controllersRed Faction Armageddon Madmod is a major overhaul mod that is dedicated towards transforming the slow and sluggish feel of being a modern shooter to the much more enjoyable style of older games. Engine technology has also been given a fair improvement as well with better light draw distances and more advanced collision physics for many objects. 
 
 (REVERTED) means that the change is no longer in the latest versions because of reasons like issues caused by them or not being an ideal change to the game.
 
@@ -20,7 +20,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Increased player sprint speed.
 -Removed melee auto targeting.
 -All structures drop salvage.
-(REVERTED)-Removed nanoforge cooldown.
+(REVERTED)-Removed nancontrollersoforge cooldown.
 -Bullets damage structures.
 -Increased jumping height.
 -Removed weapon recoil.
@@ -38,7 +38,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Classic FPS movement controls. Always run by default, use sprint button to walk.
 -Increased player movement speed when in the forced walk state.
 -Removed weapon fire charge up on unicorn gun and plasma beam.
--Singularity cannon and xmg-5000 fire as fast as you click.
+-Singularity cannon and xmg-5000 fire as fast as you click.controllers
 -Increased refire rate of repair grenades.
 -Increased alien pod spawn rate.
 -Removed weapon swapping delay.
@@ -167,6 +167,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Replace more death animations with ragdoll physics.
 -Improve player model clipping for 1st person view.
 -Increase crouch to stand view switch speed.
+-Improve auto targeting for gamepads.
 -Increase fov for walkers.
 
 \Issues/
