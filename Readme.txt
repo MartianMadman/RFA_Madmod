@@ -20,7 +20,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Increased player sprint speed.
 -Removed melee auto targeting.
 -All structures drop salvage.
-(REVERTED)-Removed nancontrollersoforge cooldown.
+(REVERTED)-Removed nanoforge cooldown.
 -Bullets damage structures.
 -Increased jumping height.
 -Removed weapon recoil.
