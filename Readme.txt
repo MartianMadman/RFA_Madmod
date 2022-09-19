@@ -160,6 +160,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 
 \Changelog v0.9.4/
 -Attempt to reduce severity of rl_d3d_light's exceeded error by slightly reducing large light draw distance and disabling salvage highlights.
+-More adjustments to 1st person camera position offsets to reduce jankiness in small spaces.
 -Prevent actions like swapping weapons from slowing down player movement speed.
 -Prevent debris collisions from interrupting health regeneration.
 -Change dual pistols player jump animation for 1st person view.
