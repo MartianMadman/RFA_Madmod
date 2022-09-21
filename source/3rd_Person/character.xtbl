@@ -480,8 +480,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -621,8 +621,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -762,8 +762,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -916,8 +916,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -1071,8 +1071,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -1225,8 +1225,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -1379,8 +1379,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -1533,8 +1533,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -1659,8 +1659,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -1785,8 +1785,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -7040,8 +7040,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
@@ -7171,8 +7171,8 @@
 		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
-		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
-		<Min_Fall_Damage_Speed>10</Min_Fall_Damage_Speed>
+		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
+		<Min_Fall_Damage_Speed>999</Min_Fall_Damage_Speed>
 		<Aim_Assist_Torso_Height>1.25</Aim_Assist_Torso_Height>
 		<Persistent_Effects>
 			<Persistent_Effect>
