@@ -424,7 +424,7 @@
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Salvage_deletion_delay_ms</Name>
-		<Value>120000</Value>
+		<Value>90000</Value>
 		<Description>Number of milliseconds before salvage that hasn't been picked up is removed from the world.</Description>
 		<_Editor>
 			<Category>Miscellaneous:Salvage/Upgrades</Category>
