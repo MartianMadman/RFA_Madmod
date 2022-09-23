@@ -38,7 +38,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Classic FPS movement controls. Always run by default, use sprint button to walk.
 -Increased player movement speed when in the forced walk state.
 -Removed weapon fire charge up on unicorn gun and plasma beam.
--Singularity cannon and xmg-5000 fire as fast as you click.controllers
+-Singularity cannon and xmg-5000 fire as fast as you click.
 -Increased refire rate of repair grenades.
 -Increased alien pod spawn rate.
 -Removed weapon swapping delay.
