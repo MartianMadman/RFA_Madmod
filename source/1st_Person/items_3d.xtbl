@@ -1374,7 +1374,6 @@
 			</_Editor>
 		<Spin_Time>5000</Spin_Time>
 		<Item_Flags>
-			<Flag>no_auto_delete</Flag>
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
@@ -1392,7 +1391,6 @@
 			</_Editor>
 		<Spin_Time>5000</Spin_Time>
 		<Item_Flags>
-			<Flag>no_auto_delete</Flag>
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
