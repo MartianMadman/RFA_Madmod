@@ -416,7 +416,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -557,7 +557,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -698,7 +698,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -852,7 +852,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -1007,7 +1007,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -1161,7 +1161,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -1315,7 +1315,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -1469,7 +1469,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -1595,7 +1595,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -1721,7 +1721,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -6975,7 +6975,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
@@ -7106,7 +7106,7 @@
 		<Sex>male</Sex>
 		<max_hit_points>1000</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
-		<max_speed>10</max_speed>
+		<max_speed>5</max_speed>
 		<Equip_Item_Name>phased_plasma_rifle</Equip_Item_Name>
 		<Flags>
 			<Flag>always face target</Flag>
