@@ -3085,7 +3085,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Player_max_sprint_speed</Name>
-		<Value>5.0</Value>
+		<Value>2.5</Value>
 		<Description>The speed at which the player sprints.</Description>
 		<_Editor>
 			<Category>Movement</Category>
@@ -3093,7 +3093,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Wrecking_crew_max_movement_speed_override</Name>
-		<Value>10.0</Value>
+		<Value>5.0</Value>
 		<Description>The speed at which the player runs in Ruin Mode.</Description>
 		<_Editor>
 			<Category>Movement</Category>
