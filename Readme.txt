@@ -160,13 +160,14 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 
 \Changelog v0.9.4/
 -Attempt to reduce severity of rl_d3d_light's exceeded error by slightly reducing large light draw distance and disabling salvage highlights.
--Delete spawned salvage after 90 seconds to prevent number of world objects from exceeding engine limitations.
+-Immediately remove distant spawned salvage to reduce number of world objects from exceeding engine limitations.
 -Prevent debris collisions from interrupting health regeneration.
 -Change dual pistols player jump animation for 1st person view.
 -Slightly reduce lighting draw distances for lower-specs.
 -Prevent falling from interrupting player health regen.
 -Replace more death animations with ragdoll physics.
 -Improve player model clipping for 1st person view.
+-Slightly reduce amount of salvage received.
 -Increase crouch to stand view switch speed.
 -Improve auto targeting for gamepads.
 -Increase fov for walkers.
