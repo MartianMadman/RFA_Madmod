@@ -159,10 +159,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_SALVAGE_PICKUP_MULTIPLIER</Name>
-				<Easy>0.5</Easy>
-				<Medium>0.5</Medium>
-				<Hard>0.5</Hard>
-				<Insane>0.5</Insane>
+				<Easy>0.4</Easy>
+				<Medium>0.4</Medium>
+				<Hard>0.4</Hard>
+				<Insane>0.4</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_MP_WAVE_SALVAGE_MULTIPLIER</Name>
