@@ -4947,7 +4947,7 @@ This is purely interface. It does not actually change the player's hp.</Descript
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Salvage_tutorial_min_pickup_value</Name>
-		<Value>20</Value>
+		<Value>12</Value>
 		<Description>Minimum value for a salvage pickup before we display the tutorial message about salvage.</Description>
 		<_Editor>
 			<Category>UI</Category>
