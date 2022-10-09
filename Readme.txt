@@ -170,6 +170,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Improve player model clipping for 1st person view.
 -Slightly reduce amount of salvage received.
 -Increase crouch to stand view switch speed.
+-Slightly increase weapon pickup radius.
 -Improve auto targeting for gamepads.
 -Increase fov for walkers.
 
