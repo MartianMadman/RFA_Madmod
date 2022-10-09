@@ -163,6 +163,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Immediately remove distant spawned salvage to reduce number of world objects from exceeding engine limitations.
 -Prevent debris collisions from interrupting health regeneration.
 -Change dual pistols player jump animation for 1st person view.
+-Fix salvage tutorial message not showing at the correct time.
 -Slightly reduce lighting draw distances for lower-specs.
 -Prevent falling from interrupting player health regen.
 -Replace more death animations with ragdoll physics.
