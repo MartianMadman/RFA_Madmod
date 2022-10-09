@@ -3601,7 +3601,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Weapon_pickup_distance</Name>
-		<Value>1.5</Value>
+		<Value>2.0</Value>
 		<Description>The radius within which a weapon can be picked up.</Description>
 		<_Editor>
 			<Category>Miscellaneous</Category>
