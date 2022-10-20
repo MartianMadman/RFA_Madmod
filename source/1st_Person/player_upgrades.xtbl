@@ -618,7 +618,7 @@
 			<Parameter>
 				<Name>Equip Speed Mult</Name>
 				<Value>
-					<Float>1.33</Float>
+					<Float>1.5</Float>
 					</Value>
 				</Parameter>
 			</Parameters>
