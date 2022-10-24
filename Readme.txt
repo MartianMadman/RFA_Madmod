@@ -176,6 +176,9 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Improve auto targeting for gamepads.
 -Increase fov for walkers.
 
+\Changelog v0.9.41/
+-Use the correct lower-specs 1st Person Packed files.
+
 \Issues/
 -Makes game more hardware demanding.
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
