@@ -1001,7 +1001,7 @@
 							<Rounds_From_Ammo_Box>4</Rounds_From_Ammo_Box>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -1329,7 +1329,7 @@
 							<Icon_Name>ui_icon_wpn_charge</Icon_Name>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -1685,7 +1685,7 @@
 								</Charge>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -1853,7 +1853,7 @@
 							<Gib_Impulse_Up>20.0</Gib_Impulse_Up>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>6</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -2192,7 +2192,7 @@
 							<Bullet_hole_scale>1.2</Bullet_hole_scale>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>4</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -2345,7 +2345,7 @@
 							<Gib_Impulse_Up>15.0</Gib_Impulse_Up>
 							<Rounds_From_Ammo_Box>18</Rounds_From_Ammo_Box>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -2480,7 +2480,7 @@
 							<Rounds_On_Pickup>200</Rounds_On_Pickup>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>0.5</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -2597,7 +2597,7 @@
 							<Gib_Chance>0.0</Gib_Chance>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -2738,7 +2738,7 @@
 							<Icon_Name>ui_icon_wpn_nano</Icon_Name>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -2924,7 +2924,7 @@
 							<Icon_Name>ui_icon_wpn_nano</Icon_Name>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>4</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -3225,7 +3225,7 @@
 								<sound_event>WEP_NAPALMLASER_CHEAT</sound_event>
 								</Sounds>
 							<Icon_Name>ui_icon_wpn_napalm</Icon_Name>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -3360,7 +3360,7 @@
 								<sound_event>WEP_LIGHT_NAPALM_FIRE_CHEAT</sound_event>
 								</Sounds>
 							<Icon_Name>ui_icon_wpn_convergence</Icon_Name>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -3481,7 +3481,7 @@
 								<death_pc_override>death scream</death_pc_override>
 								</Sounds>
 							<NPC_Refire_Delay_ms>800</NPC_Refire_Delay_ms>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -3633,7 +3633,7 @@
 							<Additional_Hit_Effect>wep_rail_driver_hit</Additional_Hit_Effect>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -3757,7 +3757,7 @@
 								</Sounds>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -3859,7 +3859,7 @@
 							<Gib_Threshold_Percent>0.2</Gib_Threshold_Percent>
 							<Gib_Chance>.8</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_hammer</Icon_Name>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -4046,7 +4046,7 @@
 							<Ammo_Type>Pistol</Ammo_Type>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>2</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -6423,7 +6423,7 @@
 							<Ammo_Per_Round>0</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							<Idle_Reload_Delay_ms>10000</Idle_Reload_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Reload_Delay_No_Animation_ms>0</Reload_Delay_No_Animation_ms>
@@ -7016,7 +7016,7 @@
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0.0</Gib_Chance>
 							<Icon_Name>ui_icon_nano_repair</Icon_Name>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -8276,7 +8276,7 @@
 								<Muzzle_Flash>nano_repair_g_muzz</Muzzle_Flash>
 								<Fire_Camera_Shake>weapon_fire_toss</Fire_Camera_Shake>
 								</Visuals>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -9400,7 +9400,7 @@
 							<Ammo_Per_Round>1</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							<Charge>
 								<Charge_Up_Time_ms>1500</Charge_Up_Time_ms>
 								<Charge_Up_Tiers>
@@ -9609,7 +9609,7 @@
 							<Ammo_Per_Round>1</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0.0</Gib_Chance>
 							<Icon_Name>ui_icon_exo_gun</Icon_Name>
@@ -10029,7 +10029,7 @@
 							<Ammo_Type>AntiTank Pistol</Ammo_Type>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -10327,7 +10327,7 @@
 							<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>15</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -10483,7 +10483,7 @@
 							<Aim_Pos_Penetration>-1</Aim_Pos_Penetration>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>10</Shots_To_Max_Recoil>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -10601,7 +10601,7 @@
 							<Ammo_Per_Round>0</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							<Idle_Reload_Delay_ms>10000</Idle_Reload_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Reload_Delay_No_Animation_ms>0</Reload_Delay_No_Animation_ms>
@@ -10744,7 +10744,7 @@
 								</Sounds>
 							<Gib_Chance>0.0</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_leo_rockets</Icon_Name>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
 						</Potential_Firing_Mode>
 					</Potential_Firing_Modes>
@@ -13355,7 +13355,7 @@
 							<Ammo_Per_Round>1</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Headshot_Multiplier>1.0</Headshot_Multiplier>
+							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							<Charge>
 								<Charge_Up_Time_ms>3000</Charge_Up_Time_ms>
 								<Charge_Up_Tiers>
