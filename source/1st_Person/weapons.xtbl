@@ -1800,7 +1800,7 @@
 								<Player_Damage>15</Player_Damage>
 								<Vehicle_Damage>55</Vehicle_Damage>
 								<Player_Vehicle_Damage>11</Player_Vehicle_Damage>
-								<Structural_Damage>800</Structural_Damage>
+								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
@@ -1962,7 +1962,7 @@
 								<Player_Damage>35</Player_Damage>
 								<Vehicle_Damage>45</Vehicle_Damage>
 								<Player_Vehicle_Damage>15</Player_Vehicle_Damage>
-								<Structural_Damage>800</Structural_Damage>
+								<Structural_Damage>1800</Structural_Damage>
 								<Threshold>80</Threshold>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
@@ -2017,7 +2017,7 @@
 								<Player_Damage>15</Player_Damage>
 								<Vehicle_Damage>60</Vehicle_Damage>
 								<Player_Vehicle_Damage>15</Player_Vehicle_Damage>
-								<Structural_Damage>800.0</Structural_Damage>
+								<Structural_Damage>1800.0</Structural_Damage>
 								</Damage_Scaling_Min>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							</Firing_Mode>
@@ -2128,7 +2128,7 @@
 								<Player_Damage>20</Player_Damage>
 								<Vehicle_Damage>34</Vehicle_Damage>
 								<Player_Vehicle_Damage>20</Player_Vehicle_Damage>
-								<Structural_Damage>800</Structural_Damage>
+								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>167</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
@@ -2185,7 +2185,7 @@
 								<Player_Damage>50</Player_Damage>
 								<Vehicle_Damage>50</Vehicle_Damage>
 								<Player_Vehicle_Damage>28</Player_Vehicle_Damage>
-								<Structural_Damage>800.0</Structural_Damage>
+								<Structural_Damage>1800.0</Structural_Damage>
 								</Damage_Scaling_Min>
 							<Autoaim_Override>2.5</Autoaim_Override>
 							<NPC_Autoaim>2.5</NPC_Autoaim>
@@ -2291,7 +2291,7 @@
 								<Vehicle_Damage>90</Vehicle_Damage>
 								<Threshold>35</Threshold>
 								<Player_Vehicle_Damage>30</Player_Vehicle_Damage>
-								<Structural_Damage>400</Structural_Damage>
+								<Structural_Damage>1400</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Flags>
 								<Flag>throttle hit effects</Flag>
@@ -3995,7 +3995,7 @@
 								<Player_Damage>60</Player_Damage>
 								<Vehicle_Damage>60</Vehicle_Damage>
 								<Player_Vehicle_Damage>60</Player_Vehicle_Damage>
-								<Structural_Damage>800</Structural_Damage>
+								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Flags>
@@ -10125,7 +10125,7 @@
 								<Player_Damage>55</Player_Damage>
 								<Vehicle_Damage>55</Vehicle_Damage>
 								<Player_Vehicle_Damage>55</Player_Vehicle_Damage>
-								<Structural_Damage>800</Structural_Damage>
+								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
