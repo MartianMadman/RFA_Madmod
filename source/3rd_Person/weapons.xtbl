@@ -2278,7 +2278,7 @@
 							<Trigger_Type>
 								<Single></Single>
 								</Trigger_Type>
-							<Shots_Per_Round>15</Shots_Per_Round>
+							<Shots_Per_Round>8</Shots_Per_Round>
 							<Magazine_Size>6</Magazine_Size>
 							<Range_Red>200</Range_Red>
 							<Min_Engagement_Distance>4</Min_Engagement_Distance>
