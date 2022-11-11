@@ -9119,8 +9119,8 @@
 						<Description>Repair</Description>
 						<Type>
 							<Repair>
-								<Interval_s>0.2</Interval_s>
-								<Radius>8.0</Radius>
+								<Interval_s>0.0</Interval_s>
+								<Radius>4.0</Radius>
 								<Rate>-1</Rate>
 								<Only_Host_Object>False</Only_Host_Object>
 								</Repair>
