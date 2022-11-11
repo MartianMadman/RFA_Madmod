@@ -2286,19 +2286,17 @@
 							<Range_Max>24</Range_Max>
 							<NPC_Firing_Pattern>Shotgun</NPC_Firing_Pattern>
 							<Damage_Scaling_Max>
-								<NPC_Damage>32</NPC_Damage>
-								<Player_Damage>15</Player_Damage>
-								<Vehicle_Damage>45</Vehicle_Damage>
+								<NPC_Damage>64</NPC_Damage>
+								<Player_Damage>30</Player_Damage>
+								<Vehicle_Damage>90</Vehicle_Damage>
 								<Threshold>35</Threshold>
-								<Player_Vehicle_Damage>15</Player_Vehicle_Damage>
-								<Structural_Damage>200</Structural_Damage>
+								<Player_Vehicle_Damage>30</Player_Vehicle_Damage>
+								<Structural_Damage>400</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Flags>
 								<Flag>throttle hit effects</Flag>
 								<Flag>shatter</Flag>
 								<Flag>keep magazine filled</Flag>
-								<Flag>always fire shot in center</Flag>
-								<Flag>distribute azimuth evenly</Flag>
 								<Flag>suppress death anims</Flag>
 								<Flag>is minor hit to vehicles</Flag>
 								</Flags>
@@ -2343,7 +2341,7 @@
 							<Off_Hand_Fire_Action_Override>stand fire alt</Off_Hand_Fire_Action_Override>
 							<NPC_Refire_Delay_ms>900</NPC_Refire_Delay_ms>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
-							<Firing_Cone_Min>1.5</Firing_Cone_Min>
+							<Firing_Cone_Min>2.0</Firing_Cone_Min>
 							<Gib_Impulse_Up>15.0</Gib_Impulse_Up>
 							<Rounds_From_Ammo_Box>18</Rounds_From_Ammo_Box>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
