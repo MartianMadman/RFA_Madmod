@@ -90,7 +90,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Tweaked difficulty.xtbl and ammo.xtbl again.
 -Fixed more odd and out of place shadows.
 -Doubled magnet gun pull radius.
--Doubled repair grenade radius.
+(REVERTED)-Doubled long distance repair radius.
 (REVERTED)-Even more aggressive AI.
 -Removed reloading.
 
@@ -178,6 +178,9 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 
 \Changelog v0.9.41/
 -Use the correct lower-specs 1st Person Packed files.
+
+\Changelog v0.9.5/
+-Reduce long distance repair radius to reduce stuttering when repairing large structures.
 
 \Issues/
 -Makes game more hardware demanding.
