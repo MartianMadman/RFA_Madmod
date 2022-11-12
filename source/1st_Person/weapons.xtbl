@@ -2693,9 +2693,9 @@
 							<NPC_Firing_Pattern>Default Launcher</NPC_Firing_Pattern>
 							<Damage_Scaling_Max>
 								<Threshold>100</Threshold>
-								<NPC_Damage>270</NPC_Damage>
+								<NPC_Damage>540</NPC_Damage>
 								<Player_Damage>200</Player_Damage>
-								<Vehicle_Damage>250</Vehicle_Damage>
+								<Vehicle_Damage>500</Vehicle_Damage>
 								<Player_Vehicle_Damage>-1</Player_Vehicle_Damage>
 								<Structural_Damage>0.0</Structural_Damage>
 								</Damage_Scaling_Max>
