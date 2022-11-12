@@ -1796,9 +1796,9 @@
 							<NPC_Firing_Pattern>Default m16</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>Default</NPC_Aim_Drift>
 							<Damage_Scaling_Max>
-								<NPC_Damage>40</NPC_Damage>
+								<NPC_Damage>80</NPC_Damage>
 								<Player_Damage>15</Player_Damage>
-								<Vehicle_Damage>55</Vehicle_Damage>
+								<Vehicle_Damage>110</Vehicle_Damage>
 								<Player_Vehicle_Damage>11</Player_Vehicle_Damage>
 								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
@@ -10122,9 +10122,9 @@
 							<NPC_Firing_Pattern>Default m16</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>Default</NPC_Aim_Drift>
 							<Damage_Scaling_Max>
-								<NPC_Damage>55</NPC_Damage>
+								<NPC_Damage>110</NPC_Damage>
 								<Player_Damage>55</Player_Damage>
-								<Vehicle_Damage>55</Vehicle_Damage>
+								<Vehicle_Damage>110</Vehicle_Damage>
 								<Player_Vehicle_Damage>55</Player_Vehicle_Damage>
 								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
