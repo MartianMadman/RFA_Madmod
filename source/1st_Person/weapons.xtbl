@@ -2297,7 +2297,6 @@
 								<Flag>throttle hit effects</Flag>
 								<Flag>shatter</Flag>
 								<Flag>keep magazine filled</Flag>
-								<Flag>always fire shot in center</Flag>
 								<Flag>suppress death anims</Flag>
 								<Flag>is minor hit to vehicles</Flag>
 								</Flags>
