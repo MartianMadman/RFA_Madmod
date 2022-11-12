@@ -2798,7 +2798,7 @@ full height (top to bottom)</Description>
 		</Tweak_Table_Entry>
 	<Tweak_Table_Entry>
 		<Name>Max_simultaneous_proxies</Name>
-		<Value>127</Value>
+		<Value>120</Value>
 		<Description>Maximum number of proximity mines that can be out in the world at any given time. The game will crash if more than 128 projectiles (total, not just proxies) are placed, so this tweakable value represents the number at which we start deleting old proxies.</Description>
 		<_Editor>
 			<Category>Weapons</Category>
