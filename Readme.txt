@@ -185,7 +185,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Further increased Fast Hands upgrade weapon swapping speed.
 -Doubled explosion damage from the Pulse grenade launcher.
 -Increased small firearms structural damage.
--Doubled Assualt rifle npc damage. 
+-Doubled Assualt and Nano rifle npc damage. 
 -Use headshot damage multiplier.
 -More randomized shotgun spread.
 
