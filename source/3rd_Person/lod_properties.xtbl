@@ -58,7 +58,7 @@
 		</LOD>
 	<LOD>
 		<Name>light_medium</Name>
-		<lod_start_fade_distance>75</lod_start_fade_distance>
+		<lod_start_fade_distance>70</lod_start_fade_distance>
 		<lod_fade_duration>1500</lod_fade_duration>
 		<_Editor>
 			<Category>Entries:lighting_LOD</Category>
