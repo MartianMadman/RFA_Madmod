@@ -2297,6 +2297,7 @@
 								<Flag>throttle hit effects</Flag>
 								<Flag>shatter</Flag>
 								<Flag>keep magazine filled</Flag>
+								<Flag>always fire shot in center</Flag>
 								<Flag>suppress death anims</Flag>
 								<Flag>is minor hit to vehicles</Flag>
 								</Flags>
@@ -2335,7 +2336,7 @@
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Spread_Shots_To_Max>2</Spread_Shots_To_Max>
 							<Spread_Cooldown_Time_ms>3000</Spread_Cooldown_Time_ms>
-							<Gib_Head_On_Death_Chance>0.0</Gib_Head_On_Death_Chance>
+							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>1.0</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_shotgun</Icon_Name>
 							<Off_Hand_Fire_Action_Override>stand fire alt</Off_Hand_Fire_Action_Override>
