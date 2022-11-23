@@ -1463,8 +1463,8 @@
 				<Delay>0</Delay>
 				<StructuralDamageInnerRadius>0.0</StructuralDamageInnerRadius>
 				<Number_Of_Cuts>5</Number_Of_Cuts>
-				<Delay_Between_Cuts>150</Delay_Between_Cuts>
-				<StructuralDamageOuterRadius>2.0</StructuralDamageOuterRadius>
+				<Delay_Between_Cuts>300</Delay_Between_Cuts>
+				<StructuralDamageOuterRadius>4.0</StructuralDamageOuterRadius>
 				<Flags>
 					<Flag>break links only</Flag>
 					</Flags>
