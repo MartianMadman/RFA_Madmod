@@ -331,7 +331,7 @@
 			<Parameter>
 				<Name>Headshot Damage Mult</Name>
 				<Value>
-					<Float>2.0</Float>
+					<Float>3.0</Float>
 					</Value>
 				</Parameter>
 			<Parameter>
