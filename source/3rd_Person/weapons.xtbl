@@ -991,14 +991,14 @@
 								</Sounds>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<NPC_Aim_Drift>Default</NPC_Aim_Drift>
-							<Rounds_On_Pickup>4</Rounds_On_Pickup>
+							<Rounds_On_Pickup>3</Rounds_On_Pickup>
 							<Player_Refire_Delay_ms>0</Player_Refire_Delay_ms>
 							<Shots_Per_Round>1</Shots_Per_Round>
 							<Ammo_Type>Gravitic Imploder</Ammo_Type>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>1.0</Gib_Chance>
 							<Reload_Delay_No_Animation_ms>0</Reload_Delay_No_Animation_ms>
-							<Rounds_From_Ammo_Box>4</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>3</Rounds_From_Ammo_Box>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
 							<Headshot_Multiplier>2.0</Headshot_Multiplier>
@@ -1177,7 +1177,7 @@
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<Shots_Per_Round>1</Shots_Per_Round>
 							<Ammo_Type>Chain Lighting</Ammo_Type>
-							<Rounds_On_Pickup>300</Rounds_On_Pickup>
+							<Rounds_On_Pickup>100</Rounds_On_Pickup>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -1197,7 +1197,7 @@
 							<Gib_Head_On_Death_Chance>0.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0.0</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_chain_lightning</Icon_Name>
-							<Rounds_From_Ammo_Box>300</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>100</Rounds_From_Ammo_Box>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>15</Shots_To_Max_Recoil>
 							</Firing_Mode>
@@ -1279,7 +1279,7 @@
 								</Trigger_Type>
 							<Magazine_Size>1</Magazine_Size>
 							<Ammo_Type>Remote Charge</Ammo_Type>
-							<Rounds_From_Ammo_Box>8</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>4</Rounds_From_Ammo_Box>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Range_Red>200</Range_Red>
@@ -1301,7 +1301,7 @@
 								<Flag>reload is remote trigger</Flag>
 								<Flag>play remote trigger sound</Flag>
 								</Flags>
-							<Rounds_On_Pickup>8</Rounds_On_Pickup>
+							<Rounds_On_Pickup>4</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -1523,7 +1523,7 @@
 							<Spread_Max>1.0</Spread_Max>
 							<NPC_Spread_Min>0.0</NPC_Spread_Min>
 							<NPC_Spread_Max>1.0</NPC_Spread_Max>
-							<Rounds_On_Pickup>200</Rounds_On_Pickup>
+							<Rounds_On_Pickup>50</Rounds_On_Pickup>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Sounds>
 								<sound_event>WEP_PHASEDPLASMABEAM_FIRE</sound_event>
@@ -1778,7 +1778,7 @@
 								</Trigger_Type>
 							<Magazine_Size>36</Magazine_Size>
 							<Ammo_Type>Plasma</Ammo_Type>
-							<Rounds_From_Ammo_Box>72</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>24</Rounds_From_Ammo_Box>
 							<Dropped_Ammo_Scale>0.5</Dropped_Ammo_Scale>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -1828,7 +1828,7 @@
 								<Flag>keep magazine filled</Flag>
 								<Flag>suppress death anims</Flag>
 								</Flags>
-							<Rounds_On_Pickup>72</Rounds_On_Pickup>
+							<Rounds_On_Pickup>24</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -1940,7 +1940,7 @@
 								</Trigger_Type>
 							<Magazine_Size>40</Magazine_Size>
 							<Ammo_Type>Bullet Rifle</Ammo_Type>
-							<Rounds_From_Ammo_Box>72</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>24</Rounds_From_Ammo_Box>
 							<Dropped_Ammo_Scale>0.5</Dropped_Ammo_Scale>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -1991,7 +1991,7 @@
 								<Flag>is minor hit to vehicles</Flag>
 								<Flag>suppress death anims</Flag>
 								</Flags>
-							<Rounds_On_Pickup>144</Rounds_On_Pickup>
+							<Rounds_On_Pickup>24</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -2106,7 +2106,7 @@
 								</Trigger_Type>
 							<Magazine_Size>32</Magazine_Size>
 							<Ammo_Type>Bullet Rifle</Ammo_Type>
-							<Rounds_From_Ammo_Box>64</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>32</Rounds_From_Ammo_Box>
 							<Dropped_Ammo_Scale>0.5</Dropped_Ammo_Scale>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -2158,7 +2158,7 @@
 								<Flag>keep magazine filled</Flag>
 								<Flag>suppress death anims</Flag>
 								</Flags>
-							<Rounds_On_Pickup>64</Rounds_On_Pickup>
+							<Rounds_On_Pickup>32</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -2311,7 +2311,7 @@
 								<Muzzle_Flash>wep_shotgun_muzz</Muzzle_Flash>
 								<Fire_Camera_Shake>weapon_fire_autoblast</Fire_Camera_Shake>
 								</Visuals>
-							<Rounds_On_Pickup>18</Rounds_On_Pickup>
+							<Rounds_On_Pickup>8</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -2343,7 +2343,7 @@
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Firing_Cone_Min>2.0</Firing_Cone_Min>
 							<Gib_Impulse_Up>15.0</Gib_Impulse_Up>
-							<Rounds_From_Ammo_Box>18</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>8</Rounds_From_Ammo_Box>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
 							<Headshot_Multiplier>2.0</Headshot_Multiplier>
 							</Firing_Mode>
@@ -2477,7 +2477,7 @@
 								<pain_pc_override>pain</pain_pc_override>
 								<death_pc_override>death scream</death_pc_override>
 								</Sounds>
-							<Rounds_On_Pickup>200</Rounds_On_Pickup>
+							<Rounds_On_Pickup>50</Rounds_On_Pickup>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>0.5</Shots_To_Max_Recoil>
 							<Headshot_Multiplier>2.0</Headshot_Multiplier>
@@ -2591,7 +2591,7 @@
 								<death_pc_override>death scream</death_pc_override>
 								</Sounds>
 							<Ammo_Type>Nano Grenade</Ammo_Type>
-							<Rounds_On_Pickup>6</Rounds_On_Pickup>
+							<Rounds_On_Pickup>3</Rounds_On_Pickup>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Gib_Head_On_Death_Chance>0.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0.0</Gib_Chance>
@@ -2676,7 +2676,7 @@
 								</Trigger_Type>
 							<Magazine_Size>4</Magazine_Size>
 							<Ammo_Type>Bullet Nano</Ammo_Type>
-							<Rounds_From_Ammo_Box>12</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>6</Rounds_From_Ammo_Box>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -2712,7 +2712,7 @@
 								<Flag>suppress death anims</Flag>
 								<Flag>keep magazine filled</Flag>
 								</Flags>
-							<Rounds_On_Pickup>12</Rounds_On_Pickup>
+							<Rounds_On_Pickup>6</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -3087,7 +3087,7 @@
 							<Icon_Name>ui_icon_wpn_grenade</Icon_Name>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<Ammo_Type>Grenade</Ammo_Type>
-							<Rounds_On_Pickup>15</Rounds_On_Pickup>
+							<Rounds_On_Pickup>5</Rounds_On_Pickup>
 							<NPC_Refire_Delay_ms>900</NPC_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Shots_Per_Round>1</Shots_Per_Round>
@@ -3582,8 +3582,8 @@
 							<NPC_Min_Range>10</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<Ammo_Type>Rail Driver</Ammo_Type>
-							<Rounds_From_Ammo_Box>15</Rounds_From_Ammo_Box>
-							<Rounds_On_Pickup>15</Rounds_On_Pickup>
+							<Rounds_From_Ammo_Box>5</Rounds_From_Ammo_Box>
+							<Rounds_On_Pickup>5</Rounds_On_Pickup>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -3734,7 +3734,7 @@
 							<Flags>
 								<Flag>keep magazine filled</Flag>
 								</Flags>
-							<Rounds_On_Pickup>6</Rounds_On_Pickup>
+							<Rounds_On_Pickup>4</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -3991,9 +3991,9 @@
 							<NPC_Firing_Pattern>Default Pistol</NPC_Firing_Pattern>
 							<Damage_Scaling_Max>
 								<Threshold>200</Threshold>
-								<NPC_Damage>120</NPC_Damage>
+								<NPC_Damage>60</NPC_Damage>
 								<Player_Damage>60</Player_Damage>
-								<Vehicle_Damage>120</Vehicle_Damage>
+								<Vehicle_Damage>60</Vehicle_Damage>
 								<Player_Vehicle_Damage>60</Player_Vehicle_Damage>
 								<Structural_Damage>1800</Structural_Damage>
 								</Damage_Scaling_Max>
@@ -4012,8 +4012,8 @@
 							<Ammo_Per_Round>1</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Rounds_From_Ammo_Box>20</Rounds_From_Ammo_Box>
-							<Rounds_On_Pickup>48</Rounds_On_Pickup>
+							<Rounds_From_Ammo_Box>16</Rounds_From_Ammo_Box>
+							<Rounds_On_Pickup>16</Rounds_On_Pickup>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -4154,7 +4154,7 @@
 								<Muzzle_Flash>wep_alien_shotgun_muzz</Muzzle_Flash>
 								<Fire_Camera_Shake>weapon_fire_shotgun</Fire_Camera_Shake>
 								</Visuals>
-							<Rounds_On_Pickup>16</Rounds_On_Pickup>
+							<Rounds_On_Pickup>8</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>1</Index>
@@ -9974,9 +9974,9 @@
 							<NPC_Firing_Pattern>Default Pistol</NPC_Firing_Pattern>
 							<Damage_Scaling_Max>
 								<Threshold>200</Threshold>
-								<NPC_Damage>240</NPC_Damage>
+								<NPC_Damage>140</NPC_Damage>
 								<Player_Damage>140</Player_Damage>
-								<Vehicle_Damage>250</Vehicle_Damage>
+								<Vehicle_Damage>150</Vehicle_Damage>
 								<Player_Vehicle_Damage>150</Player_Vehicle_Damage>
 								<Structural_Damage>1600</Structural_Damage>
 								</Damage_Scaling_Max>
@@ -9995,8 +9995,8 @@
 							<Ammo_Per_Round>1</Ammo_Per_Round>
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
-							<Rounds_From_Ammo_Box>24</Rounds_From_Ammo_Box>
-							<Rounds_On_Pickup>24</Rounds_On_Pickup>
+							<Rounds_From_Ammo_Box>12</Rounds_From_Ammo_Box>
+							<Rounds_On_Pickup>12</Rounds_On_Pickup>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -10103,7 +10103,7 @@
 								</Trigger_Type>
 							<Magazine_Size>36</Magazine_Size>
 							<Ammo_Type>Plasma</Ammo_Type>
-							<Rounds_From_Ammo_Box>72</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>24</Rounds_From_Ammo_Box>
 							<Dropped_Ammo_Scale>0.5</Dropped_Ammo_Scale>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -10153,7 +10153,7 @@
 								<Flag>suppress death anims</Flag>
 								<Flag>keep magazine filled</Flag>
 								</Flags>
-							<Rounds_On_Pickup>144</Rounds_On_Pickup>
+							<Rounds_On_Pickup>24</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -10310,7 +10310,7 @@
 							<Spread_Max>1.0</Spread_Max>
 							<NPC_Spread_Min>0.0</NPC_Spread_Min>
 							<NPC_Spread_Max>1.0</NPC_Spread_Max>
-							<Rounds_On_Pickup>100</Rounds_On_Pickup>
+							<Rounds_On_Pickup>50</Rounds_On_Pickup>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Sounds>
 								<sound_event>WEP_LASER_PISTOL_PC</sound_event>
@@ -10322,7 +10322,7 @@
 								</Sounds>
 							<Gib_Head_On_Death_Chance>0.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0.0</Gib_Chance>
-							<Rounds_From_Ammo_Box>100</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>50</Rounds_From_Ammo_Box>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 							<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
@@ -10468,7 +10468,7 @@
 							<Spread_Max>1.0</Spread_Max>
 							<NPC_Spread_Min>0.0</NPC_Spread_Min>
 							<NPC_Spread_Max>1.0</NPC_Spread_Max>
-							<Rounds_On_Pickup>200</Rounds_On_Pickup>
+							<Rounds_On_Pickup>50</Rounds_On_Pickup>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Sounds>
 								<sound_event>WEP_UNICRON</sound_event>
@@ -11326,7 +11326,7 @@
 							<Flags>
 								<Flag>dont damage owner</Flag>
 								</Flags>
-							<Rounds_On_Pickup>6</Rounds_On_Pickup>
+							<Rounds_On_Pickup>4</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -12087,7 +12087,7 @@
 							<Flags>
 								<Flag>dont damage owner</Flag>
 								</Flags>
-							<Rounds_On_Pickup>6</Rounds_On_Pickup>
+							<Rounds_On_Pickup>4</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -13728,8 +13728,8 @@
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<Ammo_Type>Plasma Pistol</Ammo_Type>
-							<Rounds_From_Ammo_Box>50</Rounds_From_Ammo_Box>
-							<Rounds_On_Pickup>108</Rounds_On_Pickup>
+							<Rounds_From_Ammo_Box>54</Rounds_From_Ammo_Box>
+							<Rounds_On_Pickup>54</Rounds_On_Pickup>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -13866,7 +13866,7 @@
 								<Muzzle_Flash>wep_mar_shotgun_muzz</Muzzle_Flash>
 								<Fire_Camera_Shake>weapon_fire_autoblast</Fire_Camera_Shake>
 								</Visuals>
-							<Rounds_On_Pickup>40</Rounds_On_Pickup>
+							<Rounds_On_Pickup>20</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -14894,7 +14894,7 @@
 								</Trigger_Type>
 							<Magazine_Size>36</Magazine_Size>
 							<Ammo_Type>Plasma</Ammo_Type>
-							<Rounds_From_Ammo_Box>72</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>24</Rounds_From_Ammo_Box>
 							<Dropped_Ammo_Scale>0.5</Dropped_Ammo_Scale>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -14948,7 +14948,7 @@
 								<Flag>looping fire effects</Flag>
 								<Flag>suppress death anims</Flag>
 								</Flags>
-							<Rounds_On_Pickup>72</Rounds_On_Pickup>
+							<Rounds_On_Pickup>24</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -15042,7 +15042,7 @@
 								</Trigger_Type>
 							<Magazine_Size>1</Magazine_Size>
 							<Ammo_Type>Plasma Cannon</Ammo_Type>
-							<Rounds_From_Ammo_Box>20</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>5</Rounds_From_Ammo_Box>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
 							<Range_Red>200</Range_Red>
@@ -15059,7 +15059,7 @@
 								</Damage_Scaling_Max>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Flags></Flags>
-							<Rounds_On_Pickup>10</Rounds_On_Pickup>
+							<Rounds_On_Pickup>5</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
@@ -15374,7 +15374,7 @@
 								</Trigger_Type>
 							<Magazine_Size>36</Magazine_Size>
 							<Ammo_Type>Plasma</Ammo_Type>
-							<Rounds_From_Ammo_Box>72</Rounds_From_Ammo_Box>
+							<Rounds_From_Ammo_Box>24</Rounds_From_Ammo_Box>
 							<Dropped_Ammo_Scale>0.5</Dropped_Ammo_Scale>
 							<Spread_Min>0.0</Spread_Min>
 							<Spread_Max>1.0</Spread_Max>
@@ -15428,7 +15428,7 @@
 								<Flag>looping fire effects</Flag>
 								<Flag>suppress death anims</Flag>
 								</Flags>
-							<Rounds_On_Pickup>72</Rounds_On_Pickup>
+							<Rounds_On_Pickup>24</Rounds_On_Pickup>
 							<Barrel_Behavior>
 								<Single>
 									<Index>0</Index>
