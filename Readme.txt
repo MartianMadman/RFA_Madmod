@@ -189,6 +189,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Increased small firearms structural damage.
 -Further reduced size of ammo pickups.
 -Doubled nano rifle explosion radius.
+-Melee upgrade adds always gib flag.
 -Player melee always ragdolls npcs.
 -Use 100% Hammer melee gib chance.
 -Use headshot damage multiplier.
