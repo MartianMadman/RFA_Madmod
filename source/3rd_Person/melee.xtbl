@@ -255,7 +255,8 @@
 					<HitHeight>1.3</HitHeight>
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
-				<Gib_Chance>.3</Gib_Chance>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>60</Gib_Impulse>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
 				<pain_pc_override>pain blunt</pain_pc_override>
@@ -354,7 +355,8 @@
 					<HitHeight>1.4</HitHeight>
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
-				<Gib_Chance>.3</Gib_Chance>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>60</Gib_Impulse>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
 				<pain_pc_override>pain blunt</pain_pc_override>
