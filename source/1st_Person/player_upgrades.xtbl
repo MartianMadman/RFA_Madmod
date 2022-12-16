@@ -277,6 +277,12 @@
 					<Bool></Bool>
 					</Value>
 				</Parameter>
+			<Parameter>
+				<Name>Always Gib</Name>
+				<Value>
+					<Bool></Bool>
+					</Value>
+				</Parameter>
 			</Parameters>
 		<_Editor>
 			<Category>Entries:Tier_2</Category>
