@@ -44,6 +44,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>ignore terrain</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -107,6 +108,7 @@
 					</HitDirection>
 				<Flags>
 					<Flag>structural damage</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -178,6 +180,7 @@
 					</HitDirection>
 				<Flags>
 					<Flag>structural damage</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>160</ImpactForce>
 				<AwayImpulseScale>1.0</AwayImpulseScale>
@@ -243,6 +246,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>instantly break shards</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>300</ImpactForce>
 				<AwayImpulseScale>1.0</AwayImpulseScale>
@@ -343,6 +347,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>instantly break shards</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>350</ImpactForce>
 				<AwayImpulseScale>0.25</AwayImpulseScale>
@@ -441,6 +446,7 @@
 					</HitDirection>
 				<Flags>
 					<Flag>structural damage</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>130</ImpactForce>
 				<AwayImpulseScale>1.2</AwayImpulseScale>
@@ -568,6 +574,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>ignore terrain</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -631,6 +638,7 @@
 					</HitDirection>
 				<Flags>
 					<Flag>structural damage</Flag>
+					<Flag>always knock down npc</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
