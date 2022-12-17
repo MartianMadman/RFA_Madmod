@@ -5525,7 +5525,6 @@
 		<Rigid_Body_Height>4.0</Rigid_Body_Height>
 		<MovingTurnShuffleMinAngle>90.0</MovingTurnShuffleMinAngle>
 		<Collision_Push_Velocity_Multiplier>0.4</Collision_Push_Velocity_Multiplier>
-		<Matfx_Fade_On_Death>Acid</Matfx_Fade_On_Death>
 		<Min_Flinch_Interval_ms>8000</Min_Flinch_Interval_ms>
 		<Death_Damage_Region>tank_death</Death_Damage_Region>
 		<Death_Damage_Region_Duration_s>5.0</Death_Damage_Region_Duration_s>
