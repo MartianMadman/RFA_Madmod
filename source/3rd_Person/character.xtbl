@@ -2020,7 +2020,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -2040,12 +2040,6 @@
 			<Decay_Delay_ms>1000</Decay_Delay_ms>
 			</Large_Flinch_Buildup>
 		<Walk_Ramp_Frames>6</Walk_Ramp_Frames>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Fine_Aim_Snap_Head_Radius>0.225</Fine_Aim_Snap_Head_Radius>
 		<Mass>90.0</Mass>
 		<Collision_Push_Max_Mass>1750.0</Collision_Push_Max_Mass>
@@ -2939,12 +2933,6 @@
 		<Aim_Assist_Head_Offset_Min>0.2</Aim_Assist_Head_Offset_Min>
 		<Aim_Assist_Head_Offset_Max>0.5</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien creeper</ModelType>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Creeper</Controller_Type>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -3268,12 +3256,6 @@
 				</Streamed_Effect>
 			</Streamed_Effects>
 		<Spinebend>grunt</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Grunt</Controller_Type>
 		<Bone_LOD>Grunt</Bone_LOD>
 		<Head_Gib_VID>41</Head_Gib_VID>
@@ -3584,12 +3566,6 @@
 		<Bleed_Out_Threshhold>0.3</Bleed_Out_Threshhold>
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Heavy</Controller_Type>
 		<Fade_Out_Distance>100</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
@@ -4308,12 +4284,6 @@
 		<Aim_Assist_Head_Offset_Max>0.5</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien ambusher</ModelType>
 		<Spinebend>human</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Grunt</Controller_Type>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Fade_Out_Distance>75</Fade_Out_Distance>
@@ -5095,12 +5065,6 @@
 				</Streamed_Effect>
 			</Streamed_Effects>
 		<Spinebend>grunt</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Grunt</Controller_Type>
 		<Fade_Out_Distance>75</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
@@ -5446,12 +5410,6 @@
 		<Aim_Assist_Head_Offset_Min>0.7</Aim_Assist_Head_Offset_Min>
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien tank</ModelType>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Tank</Controller_Type>
 		<Fade_Out_Distance>150</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
@@ -5525,7 +5483,6 @@
 		<Rigid_Body_Height>4.0</Rigid_Body_Height>
 		<MovingTurnShuffleMinAngle>90.0</MovingTurnShuffleMinAngle>
 		<Collision_Push_Velocity_Multiplier>0.4</Collision_Push_Velocity_Multiplier>
-		<Matfx_Fade_On_Death>Acid</Matfx_Fade_On_Death>
 		<Min_Flinch_Interval_ms>8000</Min_Flinch_Interval_ms>
 		<Death_Damage_Region>tank_death</Death_Damage_Region>
 		<Death_Damage_Region_Duration_s>5.0</Death_Damage_Region_Duration_s>
@@ -5624,12 +5581,6 @@
 				</Streamed_Effect>
 			</Streamed_Effects>
 		<Spinebend>grunt</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Grunt</Controller_Type>
 		<Bone_LOD>Grunt</Bone_LOD>
 		<Head_Gib_VID>41</Head_Gib_VID>
@@ -6150,7 +6101,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -6170,12 +6121,6 @@
 			<Decay_Delay_ms>1000</Decay_Delay_ms>
 			</Large_Flinch_Buildup>
 		<Walk_Ramp_Frames>12</Walk_Ramp_Frames>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Persistent_Effects>
 			<Persistent_Effect>
 				<Effect>char_mar_war_eye_a</Effect>
@@ -6594,12 +6539,6 @@
 		<Aim_Assist_Head_Offset_Min>0.4</Aim_Assist_Head_Offset_Min>
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien bigasscreeper</ModelType>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>big_creeper</Controller_Type>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -7371,12 +7310,6 @@
 			<Decay_Delay_ms>1000</Decay_Delay_ms>
 			</Large_Flinch_Buildup>
 		<Walk_Ramp_Frames>6</Walk_Ramp_Frames>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Persistent_Effects>
 			<Persistent_Effect>
 				<Effect>char_mar_allies_a_eyes</Effect>
@@ -7560,12 +7493,6 @@
 			<Decay_Delay_ms>1000</Decay_Delay_ms>
 			</Large_Flinch_Buildup>
 		<Walk_Ramp_Frames>6</Walk_Ramp_Frames>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Persistent_Effects>
 			<Persistent_Effect>
 				<Effect>char_mar_allies_a_eyes</Effect>
@@ -7728,7 +7655,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -7748,12 +7675,6 @@
 			<Decay_Delay_ms>1000</Decay_Delay_ms>
 			</Large_Flinch_Buildup>
 		<Walk_Ramp_Frames>6</Walk_Ramp_Frames>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Persistent_Effects>
 			<Persistent_Effect>
 				<Effect>char_mar_off_eyes_b</Effect>
@@ -9371,12 +9292,6 @@
 		<Bleed_Out_Threshhold>0.3</Bleed_Out_Threshhold>
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Heavy</Controller_Type>
 		<Fade_Out_Distance>100</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
@@ -10321,12 +10236,6 @@
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>30</Walk_Ramp_Frames>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>2.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Fine_Aim_Snap_Head_Radius>0.2</Fine_Aim_Snap_Head_Radius>
 		<Mass>90.0</Mass>
 		<Collision_Push_Max_Mass>1750.0</Collision_Push_Max_Mass>
@@ -10538,12 +10447,6 @@
 		<Aim_Assist_Head_Offset_Min>0.1</Aim_Assist_Head_Offset_Min>
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien grunt</ModelType>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1.0</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Human NPC</Controller_Type>
 		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
@@ -10648,12 +10551,6 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
-		<Damage_Location_Multipliers>
-			<Damage_Location_Multiplier>
-				<Location>Head</Location>
-				<Damage_Multiplier>1.5</Damage_Multiplier>
-				</Damage_Location_Multiplier>
-			</Damage_Location_Multipliers>
 		<Controller_Type>Elite</Controller_Type>
 		<Fade_Out_Distance>150</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
