@@ -57,6 +57,8 @@
 					<HitHeight>1.4</HitHeight>
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>40</Gib_Impulse>
 				<AlternateAttackAnim>melee low move</AlternateAttackAnim>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
@@ -121,6 +123,8 @@
 					<HitHeight>1.4</HitHeight>
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>40</Gib_Impulse>
 				<AlternateAttackAnim>melee b</AlternateAttackAnim>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
@@ -587,6 +591,8 @@
 					<HitHeight>1.4</HitHeight>
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>40</Gib_Impulse>
 				<AlternateAttackAnim>melee low move</AlternateAttackAnim>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
@@ -651,6 +657,8 @@
 					<HitHeight>1.4</HitHeight>
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>40</Gib_Impulse>
 				<AlternateAttackAnim>melee b</AlternateAttackAnim>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
