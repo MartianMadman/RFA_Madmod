@@ -1850,7 +1850,7 @@
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>1.0</Gib_Chance>
 							<Gib_Threshold_Percent>0.4</Gib_Threshold_Percent>
-							<Gib_Impulse>100.0</Gib_Impulse>
+							<Gib_Impulse>40.0</Gib_Impulse>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>6</Shots_To_Max_Recoil>
 							<Headshot_Multiplier>2.0</Headshot_Multiplier>
