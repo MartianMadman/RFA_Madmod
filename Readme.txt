@@ -191,8 +191,8 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Further reduced size of ammo pickups.
 -Behemoth corpse never despawns/fades.
 -Doubled nano rifle explosion radius.
+-Always do gibbing with player melee.
 -Player melee always ragdolls npcs.
--Use 100% Hammer melee gib chance.
 -Use headshot damage multiplier.
 -More randomized shotgun spread.
 
