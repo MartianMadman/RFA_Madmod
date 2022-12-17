@@ -1848,7 +1848,8 @@
 							<reacquisition_cooldown>1500</reacquisition_cooldown>
 							<Bullet_Group>Standard</Bullet_Group>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
-							<Gib_Chance>0.7</Gib_Chance>
+							<Gib_Chance>1.0</Gib_Chance>
+							<Gib_Threshold_Percent>0.4</Gib_Threshold_Percent>
 							<Gib_Impulse>100.0</Gib_Impulse>
 							<Gib_Impulse_Up>20.0</Gib_Impulse_Up>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
