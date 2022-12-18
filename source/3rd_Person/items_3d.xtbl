@@ -20,7 +20,7 @@
 			<Flag>is_audio_log</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Touch_Script>
 			<Audio_Log></Audio_Log>
@@ -48,7 +48,7 @@
 		<Mesh>
 			<Filename>eggpod_collision_item.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -68,7 +68,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -92,7 +92,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -115,7 +115,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -146,7 +146,7 @@
 				</rig>
 			<Anim_set>none</Anim_set>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -165,7 +165,7 @@
 		<Mesh>
 			<Filename>mar_turret_head.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -191,7 +191,7 @@
 				<Type>accessory_misc</Type>
 				</Prop>
 			</Props>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -210,7 +210,7 @@
 			</_Editor>
 		<Mass>30</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -254,7 +254,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -277,7 +277,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -301,7 +301,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>20</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -325,7 +325,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -353,7 +353,7 @@
 		<Mesh>
 			<Filename>magic_rock_barnacle.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Physical_Material>Alien-Flesh</Physical_Material>
 		<Effect_Material>Alien Flesh</Effect_Material>
 		<mp_preload>True</mp_preload>
@@ -384,7 +384,7 @@
 			<Y>0.0</Y>
 			<Z>1</Z>
 			</Cloth_Sim_Hinge_Vector>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -397,7 +397,7 @@
 		<_Editor>
 			<Category>Entries:inv_projectiles</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -443,7 +443,7 @@
 			<Anim_set>none</Anim_set>
 			<Filename></Filename>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -471,7 +471,7 @@
 				<Type>Held</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -495,7 +495,7 @@
 		<pickup_static_mesh>
 			<Filename>rpg_projectile.smeshx</Filename>
 			</pickup_static_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -544,7 +544,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<pickup_static_mesh>
@@ -574,7 +574,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -599,7 +599,7 @@
 			<Flag>special_bbox</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -618,7 +618,7 @@
 			</_Editor>
 		<Mass>30</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -644,7 +644,7 @@
 				<Type>accessory_misc</Type>
 				</Prop>
 			</Props>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -663,7 +663,7 @@
 		<Mesh>
 			<Filename>cru_head.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -696,7 +696,7 @@
 				<Type>Held</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -715,7 +715,7 @@
 		<Mesh>
 			<Filename>hw_turret_weapon.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -744,7 +744,7 @@
 			<Anim_set>Weap_Magnet_Gun</Anim_set>
 			<Blend_Tree>test magnet gun</Blend_Tree>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -773,7 +773,7 @@
 			</_Editor>
 		<Mass>30</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -793,7 +793,7 @@
 			</_Editor>
 		<Mass>100</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -813,7 +813,7 @@
 		<_Editor>
 			<Category>Entries:TurretCorpses</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -842,7 +842,7 @@
 				<Type>clip</Type>
 				</Prop>
 			</Props>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -881,7 +881,7 @@
 				<Type>clip</Type>
 				</Prop>
 			</Props>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -904,7 +904,7 @@
 			<Filename>rocket_launcher_clip.smeshx</Filename>
 			</Mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -923,7 +923,7 @@
 		<Mesh>
 			<Filename>rocket_proj.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -965,7 +965,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -993,7 +993,7 @@
 			<Anim_set>weap_remote_charge</Anim_set>
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1021,7 +1021,7 @@
 			<Anim_set>none</Anim_set>
 			<Filename></Filename>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Respawn_Delay>60000</Respawn_Delay>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -1066,7 +1066,7 @@
 				</Flags>
 			</Damage_Info>
 		<Explosion>propane_tank</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1090,7 +1090,7 @@
 			<Flag>cast_shadows</Flag>
 			<Flag>collide_as_mover</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -1135,7 +1135,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_MD</Touch_Sound_2>
@@ -1190,7 +1190,7 @@
 			<Anim_set>weap_ppr</Anim_set>
 			<Blend_Tree>ppr</Blend_Tree>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_MD</Touch_Sound_2>
@@ -1219,7 +1219,7 @@
 		<Restitution>.1</Restitution>
 		<Friction>5.5</Friction>
 		<Explosion>plasma_grenade_explosion</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -1271,7 +1271,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -1322,7 +1322,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -1354,7 +1354,7 @@
 		<Mesh>
 			<Filename>clg.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -1381,7 +1381,7 @@
 		<Mesh>
 			<Filename>magnet_static.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1398,7 +1398,7 @@
 		<Mesh>
 			<Filename>magnet_static.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1411,7 +1411,7 @@
 		<Mesh>
 			<Filename>ppcr_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1439,7 +1439,7 @@
 		<Mesh>
 			<Filename>upgrade_token.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1452,7 +1452,7 @@
 		<_Editor>
 			<Category>Misc</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1471,7 +1471,7 @@
 		<Mesh>
 			<Filename>gravitic_imploder_glass.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Collision_Sound>WEP_GENERIC_DROP</Collision_Sound>
 		</Item>
@@ -1485,7 +1485,7 @@
 		<Mesh>
 			<Filename>ppr_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1505,7 +1505,7 @@
 			</_Editor>
 		<Mass>100</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1530,7 +1530,7 @@
 				<Type>accessory_misc</Type>
 				</Prop>
 			</Props>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1549,7 +1549,7 @@
 		<Mesh>
 			<Filename>cru_shield_glass.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1574,7 +1574,7 @@
 				<Type>accessory_misc</Type>
 				</Prop>
 			</Props>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1610,7 +1610,7 @@
 				</Flags>
 			</Damage_Info>
 		<Explosion>chemical_tank_explosion</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1646,7 +1646,7 @@
 				</Flags>
 			</Damage_Info>
 		<Explosion>pressurized_tank_explosion</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1663,7 +1663,7 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1680,7 +1680,7 @@
 		<Mesh>
 			<Filename>cru_tank_1_turret_null.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1695,7 +1695,7 @@
 			</Mesh>
 		<MaterialEffect>nanorifle_damage</MaterialEffect>
 		<Respawn_Delay>60000</Respawn_Delay>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1728,7 +1728,7 @@
 		<Mesh>
 			<Filename>ppr.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -1779,7 +1779,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<pickup_static_mesh>
 			<Filename>gi_pickup.smeshx</Filename>
 			</pickup_static_mesh>
@@ -1798,7 +1798,7 @@
 		<Mesh>
 			<Filename>gi_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1811,7 +1811,7 @@
 		<Mesh>
 			<Filename>clg_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1846,7 +1846,7 @@
 			<Anim_set>none</Anim_set>
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -1898,7 +1898,7 @@
 		<Touch_Script>
 			<give_item></give_item>
 			</Touch_Script>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<pickup_static_mesh>
@@ -1923,7 +1923,7 @@
 		<Mesh>
 			<Filename>cru_head_unmanned.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1959,7 +1959,7 @@
 				<Type>Always</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -1995,7 +1995,7 @@
 				<Type>Always</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2031,7 +2031,7 @@
 				<Type>Always</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2056,7 +2056,7 @@
 			<Flag>cloth_sim_destroy_on_anchor_detach</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2074,7 +2074,7 @@
 		<Mesh>
 			<Filename>sniper_resin_projectile.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2099,7 +2099,7 @@
 			<Flag>cloth_sim_destroy_on_anchor_detach</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2124,7 +2124,7 @@
 			<Flag>special_bbox</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2137,7 +2137,7 @@
 		<_Editor>
 			<Category>Entries:WeaponsAlien</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2167,7 +2167,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2192,7 +2192,7 @@
 				</Prop>
 			</Props>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2220,7 +2220,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>850</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -2244,7 +2244,7 @@
 		<Mesh>
 			<Filename>mar_lrg_turret_null.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2295,7 +2295,7 @@
 				<Type>Always</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>760</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -2343,7 +2343,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2356,7 +2356,7 @@
 		<Mesh>
 			<Filename>ppmp_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2395,7 +2395,7 @@
 		<Touch_Script>
 			<give_item></give_item>
 			</Touch_Script>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_SM</Touch_Sound_2>
@@ -2427,7 +2427,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>objective_highlight</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2446,7 +2446,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>objective_highlight</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2465,7 +2465,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>objective_highlight</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2484,7 +2484,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>objective_highlight</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2502,7 +2502,7 @@
 			<Flag>collide_as_box</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2515,7 +2515,7 @@
 		<_Editor>
 			<Category>Entries:inv_projectiles</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2528,7 +2528,7 @@
 		<_Editor>
 			<Category>Entries:inv_projectiles</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2541,7 +2541,7 @@
 		<_Editor>
 			<Category>Entries:inv_projectiles</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2588,7 +2588,7 @@
 				<Type>Emerged</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>750</Fade_Out_Distance>
 		<Physical_Material>Alien-Flesh</Physical_Material>
 		<Effect_Material>Alien Flesh</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -2629,7 +2629,7 @@
 		<Mesh>
 			<Filename>mar_light_walker_gun.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2674,7 +2674,7 @@
 			</Looping_Effect>
 		<Friction>0.0</Friction>
 		<Explosion>Alien_pod_exp</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -2707,7 +2707,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -2742,7 +2742,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -2777,7 +2777,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -2818,7 +2818,7 @@
 			<Filename>podlod_cluster_a.smeshx</Filename>
 			</Mesh>
 		<Explosion>acid_glob_explosion</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -2854,7 +2854,7 @@
 			<Filename>podlod_a.smeshx</Filename>
 			</Mesh>
 		<Explosion>acid_glob_explosion</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -2866,7 +2866,7 @@
 		<_Editor>
 			<Category>Entries:inv_projectiles</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Item_Flags>
 			<Flag>collide_only_for_object_collection</Flag>
@@ -2889,7 +2889,7 @@
 		<Mesh>
 			<Filename>shotgun_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -2931,7 +2931,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -2969,7 +2969,7 @@
 			<Anim_set>weap_remote_charge_gun</Anim_set>
 			<Filename></Filename>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -2996,7 +2996,7 @@
 		<Mesh>
 			<Filename>mar_flyer_2_turret_null.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3012,7 +3012,7 @@
 		<Mesh>
 			<Filename>player_knife.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3044,7 +3044,7 @@
 		<Mesh>
 			<Filename>queen_weakpoint_small.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -3070,7 +3070,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3088,7 +3088,7 @@
 			<Flag>collide_as_box</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3112,7 +3112,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3125,7 +3125,7 @@
 		<_Editor>
 			<Category>Entries:inv_projectiles</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3162,7 +3162,7 @@
 			<Filename></Filename>
 			<Blend_Tree>rail_gun</Blend_Tree>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_AMMO_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Looping_Effects>
@@ -3184,7 +3184,7 @@
 			<Filename>rail_driver_clip.smeshx</Filename>
 			</Mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3204,7 +3204,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>12</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3228,7 +3228,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3252,7 +3252,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3276,7 +3276,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3300,7 +3300,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>7</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3324,7 +3324,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3348,7 +3348,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>14</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3372,7 +3372,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3396,7 +3396,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3420,7 +3420,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3444,7 +3444,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>11</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3468,7 +3468,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>4</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3492,7 +3492,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>18</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3520,7 +3520,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3559,7 +3559,7 @@
 		<Touch_Script>
 			<give_item></give_item>
 			</Touch_Script>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_SM</Touch_Sound_2>
@@ -3584,7 +3584,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<character_mesh>
 			<character_mesh>
 				<Filename>mar_gl.cmeshx</Filename>
@@ -3636,7 +3636,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3662,7 +3662,7 @@
 			<Flag>special_bbox</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>850</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3686,7 +3686,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3706,7 +3706,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3730,7 +3730,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3754,7 +3754,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>12</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3778,7 +3778,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3802,7 +3802,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>7</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3826,7 +3826,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3850,7 +3850,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3874,7 +3874,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3898,7 +3898,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3922,7 +3922,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>7</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3946,7 +3946,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>12</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3970,7 +3970,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -3994,7 +3994,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4018,7 +4018,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>13</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4042,7 +4042,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>15</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4066,7 +4066,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4090,7 +4090,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4114,7 +4114,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4138,7 +4138,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4162,7 +4162,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4186,7 +4186,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4210,7 +4210,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4234,7 +4234,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4258,7 +4258,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4282,7 +4282,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4306,7 +4306,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4329,7 +4329,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4352,7 +4352,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4375,7 +4375,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4398,7 +4398,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4421,7 +4421,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4444,7 +4444,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4467,7 +4467,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
 		<Restitution>0.1</Restitution>
@@ -4483,7 +4483,7 @@
 		<Mesh>
 			<Filename>super_null_mesh.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -4496,7 +4496,7 @@
 		<Mesh>
 			<Filename>super_null_mesh.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -4512,7 +4512,7 @@
 			</_Editor>
 		<Mass>100</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Mesh>
 			<Filename>mar_mgun.smeshx</Filename>
 			</Mesh>
@@ -4539,7 +4539,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -4563,7 +4563,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -4587,7 +4587,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -4611,7 +4611,7 @@
 				<Type>Held</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Mesh>
 			<Filename>mar_turret_spear.smeshx</Filename>
 			</Mesh>
@@ -4633,7 +4633,7 @@
 		<Mesh>
 			<Filename>mar_turret_head_unmanned.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -4653,7 +4653,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4679,7 +4679,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4705,7 +4705,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4731,7 +4731,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>4</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4757,7 +4757,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4783,7 +4783,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4809,7 +4809,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>4</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4835,7 +4835,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>4</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4861,7 +4861,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4887,7 +4887,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4913,7 +4913,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4939,7 +4939,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -4965,7 +4965,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -4988,7 +4988,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5011,7 +5011,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5034,7 +5034,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5057,7 +5057,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5080,7 +5080,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5103,7 +5103,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5126,7 +5126,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5149,7 +5149,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5172,7 +5172,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5195,7 +5195,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5218,7 +5218,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5241,7 +5241,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5264,7 +5264,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5287,7 +5287,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>4</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>ITM_STEEL_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Physical_Material>Steel-Normal</Physical_Material>
@@ -5314,7 +5314,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5338,7 +5338,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5362,7 +5362,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5412,7 +5412,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -5469,7 +5469,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<pickup_static_mesh>
@@ -5497,7 +5497,7 @@
 				<Type>Held</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5545,7 +5545,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -5575,7 +5575,7 @@
 				</Flags>
 			</Damage_Info>
 		<Spin_Time>5000</Spin_Time>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Explosion>Alien_pod_exp</Explosion>
 		<Mass>250</Mass>
 		<Physical_Material>Alien-Pod</Physical_Material>
@@ -5609,7 +5609,7 @@
 		<Mesh>
 			<Filename>plasma_thrower_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5635,7 +5635,7 @@
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -5669,7 +5669,7 @@
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -5697,7 +5697,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5721,7 +5721,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5745,7 +5745,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5769,7 +5769,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5797,7 +5797,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5812,7 +5812,7 @@
 			</Mesh>
 		<MaterialEffect>nanorifle_damage</MaterialEffect>
 		<Respawn_Delay>60000</Respawn_Delay>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -5856,7 +5856,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>20</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5880,7 +5880,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>6</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5904,7 +5904,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5928,7 +5928,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5952,7 +5952,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>7</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -5976,7 +5976,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>12</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6000,7 +6000,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6024,7 +6024,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>8</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6048,7 +6048,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>13</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6072,7 +6072,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>15</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6096,7 +6096,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>10</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6210,7 +6210,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_MD</Touch_Sound_2>
@@ -6251,7 +6251,7 @@
 		<Mesh>
 			<Filename>bullet_pistol_mag.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -6271,7 +6271,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6295,7 +6295,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6319,7 +6319,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6343,7 +6343,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6367,7 +6367,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6391,7 +6391,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6415,7 +6415,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6439,7 +6439,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6463,7 +6463,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6487,7 +6487,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6511,7 +6511,7 @@
 			<Flag>collide_as_mover_not_with_humans</Flag>
 			</Item_Flags>
 		<Mass>9</Mass>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Collision_Sound>EFX_GIB_ITEM_IMPACT</Collision_Sound>
 		<mp_preload>False</mp_preload>
 		<Linear_Damp>0.2</Linear_Damp>
@@ -6528,7 +6528,7 @@
 		<Mesh>
 			<Filename>rfenforcer_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -6543,7 +6543,7 @@
 		<Mesh>
 			<Filename>tutorial_target.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<streaming_category>Environmental</streaming_category>
 		<mp_preload>False</mp_preload>
 		<_Editor>
@@ -6573,7 +6573,7 @@
 			<Flag>cloth_sim_destroy_on_anchor_detach</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -6628,7 +6628,7 @@
 		<Mesh>
 			<Filename>queen_weakpoint_large.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -6662,7 +6662,7 @@
 		<Mesh>
 			<Filename>queen_weakpoint_chest.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -6712,7 +6712,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -6757,7 +6757,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -6809,7 +6809,7 @@
 			<Anim_set>weap_ppr</Anim_set>
 			<Blend_Tree>ppr</Blend_Tree>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_SM</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_MD</Touch_Sound_2>
@@ -6854,7 +6854,7 @@
 				<Type>Not Owned</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Touch_Sound>ITM_WEP_PICKUP_LG</Touch_Sound>
 		<mp_preload>False</mp_preload>
 		<Touch_Sound_2>ITM_AMMO_PICKUP_LG</Touch_Sound_2>
@@ -6883,7 +6883,7 @@
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>2000</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -6916,7 +6916,7 @@
 				</rig>
 			<Anim_set>none</Anim_set>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -6932,7 +6932,7 @@
 			</_Editor>
 		<Mass>100</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Mesh>
 			<Filename>mar_turret_spear.smeshx</Filename>
 			</Mesh>
@@ -6982,7 +6982,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	</Table>
@@ -7031,7 +7031,7 @@
 				<Type>Emerged</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>750</Fade_Out_Distance>
 		<Physical_Material>Alien-Flesh</Physical_Material>
 		<Effect_Material>Alien Flesh</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -7061,7 +7061,7 @@
 			</_Editor>
 		<Mass>100</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7087,7 +7087,7 @@
 			</_Editor>
 		<Mass>100</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7106,7 +7106,7 @@
 			</_Editor>
 		<Mass>30</Mass>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7131,7 +7131,7 @@
 				</rig>
 			<Anim_set>none</Anim_set>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7152,7 +7152,7 @@
 		<_Editor>
 			<Category>Misc</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7175,7 +7175,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7205,7 +7205,7 @@
 			<Flag>no_auto_delete</Flag>
 			<Flag>collide_as_mover</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -7243,7 +7243,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<Touch_Sound>ITM_SALVAGE_PICKUP_MD</Touch_Sound>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -7281,7 +7281,7 @@
 			<Flag>cast_shadows</Flag>
 			<Flag>no_auto_delete</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -7316,7 +7316,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>850</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -7343,7 +7343,7 @@
 		<_Editor>
 			<Category>Entries:Collection Quests</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7363,7 +7363,7 @@
 		<_Editor>
 			<Category>Entries:Collection Quests</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7404,7 +7404,7 @@
 			</Damage_Info>
 		<Pod>True</Pod>
 		<Explosion>Alien_pod_exp</Explosion>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7439,7 +7439,7 @@
 			<Filename></Filename>
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7458,7 +7458,7 @@
 			</Item_Flags>
 		<Spin_Time>5000</Spin_Time>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7481,7 +7481,7 @@
 			<give_item></give_item>
 			</Touch_Script>
 		<Respawn_Delay>30000</Respawn_Delay>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7510,7 +7510,7 @@
 		<_Editor>
 			<Category>Entries:WeaponEDF</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7523,7 +7523,7 @@
 			<Filename>repair_battery.SMESHX</Filename>
 			</Mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7536,7 +7536,7 @@
 			<Filename>grinder_clip.SMESHX</Filename>
 			</Mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7549,7 +7549,7 @@
 		<Mesh>
 			<Filename>plasma_cannon_upgrade_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7568,7 +7568,7 @@
 		<Mesh>
 			<Filename>shotgun_glass.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7596,7 +7596,7 @@
 		<Mesh>
 			<Filename>mag_flare_gun.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7615,7 +7615,7 @@
 		<Mesh>
 			<Filename>mag_flare_clip.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7649,7 +7649,7 @@
 			<Anim_set>Weap_PPCR</Anim_set>
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7683,7 +7683,7 @@
 			<Anim_set>Weap_PPCR</Anim_set>
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7717,7 +7717,7 @@
 			<Anim_set>Weap_PPCR</Anim_set>
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7730,7 +7730,7 @@
 		<Mesh>
 			<Filename>amb_binoculars.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7743,7 +7743,7 @@
 			<Filename>ar_clip.smeshx</Filename>
 			</Mesh>
 		<streaming_category>General (preloaded)</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7763,7 +7763,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7783,7 +7783,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7803,7 +7803,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7823,7 +7823,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7843,7 +7843,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7856,7 +7856,7 @@
 		<Mesh>
 			<Filename>amb_cigarette.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7881,7 +7881,7 @@
 			<Category>Character Props:Mason</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7894,7 +7894,7 @@
 		<Mesh>
 			<Filename>mason_hair.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7907,7 +7907,7 @@
 			<Filename>Eddie_Arm_Band_Left.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7931,7 +7931,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7944,7 +7944,7 @@
 			<Filename>Eddie_Belt_Grenades_Right.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7968,7 +7968,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7981,7 +7981,7 @@
 			<Filename>Eddie_Belt_Pack_Left.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -7994,7 +7994,7 @@
 			<Filename>Eddie_Belt_Skulls.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8007,7 +8007,7 @@
 			<Filename>Eddie_Boot_Cover_Left.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8031,7 +8031,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8055,7 +8055,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8079,7 +8079,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8092,7 +8092,7 @@
 			<Filename>Eddie_Knife_Calf_Right.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8116,7 +8116,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8129,7 +8129,7 @@
 			<Filename>Eddie_Thigh_Pack_Left.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8142,7 +8142,7 @@
 			<Filename>Eddie_Thigh_Pack_Right.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8155,7 +8155,7 @@
 			<Filename>Eddie_wrap_boot_right.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8168,7 +8168,7 @@
 			<Filename>Eddie_wrap_calf_left.smeshx</Filename>
 			</Mesh>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8192,7 +8192,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8216,7 +8216,7 @@
 			<Category>Character Props:Eddie</Category>
 			</_Editor>
 		<streaming_category>Character prop mesh only</streaming_category>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8240,7 +8240,7 @@
 			<Flag>inherit_bone_transforms</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8277,7 +8277,7 @@
 		<streaming_category>General (preloaded)</streaming_category>
 		<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
 		<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8296,7 +8296,7 @@
 		<Mesh>
 			<Filename>therm_rocket_projectile.SMESHX</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8333,7 +8333,7 @@
 		<streaming_category>General (preloaded)</streaming_category>
 		<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
 		<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8359,7 +8359,7 @@
 			</character_mesh>
 		<streaming_category>General (preloaded)</streaming_category>
 		<Friction>1.0</Friction>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8389,7 +8389,7 @@
 		<Mesh>
 			<Filename>ppr.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8408,7 +8408,7 @@
 		<_Editor>
 			<Category>VFX</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8431,7 +8431,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8454,7 +8454,7 @@
 				</rig>
 			<Anim_set>Male.xtbl</Anim_set>
 			</character_mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8473,7 +8473,7 @@
 		<Mesh>
 			<Filename>hmg_head.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8492,7 +8492,7 @@
 		<Mesh>
 			<Filename>hmg_weapon.smeshx</Filename>
 			</Mesh>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8516,7 +8516,7 @@
 			<Flag>cloth_sim_find_destroyable_anchor</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8540,7 +8540,7 @@
 			<Flag>cloth_sim_find_destroyable_anchor</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8564,7 +8564,7 @@
 			<Flag>cloth_sim_find_destroyable_anchor</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8587,7 +8587,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8610,7 +8610,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8633,7 +8633,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8656,7 +8656,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8679,7 +8679,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8702,7 +8702,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8725,7 +8725,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8748,7 +8748,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8771,7 +8771,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8794,7 +8794,7 @@
 			<Flag>cloth_sim</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8813,7 +8813,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -8832,7 +8832,7 @@
 		<_Editor>
 			<Category>Head meshes</Category>
 			</_Editor>
-		<Fade_Out_Distance>99999</Fade_Out_Distance>
+		<Fade_Out_Distance>500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	</TableTemplates>
