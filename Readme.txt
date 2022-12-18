@@ -180,22 +180,23 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Use the correct lower-specs 1st Person Packed files.
 
 \Changelog v0.9.5/
--Slightly reduced medium light draw distance to fix a few more lights not working in one level.
 -Reduced long distance repair radius to reduce stuttering when repairing large structures.
+-Slightly reduced light draw distances to fix a few more lights not working in one level.
 -Increase hollow tipped rounds upgrade head shot damage multiplier.
--Doubled Assualt rifle, Nano rifle, and dual Pistols npc damage.
+-Doubled Assault rifle, Nano rifle, and dual Pistols npc damage.
 -Allow gibbing of Cultists from weapons other than explosives.
 -Further increased Fast Hands upgrade weapon swapping speed.
 -Doubled explosion damage from the Pulse grenade launcher.
 -Increased small firearms structural damage.
 -Tweaked some weapons.xtbl gib properties.
+-Performance/draw distance optimizations.
 -Further reduced size of ammo pickups.
 -Behemoth corpse never despawns/fades.
--Doubled nano rifle explosion radius.
--Always do gibbing with player melee.
+-Doubled Nano rifle explosion radius.
 -Player melee always ragdolls npcs.
 -Use headshot damage multiplier.
 -More randomized shotgun spread.
+-Player melee always gibs npcs.
 
 \Issues/
 -Makes game more hardware demanding.
