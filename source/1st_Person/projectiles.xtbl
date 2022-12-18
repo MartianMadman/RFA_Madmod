@@ -9119,7 +9119,7 @@
 						<Description>Repair</Description>
 						<Type>
 							<Repair>
-								<Interval_s>0.3</Interval_s>
+								<Interval_s>0.5</Interval_s>
 								<Radius>6.0</Radius>
 								<Rate>-1</Rate>
 								<Only_Host_Object>False</Only_Host_Object>
@@ -9131,7 +9131,7 @@
 							<Trigger>
 								<Type>
 									<Timed>
-										<Delay_ms>6000</Delay_ms>
+										<Delay_ms>8000</Delay_ms>
 										</Timed>
 									</Type>
 								</Trigger>
