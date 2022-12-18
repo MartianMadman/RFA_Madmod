@@ -2330,8 +2330,8 @@
 								<pain_pc_override>pain</pain_pc_override>
 								<death_pc_override>death</death_pc_override>
 								</Sounds>
-							<Gib_Threshold_Percent>0.75</Gib_Threshold_Percent>
-							<Gib_Impulse>75.0</Gib_Impulse>
+							<Gib_Threshold_Percent>0.63</Gib_Threshold_Percent>
+							<Gib_Impulse>65.0</Gib_Impulse>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Spread_Shots_To_Max>2</Spread_Shots_To_Max>
 							<Spread_Cooldown_Time_ms>3000</Spread_Cooldown_Time_ms>
@@ -2342,7 +2342,6 @@
 							<NPC_Refire_Delay_ms>900</NPC_Refire_Delay_ms>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Firing_Cone_Min>2.0</Firing_Cone_Min>
-							<Gib_Impulse_Up>15.0</Gib_Impulse_Up>
 							<Rounds_From_Ammo_Box>8</Rounds_From_Ammo_Box>
 							<Shots_To_Max_Recoil>1</Shots_To_Max_Recoil>
 							<Headshot_Multiplier>2.0</Headshot_Multiplier>
@@ -4029,7 +4028,7 @@
 								</Visuals>
 							<Ragdoll_Force>0</Ragdoll_Force>
 							<Shots_Per_Round>1</Shots_Per_Round>
-							<Gib_Head_On_Death_Chance>.5</Gib_Head_On_Death_Chance>
+							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0</Gib_Chance>
 							<Icon_Name>ui_icon_wpn_dual_pistol</Icon_Name>
 							<Off_Hand_Fire_Action_Override>stand fire alt</Off_Hand_Fire_Action_Override>
@@ -10012,8 +10011,10 @@
 								</Visuals>
 							<Ragdoll_Force>0</Ragdoll_Force>
 							<Shots_Per_Round>1</Shots_Per_Round>
-							<Gib_Head_On_Death_Chance>.5</Gib_Head_On_Death_Chance>
-							<Gib_Chance>0</Gib_Chance>
+							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
+							<Gib_Threshold_Percent>0.6</Gib_Threshold_Percent>
+							<Gib_Chance>1.0</Gib_Chance>
+							<Gib_Impulse>50</Gib_Impulse>
 							<Icon_Name>ui_icon_wpn_mar_shotgun</Icon_Name>
 							<Off_Hand_Fire_Action_Override>stand fire alt</Off_Hand_Fire_Action_Override>
 							<Sounds>
