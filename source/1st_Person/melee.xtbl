@@ -844,8 +844,8 @@
 					<RotateWithCamera>True</RotateWithCamera>
 					</SecondaryImpact>
 				<AI>
-					<MinAttackDist>1.0</MinAttackDist>
-					<MaxAttackDist>2.5</MaxAttackDist>
+					<MinAttackDist>0.75</MinAttackDist>
+					<MaxAttackDist>2.25</MaxAttackDist>
 					</AI>
 				<Damage>
 					<DefaultDamage>100</DefaultDamage>
