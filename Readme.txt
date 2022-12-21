@@ -197,6 +197,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Use headshot damage multiplier.
 -More randomized shotgun spread.
 -Player melee always gibs npcs.
+-More melee distance fixes.
 
 \Issues/
 -Makes game more hardware demanding.
