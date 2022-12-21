@@ -5431,8 +5431,8 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>15</Distance>
-			<Distance>40.0</Distance>
+			<Distance>0.01</Distance>
+			<Distance>0.02</Distance>
 			</LOD_Distances>
 		<Bounding_Box_Min_Correction>
 			<X>0.0</X>
