@@ -2983,7 +2983,7 @@
 		<Max_Thrown_Damage_Speed>24</Max_Thrown_Damage_Speed>
 		<Min_Thrown_Damage_Percent>1</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
-		<Thrown_Gib_Chance>1</Thrown_Gib_Chance>
+		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<Thrown_Gib_Threshold_Percent>1.35</Thrown_Gib_Threshold_Percent>
 		<Autopsy_Salvage_SP>1</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>1</Autopsy_Salvage_MP>
@@ -3344,7 +3344,7 @@
 		<Max_Thrown_Damage_Speed>24</Max_Thrown_Damage_Speed>
 		<Min_Thrown_Damage_Percent>.30</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
-		<Thrown_Gib_Chance>.5</Thrown_Gib_Chance>
+		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<Props>
 			<Prop>
 				<Prop_Name>Gibs</Prop_Name>
@@ -4328,7 +4328,7 @@
 		<Max_Thrown_Damage_Speed>24</Max_Thrown_Damage_Speed>
 		<Min_Thrown_Damage_Percent>.50</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>.75</Max_Thrown_Damage_Percent>
-		<Thrown_Gib_Chance>.3</Thrown_Gib_Chance>
+		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<Autopsy_Salvage_SP>3</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>3</Autopsy_Salvage_MP>
 		<Blend_Tree>ambusher</Blend_Tree>
@@ -5084,7 +5084,7 @@
 		<Max_Thrown_Damage_Speed>24</Max_Thrown_Damage_Speed>
 		<Min_Thrown_Damage_Percent>.30</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
-		<Thrown_Gib_Chance>.5</Thrown_Gib_Chance>
+		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>2</Autopsy_Salvage_MP>
 		<Blend_Tree>grunt</Blend_Tree>
@@ -6583,7 +6583,7 @@
 		<Max_Thrown_Damage_Speed>24</Max_Thrown_Damage_Speed>
 		<Min_Thrown_Damage_Percent>0.15</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.50</Max_Thrown_Damage_Percent>
-		<Thrown_Gib_Chance>1</Thrown_Gib_Chance>
+		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<Thrown_Gib_Threshold_Percent>1</Thrown_Gib_Threshold_Percent>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>2</Autopsy_Salvage_MP>
