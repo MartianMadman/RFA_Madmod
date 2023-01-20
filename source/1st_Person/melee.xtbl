@@ -45,6 +45,7 @@
 					<Flag>structural damage</Flag>
 					<Flag>ignore terrain</Flag>
 					<Flag>always knock down npc</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -111,6 +112,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>always knock down npc</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -579,6 +581,7 @@
 					<Flag>structural damage</Flag>
 					<Flag>ignore terrain</Flag>
 					<Flag>always knock down npc</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -645,6 +648,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>always knock down npc</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<ImpactForce>140</ImpactForce>
 				<AwayImpulseScale>2.0</AwayImpulseScale>
@@ -708,6 +712,7 @@
 					<Flag>structural damage</Flag>
 					<Flag>no mid attack adjust</Flag>
 					<Flag>always knock down npc</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<SecondaryImpact>
 					<HitRange>3.0</HitRange>
@@ -774,6 +779,7 @@
 					<Flag>no orient correction</Flag>
 					<Flag>no mid attack adjust</Flag>
 					<Flag>always knock down npc</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<SecondaryImpact>
 					<HitRange>3.0</HitRange>
@@ -1155,6 +1161,7 @@
 					<Flag>structural damage</Flag>
 					<Flag>no mid attack adjust</Flag>
 					<Flag>no orient correction</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<SecondaryImpact>
 					<HitRange>1.0</HitRange>
@@ -1218,6 +1225,7 @@
 				<Flags>
 					<Flag>structural damage</Flag>
 					<Flag>no mid attack adjust</Flag>
+					<Flag>instantly break shards</Flag>
 					</Flags>
 				<SecondaryImpact>
 					<HitRange>3.0</HitRange>
