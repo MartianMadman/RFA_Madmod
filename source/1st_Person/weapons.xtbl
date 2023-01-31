@@ -2286,10 +2286,10 @@
 							<Range_Max>24</Range_Max>
 							<NPC_Firing_Pattern>Shotgun</NPC_Firing_Pattern>
 							<Damage_Scaling_Max>
-								<NPC_Damage>70</NPC_Damage>
+								<NPC_Damage>50</NPC_Damage>
 								<Player_Damage>30</Player_Damage>
 								<Vehicle_Damage>90</Vehicle_Damage>
-								<Threshold>0</Threshold>
+								<Threshold>10</Threshold>
 								<Player_Vehicle_Damage>30</Player_Vehicle_Damage>
 								<Structural_Damage>4400</Structural_Damage>
 								</Damage_Scaling_Max>
@@ -2339,10 +2339,10 @@
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>1.0</Gib_Chance>
 							<Damage_Scaling_Min>
-								<NPC_Damage>50</NPC_Damage>
+								<NPC_Damage>70</NPC_Damage>
 								<Player_Damage>30</Player_Damage>
 								<Vehicle_Damage>90</Vehicle_Damage>
-								<Threshold>1</Threshold>
+								<Threshold>0</Threshold>
 								<Player_Vehicle_Damage>30</Player_Vehicle_Damage>
 								<Structural_Damage>4400</Structural_Damage>
 								</Damage_Scaling_Min>
