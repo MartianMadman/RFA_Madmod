@@ -9048,7 +9048,7 @@
 				<Player_Damage>40</Player_Damage>
 				<Vehicle_Damage>10</Vehicle_Damage>
 				<Player_Vehicle_Damage>10</Player_Vehicle_Damage>
-				<Structural_Damage>0.0</Structural_Damage>
+				<Structural_Damage>10000.0</Structural_Damage>
 				</Max_Damage>
 			</Collide_Damage_Info>
 		<Explosion>acid_spit_explosion</Explosion>
@@ -10377,7 +10377,7 @@
 				<Player_Damage>40</Player_Damage>
 				<Vehicle_Damage>20</Vehicle_Damage>
 				<Player_Vehicle_Damage>20</Player_Vehicle_Damage>
-				<Structural_Damage>0.0</Structural_Damage>
+				<Structural_Damage>10000.0</Structural_Damage>
 				</Max_Damage>
 			</Collide_Damage_Info>
 		<Explosion>acid_spit_explosion</Explosion>
