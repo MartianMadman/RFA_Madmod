@@ -2286,16 +2286,17 @@
 							<Range_Max>24</Range_Max>
 							<NPC_Firing_Pattern>Shotgun</NPC_Firing_Pattern>
 							<Damage_Scaling_Max>
-								<NPC_Damage>64</NPC_Damage>
+								<NPC_Damage>70</NPC_Damage>
 								<Player_Damage>30</Player_Damage>
 								<Vehicle_Damage>90</Vehicle_Damage>
-								<Threshold>35</Threshold>
+								<Threshold>0</Threshold>
 								<Player_Vehicle_Damage>30</Player_Vehicle_Damage>
 								<Structural_Damage>4400</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Flags>
 								<Flag>throttle hit effects</Flag>
 								<Flag>shatter</Flag>
+								<Flag>always fire shot in center</Flag>
 								<Flag>keep magazine filled</Flag>
 								<Flag>suppress death anims</Flag>
 								<Flag>is minor hit to vehicles</Flag>
@@ -2330,13 +2331,21 @@
 								<pain_pc_override>pain</pain_pc_override>
 								<death_pc_override>death</death_pc_override>
 								</Sounds>
-							<Gib_Threshold_Percent>0.63</Gib_Threshold_Percent>
+							<Gib_Threshold_Percent>0.6</Gib_Threshold_Percent>
 							<Gib_Impulse>65.0</Gib_Impulse>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Spread_Shots_To_Max>2</Spread_Shots_To_Max>
 							<Spread_Cooldown_Time_ms>3000</Spread_Cooldown_Time_ms>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>1.0</Gib_Chance>
+							<Damage_Scaling_Min>
+								<NPC_Damage>50</NPC_Damage>
+								<Player_Damage>30</Player_Damage>
+								<Vehicle_Damage>90</Vehicle_Damage>
+								<Threshold>1</Threshold>
+								<Player_Vehicle_Damage>30</Player_Vehicle_Damage>
+								<Structural_Damage>4400</Structural_Damage>
+								</Damage_Scaling_Min>
 							<Icon_Name>ui_icon_wpn_shotgun</Icon_Name>
 							<Off_Hand_Fire_Action_Override>stand fire alt</Off_Hand_Fire_Action_Override>
 							<NPC_Refire_Delay_ms>900</NPC_Refire_Delay_ms>
