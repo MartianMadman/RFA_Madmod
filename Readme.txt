@@ -180,6 +180,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Use the correct lower-specs 1st Person Packed files.
 
 \Changelog v0.9.5/
+-Change how player health regenerates in an attempt to make player deaths feel less unfair and frustrating.
 -Reduced long distance repair radius to reduce stuttering when repairing large structures.
 -Slightly reduced light draw distances to fix a few more lights not working in one level.
 -Increase hollow tipped rounds upgrade head shot damage multiplier.
