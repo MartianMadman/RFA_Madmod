@@ -54,10 +54,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_REGEN_DELAY</Name>
-				<Easy>0.0</Easy>
-				<Medium>0.0</Medium>
-				<Hard>0.0</Hard>
-				<Insane>0.0</Insane>
+				<Easy>0.1</Easy>
+				<Medium>0.1</Medium>
+				<Hard>0.1</Hard>
+				<Insane>0.1</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_REGEN_RATE</Name>
