@@ -54,17 +54,17 @@
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_REGEN_DELAY</Name>
-				<Easy>0.25</Easy>
-				<Medium>0.5</Medium>
-				<Hard>0.75</Hard>
-				<Insane>1.0</Insane>
+				<Easy>0.0</Easy>
+				<Medium>0.0</Medium>
+				<Hard>0.0</Hard>
+				<Insane>0.0</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_REGEN_RATE</Name>
-				<Easy>1.0</Easy>
-				<Medium>0.75</Medium>
-				<Hard>0.5</Hard>
-				<Insane>0.25</Insane>
+				<Easy>0.4</Easy>
+				<Medium>0.3</Medium>
+				<Hard>0.2</Hard>
+				<Insane>0.1</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_AMMO_PICKUP</Name>
