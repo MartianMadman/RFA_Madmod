@@ -1799,9 +1799,18 @@
 								<NPC_Damage>80</NPC_Damage>
 								<Player_Damage>15</Player_Damage>
 								<Vehicle_Damage>110</Vehicle_Damage>
+								<Threshold>30</Threshold>
 								<Player_Vehicle_Damage>11</Player_Vehicle_Damage>
 								<Structural_Damage>4800</Structural_Damage>
 								</Damage_Scaling_Max>
+							<Damage_Scaling_Min>
+								<NPC_Damage>120</NPC_Damage>
+								<Player_Damage>15</Player_Damage>
+								<Vehicle_Damage>110</Vehicle_Damage>
+								<Threshold>10</Threshold>
+								<Player_Vehicle_Damage>11</Player_Vehicle_Damage>
+								<Structural_Damage>4800</Structural_Damage>
+								</Damage_Scaling_Min>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
 							<Ragdoll_Force>0</Ragdoll_Force>
@@ -1849,7 +1858,7 @@
 							<Bullet_Group>Standard</Bullet_Group>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>1.0</Gib_Chance>
-							<Gib_Threshold_Percent>0.4</Gib_Threshold_Percent>
+							<Gib_Threshold_Percent>0.5</Gib_Threshold_Percent>
 							<Gib_Impulse>40.0</Gib_Impulse>
 							<Camera_Recoil_Kick>0</Camera_Recoil_Kick>
 							<Shots_To_Max_Recoil>6</Shots_To_Max_Recoil>
