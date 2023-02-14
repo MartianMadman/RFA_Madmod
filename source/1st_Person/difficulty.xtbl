@@ -139,9 +139,9 @@
 			<Item>
 				<Name>MENU_ENV_EXPLOSION_DAMAGE</Name>
 				<Easy>1.0</Easy>
-				<Medium>1.0</Medium>
-				<Hard>1.0</Hard>
-				<Insane>1.0</Insane>
+				<Medium>0.8</Medium>
+				<Hard>0.6</Hard>
+				<Insane>0.4</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_FALLING_DAMAGE</Name>
