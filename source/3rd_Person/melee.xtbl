@@ -734,9 +734,8 @@
 				<RagdollImpulse>420</RagdollImpulse>
 				<AwayImpulseScale>.5</AwayImpulseScale>
 				<CameraShake>hammer_alt_impact</CameraShake>
-				<Gib_Chance>0.5</Gib_Chance>
-				<Gib_Impulse>100.0</Gib_Impulse>
-				<UpImpulse>200.0</UpImpulse>
+				<Gib_Chance>1.0</Gib_Chance>
+				<Gib_Impulse>80.0</Gib_Impulse>
 				<pain_override>pain blunt</pain_override>
 				<death_override>death</death_override>
 				<pain_pc_override>pain blunt</pain_pc_override>
@@ -800,7 +799,7 @@
 				<ImpactForce>900</ImpactForce>
 				<RagdollImpulse>420</RagdollImpulse>
 				<AwayImpulseScale>.5</AwayImpulseScale>
-				<Gib_Chance>0.7</Gib_Chance>
+				<Gib_Chance>1.0</Gib_Chance>
 				<Gib_Impulse>1.2</Gib_Impulse>
 				<CameraShake>exo_shoulder_bash</CameraShake>
 				<pain_override>pain</pain_override>
