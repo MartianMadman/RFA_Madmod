@@ -1,48 +1,6 @@
 <root>
 <Table>
 	<Melee_Finisher>
-		<Name>Creeper Stomp</Name>
-		<_Editor>
-			<Category>Entries</Category>
-			</_Editor>
-		<disabled_weapon>sledgehammer</disabled_weapon>
-		<Attackers>
-			<Attacker>RF4_Cave</Attacker>
-			<Attacker>RF4_PC</Attacker>
-			<Attacker>RF4_PC1</Attacker>
-			<Attacker>RF4_outer_hd</Attacker>
-			<Attacker>RF4_outer_hu</Attacker>
-			<Attacker>RF4_RF_hd</Attacker>
-			<Attacker>RF4_RF_hu</Attacker>
-			<Attacker>RF4_outer_hdb2</Attacker>
-			<Attacker>RF4_outer_hdb3</Attacker>
-			<Attacker>RF4_outer_hdc3</Attacker>
-			<Attacker>RF4_Cave_D3</Attacker>
-			<Attacker>RF4_Cave_D2</Attacker>
-			<Attacker>RF4_DLC1</Attacker>
-			<Attacker>RF4_DLC2</Attacker>
-			</Attackers>
-		<Victims>
-			<Victim>ch_leg_ass_creeper</Victim>
-			</Victims>
-		<Attacks>
-			<Attack>
-				<Attacker_Action>head stomp</Attacker_Action>
-				<Victim_Action>death head stomp</Victim_Action>
-				<Chance>1.0</Chance>
-				<Victim_Distance>1.579</Victim_Distance>
-				<Throw_Velocity>
-					<X>0.0</X>
-					<Y>0.0</Y>
-					<Z>0.0</Z>
-					</Throw_Velocity>
-				<Damage_Percent>1.0</Damage_Percent>
-				<Attacker_Camera_Shake>hammer_impact</Attacker_Camera_Shake>
-				</Attack>
-			</Attacks>
-		<Max_Range>2.5</Max_Range>
-		</Melee_Finisher>
-	<Melee_Finisher>
 		<Name>RF exo creeper throw</Name>
 		<_Editor>
 			<Category>Entries</Category>
@@ -69,49 +27,6 @@
 				</Attack>
 			</Attacks>
 		<Max_Range>7.0</Max_Range>
-		</Melee_Finisher>
-	<Melee_Finisher>
-		<Name>Grunt Smash</Name>
-		<Attackers>
-			<Attacker>RF4_Cave</Attacker>
-			<Attacker>RF4_outer_hd</Attacker>
-			<Attacker>RF4_outer_hu</Attacker>
-			<Attacker>RF4_PC</Attacker>
-			<Attacker>RF4_PC1</Attacker>
-			<Attacker>RF4_RF_hd</Attacker>
-			<Attacker>RF4_RF_hu</Attacker>
-			<Attacker>RF4_outer_hdb2</Attacker>
-			<Attacker>RF4_outer_hdb3</Attacker>
-			<Attacker>RF4_outer_hdc3</Attacker>
-			<Attacker>RF4_Cave_D3</Attacker>
-			<Attacker>RF4_Cave_D2</Attacker>
-			<Attacker>RF4_DLC1</Attacker>
-			<Attacker>RF4_DLC2</Attacker>
-			</Attackers>
-		<Victims>
-			<Victim>ch_leg_ass_grunt</Victim>
-			<Victim>ch_leg_ass_gruntLow</Victim>
-			<Victim>ch_leg_ass_gruntmed</Victim>
-			</Victims>
-		<Attacks>
-			<Attack>
-				<Attacker_Action>head smash</Attacker_Action>
-				<Victim_Action>death head smash</Victim_Action>
-				<Chance>1</Chance>
-				<Victim_Distance>2.134</Victim_Distance>
-				<Throw_Velocity>
-					<X>0.0</X>
-					<Y>0.0</Y>
-					<Z>0.0</Z>
-					</Throw_Velocity>
-				<Damage_Percent>0.5</Damage_Percent>
-				<Attacker_Camera_Shake>melee_impact</Attacker_Camera_Shake>
-				</Attack>
-			</Attacks>
-		<_Editor>
-			<Category>Entries</Category>
-			</_Editor>
-		<Max_Range>3.75</Max_Range>
 		</Melee_Finisher>
 	</Table>
 
