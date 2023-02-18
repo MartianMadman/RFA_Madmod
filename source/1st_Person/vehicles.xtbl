@@ -2530,7 +2530,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>8.5</Follow_Distance>
+				<Follow_Distance>5.5</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.7</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -2574,7 +2574,7 @@
 					<Y>0</Y>
 					<Z>0.0</Z>
 					</Lookat_Offset>
-				<Follow_Distance>6.0</Follow_Distance>
+				<Follow_Distance>3.0</Follow_Distance>
 				<Follow_Height>0</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -2753,7 +2753,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>8.5</Follow_Distance>
+				<Follow_Distance>5.5</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -2795,7 +2795,7 @@
 					<Y>0</Y>
 					<Z>0.0</Z>
 					</Lookat_Offset>
-				<Follow_Distance>6.0</Follow_Distance>
+				<Follow_Distance>3.0</Follow_Distance>
 				<Follow_Height>0</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -3332,7 +3332,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>8.5</Follow_Distance>
+				<Follow_Distance>5.5</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -3374,7 +3374,7 @@
 					<Y>0</Y>
 					<Z>0.0</Z>
 					</Lookat_Offset>
-				<Follow_Distance>6.0</Follow_Distance>
+				<Follow_Distance>3.0</Follow_Distance>
 				<Follow_Height>0</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
