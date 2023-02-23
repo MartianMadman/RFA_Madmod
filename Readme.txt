@@ -196,9 +196,10 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Doubled Nano rifle explosion radius.
 -Player melee always ragdolls npcs.
 -Use headshot damage multiplier.
+-Reduced walker camera distance.
 -More randomized shotgun spread.
 -Player melee always gibs npcs.
--More melee distance fixes.
+-More ai melee distance fixes.
 -Disable thrown gibbing.
 
 \Issues/
