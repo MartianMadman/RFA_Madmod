@@ -187,6 +187,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Doubled Assault rifle, Nano rifle, and dual Pistols npc damage.
 -Further increased Fast Hands upgrade weapon swapping speed.
 -Doubled explosion damage from the Pulse grenade launcher.
+-Add corrected fov for 4:3 aspect ratio displays.
 -Tweaked some weapons.xtbl head gib properties.
 -Increased small firearms structural damage.
 -Reduced player explosion damage multiplier.
@@ -205,12 +206,9 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Makes game more hardware demanding.
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 -Do not lower the fov in camera.xtbl. This can cause the lighting to break. Increasing the fov is fine though since higher fovs = lower draw distances.
--Unwanted fov scaling for 4:3 aspect ratio. To prevent this, launch game in 16:9 and then switch to 4:3 resolutions. Do not worry about this issue if using 3rd person view or 16:9+ displays.
 -There is a engine limitation preventing the lighting draw distance from being set really high. So don't be going into lod_properties.xtbl and messing with those values I set as they are about as high as you can get them without too many issues at the current fov.
 
 \Installation/NOT FOR GITHUB!
-There are two versions of this mod, default-specs is for modern computers while lower-specs is for older computers.
+There are two versions of this mod, default-specs is for modern computers while lower-specs is for older computers. 4;3 and 16;9+ represent the aspect ratio the packed files are tweaked for.
 
-For regular users, open the Packed folder and copy paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
-
-For advanced users you can pack .vpp_pc files yourself for use with other mods or personal tweaks. The folder titled Source contains the modified .xtbl files of this mod.
+Copy/paste misc.vpp_pc along with table.vpp_pc to the build/pc/cache directory located in the main RFA installation directory. Replace existing files when asked.
