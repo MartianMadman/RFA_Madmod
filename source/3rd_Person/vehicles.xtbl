@@ -1638,7 +1638,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>12.0</Follow_Distance>
+				<Follow_Distance>8.0</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.7</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -1674,11 +1674,11 @@
 				<Follow_Dist_Control_Points>
 					<Follow_Dist_Control_Point>
 						<Pitch>-25</Pitch>
-						<Dist>6</Dist>
+						<Dist>4</Dist>
 						</Follow_Dist_Control_Point>
 					<Follow_Dist_Control_Point>
 						<Pitch>0</Pitch>
-						<Dist>12</Dist>
+						<Dist>8</Dist>
 						</Follow_Dist_Control_Point>
 					</Follow_Dist_Control_Points>
 				<Snap_To_Cockpit>False</Snap_To_Cockpit>
@@ -3733,7 +3733,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>12.0</Follow_Distance>
+				<Follow_Distance>8.0</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.7</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -3769,11 +3769,11 @@
 				<Follow_Dist_Control_Points>
 					<Follow_Dist_Control_Point>
 						<Pitch>-25</Pitch>
-						<Dist>6</Dist>
+						<Dist>4</Dist>
 						</Follow_Dist_Control_Point>
 					<Follow_Dist_Control_Point>
 						<Pitch>0</Pitch>
-						<Dist>12</Dist>
+						<Dist>8</Dist>
 						</Follow_Dist_Control_Point>
 					</Follow_Dist_Control_Points>
 				<Snap_To_Cockpit>False</Snap_To_Cockpit>
@@ -4178,7 +4178,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>12.0</Follow_Distance>
+				<Follow_Distance>8.0</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -4214,11 +4214,11 @@
 				<Follow_Dist_Control_Points>
 					<Follow_Dist_Control_Point>
 						<Pitch>-25</Pitch>
-						<Dist>6</Dist>
+						<Dist>4</Dist>
 						</Follow_Dist_Control_Point>
 					<Follow_Dist_Control_Point>
 						<Pitch>0</Pitch>
-						<Dist>12</Dist>
+						<Dist>8</Dist>
 						</Follow_Dist_Control_Point>
 					</Follow_Dist_Control_Points>
 				<Snap_To_Cockpit>False</Snap_To_Cockpit>
@@ -4389,7 +4389,7 @@
 					<Y>1.7</Y>
 					<Z>-0.5</Z>
 					</Lookat_Offset>
-				<Follow_Distance>12.0</Follow_Distance>
+				<Follow_Distance>8.0</Follow_Distance>
 				<Follow_Height>1.8</Follow_Height>
 				<Y_Axis_Rotation>0.2</Y_Axis_Rotation>
 				<Turret_Camera>False</Turret_Camera>
@@ -4425,11 +4425,11 @@
 				<Follow_Dist_Control_Points>
 					<Follow_Dist_Control_Point>
 						<Pitch>-25</Pitch>
-						<Dist>6</Dist>
+						<Dist>4</Dist>
 						</Follow_Dist_Control_Point>
 					<Follow_Dist_Control_Point>
 						<Pitch>0</Pitch>
-						<Dist>12</Dist>
+						<Dist>8</Dist>
 						</Follow_Dist_Control_Point>
 					</Follow_Dist_Control_Points>
 				<Snap_To_Cockpit>False</Snap_To_Cockpit>
