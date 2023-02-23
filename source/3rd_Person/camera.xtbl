@@ -3,7 +3,7 @@
 	<camera_view>
 		<Name>normal_crouch</Name>
 		<change_view_time>200</change_view_time>
-		<distance>1.3</distance>
+		<distance>0.8</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -36,7 +36,7 @@
 	<camera_view>
 		<Name>fine_aim_crouch</Name>
 		<change_view_time>150</change_view_time>
-		<distance>1.3</distance>
+		<distance>0.8</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>True</use_weapon_fov_zoom>
@@ -68,7 +68,7 @@
 	<camera_view>
 		<Name>fine_aim_turret</Name>
 		<change_view_time>150</change_view_time>
-		<distance>1.5</distance>
+		<distance>1.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>True</use_weapon_fov_zoom>
@@ -164,7 +164,7 @@
 	<camera_view>
 		<Name>sprint</Name>
 		<change_view_time>500</change_view_time>
-		<distance>1.5</distance>
+		<distance>1.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -197,7 +197,7 @@
 	<camera_view>
 		<Name>ragdoll</Name>
 		<change_view_time>0</change_view_time>
-		<distance>3.5</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -256,7 +256,7 @@
 	<camera_view>
 		<Name>normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>1.5</distance>
+		<distance>1.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -354,7 +354,7 @@
 	<camera_view>
 		<Name>miner_exo_normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -387,7 +387,7 @@
 	<camera_view>
 		<Name>miner_exo_zoom</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>True</use_weapon_fov_zoom>
@@ -419,7 +419,7 @@
 	<camera_view>
 		<Name>miner_exo_shoulder_bash</Name>
 		<change_view_time>500</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -452,7 +452,7 @@
 	<camera_view>
 		<Name>rf_exo_normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -485,7 +485,7 @@
 	<camera_view>
 		<Name>rf_exo_zoom</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>True</use_weapon_fov_zoom>
@@ -517,7 +517,7 @@
 	<camera_view>
 		<Name>rf_exo_shoulder_bash</Name>
 		<change_view_time>500</change_view_time>
-		<distance>4.5</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -551,7 +551,7 @@
 	<camera_view>
 		<Name>mar_exo_normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.00</distance>
+		<distance>3.00</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -584,7 +584,7 @@
 	<camera_view>
 		<Name>mar_exo_zoom</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.00</distance>
+		<distance>3.00</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>True</use_weapon_fov_zoom>
@@ -616,7 +616,7 @@
 	<camera_view>
 		<Name>mar_exo_shoulder_bash</Name>
 		<change_view_time>500</change_view_time>
-		<distance>4.25</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>

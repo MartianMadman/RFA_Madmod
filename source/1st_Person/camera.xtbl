@@ -22,11 +22,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.07</X>
-			<Y>1.18</Y>
+			<X>0.14</X>
+			<Y>1.1</Y>
 			<Z>0.69</Z>
 			</offset>
-		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
 		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -55,11 +55,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.07</X>
-			<Y>1.18</Y>
+			<X>0.14</X>
+			<Y>1.1</Y>
 			<Z>0.69</Z>
 			</offset>
-		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
 		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -87,9 +87,9 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
 		<z_offset_adjust_up>0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.0</z_offset_adjust_down>
@@ -119,11 +119,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -151,11 +151,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.07</X>
-			<Y>1.18</Y>
+			<X>0.14</X>
+			<Y>1.1</Y>
 			<Z>0.69</Z>
 			</offset>
-		<z_offset_adjust_up>-0.575</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.575</z_offset_adjust_down>
 		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -183,11 +183,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -243,11 +243,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -275,11 +275,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>0.0</dist_adjust_up>
 		<dist_adjust_down>0.0</dist_adjust_down>
@@ -308,11 +308,11 @@
 			<focused_dist_target_multiplier>1.0</focused_dist_target_multiplier>
 			</far_dof>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -341,11 +341,11 @@
 			<Category>Entries</Category>
 			</_Editor>
 		<offset>
-			<X>0.07</X>
-			<Y>1.79</Y>
-			<Z>0.49</Z>
+			<X>0.08</X>
+			<Y>1.73</Y>
+			<Z>0.5</Z>
 			</offset>
-		<z_offset_adjust_up>-0.525</z_offset_adjust_up>
+		<z_offset_adjust_up>-0.0</z_offset_adjust_up>
 		<z_offset_adjust_down>0.525</z_offset_adjust_down>
 		<dist_adjust_up>0</dist_adjust_up>
 		<dist_adjust_down>0</dist_adjust_down>
@@ -354,7 +354,7 @@
 	<camera_view>
 		<Name>miner_exo_normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -387,7 +387,7 @@
 	<camera_view>
 		<Name>miner_exo_zoom</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -419,7 +419,7 @@
 	<camera_view>
 		<Name>miner_exo_shoulder_bash</Name>
 		<change_view_time>500</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -452,7 +452,7 @@
 	<camera_view>
 		<Name>rf_exo_normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -485,7 +485,7 @@
 	<camera_view>
 		<Name>rf_exo_zoom</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.0</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -517,7 +517,7 @@
 	<camera_view>
 		<Name>rf_exo_shoulder_bash</Name>
 		<change_view_time>500</change_view_time>
-		<distance>4.5</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -551,7 +551,7 @@
 	<camera_view>
 		<Name>mar_exo_normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.00</distance>
+		<distance>3.00</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -584,7 +584,7 @@
 	<camera_view>
 		<Name>mar_exo_zoom</Name>
 		<change_view_time>200</change_view_time>
-		<distance>4.00</distance>
+		<distance>3.00</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
@@ -616,7 +616,7 @@
 	<camera_view>
 		<Name>mar_exo_shoulder_bash</Name>
 		<change_view_time>500</change_view_time>
-		<distance>4.25</distance>
+		<distance>3.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
