@@ -193,10 +193,10 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -Performance/draw distance optimizations.
 -Further reduced size of ammo pickups.
 -Behemoth corpse never despawns/fades.
+-Reduced Walker & Exo camera distance.
 -Doubled Nano rifle explosion radius.
 -Player melee always ragdolls npcs.
 -Use headshot damage multiplier.
--Reduced walker camera distance.
 -More randomized shotgun spread.
 -More ai melee distance fixes.
 -Optimize use of gibs.
