@@ -96,7 +96,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
@@ -223,7 +223,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
@@ -350,7 +350,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
@@ -477,7 +477,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -618,7 +618,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -759,7 +759,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -913,7 +913,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -1068,7 +1068,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -1222,7 +1222,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -1376,7 +1376,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -1530,7 +1530,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -1656,7 +1656,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -1782,7 +1782,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -2020,7 +2020,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -2342,7 +2342,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -2662,7 +2662,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -2974,7 +2974,7 @@
 			<Y>0.5</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.5</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>1.5</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.5</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -3334,7 +3334,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>.75</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.5</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -4318,7 +4318,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.2</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>.75</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.5</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -4640,7 +4640,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -5074,7 +5074,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>.75</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.5</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -5207,7 +5207,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -5308,7 +5308,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -5629,7 +5629,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -5896,7 +5896,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -6101,7 +6101,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -6230,7 +6230,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -6574,7 +6574,7 @@
 			<Y>0.5</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.5</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.35</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.50</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -6769,7 +6769,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -6866,7 +6866,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -6976,7 +6976,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -7107,7 +7107,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>999</Max_Fall_Damage_Speed>
@@ -7655,7 +7655,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -7886,7 +7886,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -7973,7 +7973,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -8060,7 +8060,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -8176,7 +8176,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
@@ -8446,7 +8446,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -8547,7 +8547,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -8638,7 +8638,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -9014,7 +9014,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -9105,7 +9105,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -9189,7 +9189,7 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
 			<Category>Entries:RF4</Category>
 			</_Editor>
@@ -9608,7 +9608,7 @@
 			<Y>1.20</Y>
 			<Z>0.2</Z>
 			</Indicator_Crouch_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.2</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>1.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>20</Max_Fall_Damage_Speed>
@@ -9757,7 +9757,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -9885,7 +9885,7 @@
 			<Y>2.0</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
@@ -10560,7 +10560,7 @@
 			<Y>1.7</Y>
 			<Z>0.0</Z>
 			</Indicator_Stand_Offset>
-		<Weapon_Gib_Chance_Multiplier>1.0</Weapon_Gib_Chance_Multiplier>
+		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<Min_Fall_Damage_Percent>0.0</Min_Fall_Damage_Percent>
 		<Max_Fall_Damage_Percent>0.0</Max_Fall_Damage_Percent>
 		<Max_Fall_Damage_Speed>24</Max_Fall_Damage_Speed>
