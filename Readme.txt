@@ -182,6 +182,7 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 \Changelog v0.9.5/
 -Reduced long distance repair radius to reduce stuttering when repairing large structures.
 -Slightly reduced light draw distances to fix a few more lights not working in one level.
+-Remove 3rd person melee finishers to improve player movement handling.
 -Increase hollow tipped rounds upgrade head shot damage multiplier.
 -Doubled Assault rifle, Nano rifle, and dual Pistols npc damage.
 -Further increased Fast Hands upgrade weapon swapping speed.
