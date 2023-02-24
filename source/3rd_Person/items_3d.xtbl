@@ -2220,7 +2220,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>185</Fade_Out_Distance>
+		<Fade_Out_Distance>255</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -2295,7 +2295,7 @@
 				<Type>Always</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>176</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Physical_Material>Alien-Pod</Physical_Material>
 		<Effect_Material>Alien Pod</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -2588,7 +2588,7 @@
 				<Type>Emerged</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>175</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Physical_Material>Alien-Flesh</Physical_Material>
 		<Effect_Material>Alien Flesh</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -3088,7 +3088,7 @@
 			<Flag>collide_as_box</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>500</Fade_Out_Distance>
+		<Fade_Out_Distance>1500</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -3662,7 +3662,7 @@
 			<Flag>special_bbox</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>185</Fade_Out_Distance>
+		<Fade_Out_Distance>255</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
@@ -6883,7 +6883,7 @@
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>150</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
@@ -7031,7 +7031,7 @@
 				<Type>Emerged</Type>
 				</Looping_Effect>
 			</Looping_Effects>
-		<Fade_Out_Distance>175</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Physical_Material>Alien-Flesh</Physical_Material>
 		<Effect_Material>Alien Flesh</Effect_Material>
 		<mp_preload>False</mp_preload>
@@ -7316,7 +7316,7 @@
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
 		<MaterialEffect>Salvage</MaterialEffect>
-		<Fade_Out_Distance>185</Fade_Out_Distance>
+		<Fade_Out_Distance>255</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>

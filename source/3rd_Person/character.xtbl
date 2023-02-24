@@ -81,7 +81,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -115,8 +115,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -212,7 +214,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -246,8 +248,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -343,7 +347,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -377,8 +381,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -474,7 +480,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -523,8 +529,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -619,7 +627,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -668,8 +676,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -764,7 +774,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -826,8 +836,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -922,7 +934,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -985,8 +997,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1081,7 +1095,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1115,8 +1129,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1239,7 +1255,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1273,8 +1289,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1397,7 +1415,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1431,8 +1449,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1555,7 +1575,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1589,8 +1609,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1685,7 +1707,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1719,8 +1741,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1815,7 +1839,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1849,8 +1873,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -2064,7 +2090,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>200</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -2084,8 +2110,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -2285,7 +2313,7 @@
 				<IntensityFunction>Always On</IntensityFunction>
 				</Persistent_Effect>
 			</Persistent_Effects>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Streamed_Effects>
 			<Streamed_Effect>
 				<Name>rf_exo_light_back</Name>
@@ -2410,8 +2438,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Death_Explosions>
 			<Death_Explosion>
@@ -2587,7 +2617,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -2607,8 +2637,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -2711,7 +2743,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -2773,8 +2805,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -2884,7 +2918,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -2904,8 +2938,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -3026,7 +3062,7 @@
 		<Bone_LOD>Creeper</Bone_LOD>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Head_Gib_VID>41</Head_Gib_VID>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -3057,8 +3093,10 @@
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Thrown_Gib_Threshold_Percent>1.35</Thrown_Gib_Threshold_Percent>
 		<Autopsy_Salvage_SP>1</Autopsy_Salvage_SP>
@@ -3336,7 +3374,7 @@
 		<Bone_LOD>Grunt</Bone_LOD>
 		<Head_Gib_VID>41</Head_Gib_VID>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -3422,8 +3460,10 @@
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Props>
 			<Prop>
@@ -3647,7 +3687,7 @@
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
 		<Controller_Type>Heavy</Controller_Type>
-		<Fade_Out_Distance>200</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -3667,8 +3707,10 @@
 		<Max_Thrown_Damage_Percent>0.1</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -3997,7 +4039,7 @@
 				</Prop>
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>200</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4017,8 +4059,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>60</Walk_Ramp_Frames>
@@ -4131,7 +4175,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4151,8 +4195,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4268,7 +4314,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4288,8 +4334,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4382,7 +4430,7 @@
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Grunt</Controller_Type>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Head_Gib_VID>41</Head_Gib_VID>
@@ -4426,8 +4474,10 @@
 		<Max_Thrown_Damage_Percent>.75</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>3</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>3</Autopsy_Salvage_MP>
@@ -4631,7 +4681,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>red faction</ModelType>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Nickname>corpse</Nickname>
@@ -4652,8 +4702,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4734,7 +4786,7 @@
 		<Spinebend>exo</Spinebend>
 		<Nickname>minor</Nickname>
 		<Controller_Type>Miner Exo</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -4784,8 +4836,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>Miner</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4888,7 +4942,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4908,8 +4962,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -5040,7 +5096,7 @@
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
 		<Shared_Container>ch_red_ass_soldier</Shared_Container>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5060,8 +5116,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>30</Walk_Ramp_Frames>
@@ -5182,7 +5240,7 @@
 			</Streamed_Effects>
 		<Spinebend>grunt</Spinebend>
 		<Controller_Type>Grunt</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5202,8 +5260,10 @@
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>2</Autopsy_Salvage_MP>
@@ -5316,7 +5376,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>special</ModelType>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Nickname>tentacle</Nickname>
 		<Spinebend>human</Spinebend>
 		<Equip_Item_Name>creeper_claw</Equip_Item_Name>
@@ -5339,8 +5399,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>5</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>5</Autopsy_Salvage_MP>
@@ -5424,7 +5486,7 @@
 		<Controller_Type>Creeper</Controller_Type>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Head_Gib_VID>41</Head_Gib_VID>
-		<Fade_Out_Distance>25</Fade_Out_Distance>
+		<Fade_Out_Distance>15</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5444,8 +5506,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>3</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>3</Autopsy_Salvage_MP>
@@ -5539,7 +5603,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien tank</ModelType>
 		<Controller_Type>Tank</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5713,7 +5777,7 @@
 		<Bone_LOD>Grunt</Bone_LOD>
 		<Head_Gib_VID>41</Head_Gib_VID>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -5769,8 +5833,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>2</Autopsy_Salvage_MP>
@@ -5892,7 +5958,7 @@
 				</Prop>
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5912,8 +5978,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Nickname>winters</Nickname>
 		<Blend_Tree>player</Blend_Tree>
@@ -6017,7 +6085,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -6079,8 +6147,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -6233,7 +6303,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>200</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -6253,8 +6323,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -6364,7 +6436,7 @@
 		<ModelType>exo marauder</ModelType>
 		<Spinebend>exo</Spinebend>
 		<Controller_Type>Mar Exo</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -6386,8 +6458,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -6702,7 +6776,7 @@
 		<Bone_LOD>Creeper</Bone_LOD>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Head_Gib_VID>41</Head_Gib_VID>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -6733,8 +6807,10 @@
 		<Max_Thrown_Damage_Percent>0.50</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Thrown_Gib_Threshold_Percent>1</Thrown_Gib_Threshold_Percent>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
@@ -6922,8 +6998,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -7023,8 +7101,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -7121,7 +7201,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -7155,8 +7235,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -7256,7 +7338,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -7290,8 +7372,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -7450,7 +7534,7 @@
 		<ModelType>marauder</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -7470,8 +7554,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -7637,7 +7723,7 @@
 		<ModelType>marauder</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -7657,8 +7743,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -7823,7 +7911,7 @@
 		<ModelType>cultist officer</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>200</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -7843,8 +7931,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -8067,8 +8157,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8158,8 +8250,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8249,8 +8343,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8353,7 +8449,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -8387,8 +8483,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -8545,7 +8643,7 @@
 				</Prop>
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -8565,8 +8663,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>60</Walk_Ramp_Frames>
@@ -8647,8 +8747,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8741,7 +8843,7 @@
 		<Spinebend>exo</Spinebend>
 		<Nickname>miner_exo_cine</Nickname>
 		<Controller_Type>Miner Exo</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -8763,8 +8865,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>Miner</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -8847,8 +8951,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8980,7 +9086,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -9000,8 +9106,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -9117,7 +9225,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -9137,8 +9245,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -9224,7 +9334,7 @@
 		<Spinebend>exo</Spinebend>
 		<Nickname>miner_exo_arm</Nickname>
 		<Controller_Type>Miner Exo</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -9246,8 +9356,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>Miner</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -9330,8 +9442,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -9418,8 +9532,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -9525,7 +9641,7 @@
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
 		<Controller_Type>Heavy</Controller_Type>
-		<Fade_Out_Distance>200</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -9545,8 +9661,10 @@
 		<Max_Thrown_Damage_Percent>0.1</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -9829,7 +9947,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>300</Fade_Out_Distance>
+		<Fade_Out_Distance>600</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -9863,8 +9981,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -9987,7 +10107,7 @@
 		<ModelType>exo red faction</ModelType>
 		<Spinebend>exo</Spinebend>
 		<Controller_Type>Exo</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -10009,8 +10129,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Death_Explosions>
 			<Death_Explosion>
@@ -10119,7 +10241,7 @@
 		<ModelType>exo marauder</ModelType>
 		<Spinebend>exo</Spinebend>
 		<Controller_Type>Exo</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -10141,8 +10263,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -10463,7 +10587,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10483,8 +10607,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>30</Walk_Ramp_Frames>
@@ -10599,7 +10725,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>275</Fade_Out_Distance>
+		<Fade_Out_Distance>225</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10619,8 +10745,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -10704,7 +10832,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien grunt</ModelType>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>350</Fade_Out_Distance>
+		<Fade_Out_Distance>750</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10724,8 +10852,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
 		<Fine_Aim_Snap_Head_Radius>0.2</Fine_Aim_Snap_Head_Radius>
@@ -10812,7 +10942,7 @@
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
 		<Controller_Type>Elite</Controller_Type>
-		<Fade_Out_Distance>250</Fade_Out_Distance>
+		<Fade_Out_Distance>450</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10832,8 +10962,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>40</Distance>
-			<Distance>80</Distance>
+			<Distance>50</Distance>
+			<Distance>100</Distance>
+			<Distance>150</Distance>
+			<Distance>200</Distance>
 			</LOD_Distances>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
 		<Fine_Aim_Snap_Head_Radius>0.2</Fine_Aim_Snap_Head_Radius>
