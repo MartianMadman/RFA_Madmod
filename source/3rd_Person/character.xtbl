@@ -81,7 +81,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -212,7 +212,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -343,7 +343,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -474,7 +474,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -619,7 +619,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -764,7 +764,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -922,7 +922,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1081,7 +1081,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1239,7 +1239,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1397,7 +1397,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1555,7 +1555,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1685,7 +1685,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -1815,7 +1815,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -2064,7 +2064,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>1000</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -2285,7 +2285,7 @@
 				<IntensityFunction>Always On</IntensityFunction>
 				</Persistent_Effect>
 			</Persistent_Effects>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Streamed_Effects>
 			<Streamed_Effect>
 				<Name>rf_exo_light_back</Name>
@@ -2587,7 +2587,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -2711,7 +2711,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -2884,7 +2884,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -3026,7 +3026,7 @@
 		<Bone_LOD>Creeper</Bone_LOD>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Head_Gib_VID>41</Head_Gib_VID>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -3336,7 +3336,7 @@
 		<Bone_LOD>Grunt</Bone_LOD>
 		<Head_Gib_VID>41</Head_Gib_VID>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -3647,7 +3647,7 @@
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
 		<Controller_Type>Heavy</Controller_Type>
-		<Fade_Out_Distance>1000</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -3997,7 +3997,7 @@
 				</Prop>
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>1000</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4131,7 +4131,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4268,7 +4268,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -4382,7 +4382,7 @@
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Grunt</Controller_Type>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Head_Gib_VID>41</Head_Gib_VID>
@@ -4631,7 +4631,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>red faction</ModelType>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Nickname>corpse</Nickname>
@@ -4734,7 +4734,7 @@
 		<Spinebend>exo</Spinebend>
 		<Nickname>minor</Nickname>
 		<Controller_Type>Miner Exo</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -4888,7 +4888,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5040,7 +5040,7 @@
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
 		<Shared_Container>ch_red_ass_soldier</Shared_Container>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5182,7 +5182,7 @@
 			</Streamed_Effects>
 		<Spinebend>grunt</Spinebend>
 		<Controller_Type>Grunt</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5316,7 +5316,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>special</ModelType>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Nickname>tentacle</Nickname>
 		<Spinebend>human</Spinebend>
 		<Equip_Item_Name>creeper_claw</Equip_Item_Name>
@@ -5424,7 +5424,7 @@
 		<Controller_Type>Creeper</Controller_Type>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Head_Gib_VID>41</Head_Gib_VID>
-		<Fade_Out_Distance>50</Fade_Out_Distance>
+		<Fade_Out_Distance>25</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5539,7 +5539,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien tank</ModelType>
 		<Controller_Type>Tank</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -5713,7 +5713,7 @@
 		<Bone_LOD>Grunt</Bone_LOD>
 		<Head_Gib_VID>41</Head_Gib_VID>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -5892,7 +5892,7 @@
 				</Prop>
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -6017,7 +6017,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -6233,7 +6233,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>1000</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -6364,7 +6364,7 @@
 		<ModelType>exo marauder</ModelType>
 		<Spinebend>exo</Spinebend>
 		<Controller_Type>Mar Exo</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -6702,7 +6702,7 @@
 		<Bone_LOD>Creeper</Bone_LOD>
 		<Head_Gib_Effect>alien_headshot_a</Head_Gib_Effect>
 		<Head_Gib_VID>41</Head_Gib_VID>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Persistent_Effects>
@@ -6870,7 +6870,7 @@
 		<Rig>
 			<Filename>ar_queen.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -6958,7 +6958,7 @@
 		<Rig>
 			<Filename>queen_tentacle.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -7121,7 +7121,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -7256,7 +7256,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -7450,7 +7450,7 @@
 		<ModelType>marauder</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -7637,7 +7637,7 @@
 		<ModelType>marauder</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -7823,7 +7823,7 @@
 		<ModelType>cultist officer</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>1000</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -8003,7 +8003,7 @@
 		<Rig>
 			<Filename>monolith_large.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -8099,7 +8099,7 @@
 		<Rig>
 			<Filename>monolith_small.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -8190,7 +8190,7 @@
 		<Rig>
 			<Filename>monolith_medium.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -8353,7 +8353,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -8545,7 +8545,7 @@
 				</Prop>
 			</Props>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -8588,7 +8588,7 @@
 		<Rig>
 			<Filename>ar_mar_banner.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -8741,7 +8741,7 @@
 		<Spinebend>exo</Spinebend>
 		<Nickname>miner_exo_cine</Nickname>
 		<Controller_Type>Miner Exo</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -8788,7 +8788,7 @@
 		<Rig>
 			<Filename>rf_lav_1.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -8980,7 +8980,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -9117,7 +9117,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>civilian</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -9224,7 +9224,7 @@
 		<Spinebend>exo</Spinebend>
 		<Nickname>miner_exo_arm</Nickname>
 		<Controller_Type>Miner Exo</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -9271,7 +9271,7 @@
 		<Rig>
 			<Filename>ar_mar_banner_lg.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -9359,7 +9359,7 @@
 		<Rig>
 			<Filename>tentacle_rocks.rigx</Filename>
 			</Rig>
-		<Fade_Out_Distance>50000</Fade_Out_Distance>
+		<Fade_Out_Distance>5000</Fade_Out_Distance>
 		<max_hit_points>300</max_hit_points>
 		<knock_down_hits>30</knock_down_hits>
 		<max_speed>5</max_speed>
@@ -9525,7 +9525,7 @@
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
 		<Controller_Type>Heavy</Controller_Type>
-		<Fade_Out_Distance>1000</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -9829,7 +9829,7 @@
 		<Spinebend>player</Spinebend>
 		<Controller_Type>Player</Controller_Type>
 		<Bone_LOD>RF4_PC</Bone_LOD>
-		<Fade_Out_Distance>2000</Fade_Out_Distance>
+		<Fade_Out_Distance>300</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -9987,7 +9987,7 @@
 		<ModelType>exo red faction</ModelType>
 		<Spinebend>exo</Spinebend>
 		<Controller_Type>Exo</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -10119,7 +10119,7 @@
 		<ModelType>exo marauder</ModelType>
 		<Spinebend>exo</Spinebend>
 		<Controller_Type>Exo</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>state shuffle</Turn_Shuffle_Type>
 		<Hit_Indicator_3D>gp_hit_indicator</Hit_Indicator_3D>
 		<Warn_Indicator_3D>gp_warn_indicator</Warn_Indicator_3D>
@@ -10463,7 +10463,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10599,7 +10599,7 @@
 		<ModelType>civilian</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>750</Fade_Out_Distance>
+		<Fade_Out_Distance>275</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10704,7 +10704,7 @@
 		<Aim_Assist_Head_Offset_Max>1.0</Aim_Assist_Head_Offset_Max>
 		<ModelType>alien grunt</ModelType>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>2500</Fade_Out_Distance>
+		<Fade_Out_Distance>350</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -10812,7 +10812,7 @@
 		<ModelType>alien heavy</ModelType>
 		<Spinebend>heavy</Spinebend>
 		<Controller_Type>Elite</Controller_Type>
-		<Fade_Out_Distance>1500</Fade_Out_Distance>
+		<Fade_Out_Distance>250</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Alien Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
