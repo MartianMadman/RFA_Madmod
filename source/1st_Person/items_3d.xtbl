@@ -3088,7 +3088,7 @@
 			<Flag>collide_as_box</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>500</Fade_Out_Distance>
+		<Fade_Out_Distance>50</Fade_Out_Distance>
 		<mp_preload>False</mp_preload>
 		</Item>
 	<Item>
