@@ -6,7 +6,7 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<lod_start_fade_distance>45</lod_start_fade_distance>
+		<lod_start_fade_distance>60</lod_start_fade_distance>
 		</LOD>
 	<LOD>
 		<Name>2_clutter_small</Name>
@@ -14,7 +14,7 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<lod_start_fade_distance>75</lod_start_fade_distance>
+		<lod_start_fade_distance>100</lod_start_fade_distance>
 		</LOD>
 	<LOD>
 		<Name>3_clutter_medium</Name>
@@ -22,7 +22,7 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<lod_start_fade_distance>105</lod_start_fade_distance>
+		<lod_start_fade_distance>140</lod_start_fade_distance>
 		</LOD>
 	<LOD>
 		<Name>4_clutter_large</Name>
@@ -30,7 +30,7 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<lod_start_fade_distance>165</lod_start_fade_distance>
+		<lod_start_fade_distance>220</lod_start_fade_distance>
 		</LOD>
 	<LOD>
 		<Name>5_clutter_extra_lrg</Name>
@@ -38,7 +38,7 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<lod_start_fade_distance>240</lod_start_fade_distance>
+		<lod_start_fade_distance>320</lod_start_fade_distance>
 		</LOD>
 	<LOD>
 		<Name>None</Name>
