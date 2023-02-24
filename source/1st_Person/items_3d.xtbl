@@ -6883,7 +6883,7 @@
 			<Flag>no_pickup_delete</Flag>
 			<Flag>cast_shadows</Flag>
 			</Item_Flags>
-		<Fade_Out_Distance>600</Fade_Out_Distance>
+		<Fade_Out_Distance>150</Fade_Out_Distance>
 		<Looping_Effects>
 			<Looping_Effect>
 				<Name>item_salvage</Name>
