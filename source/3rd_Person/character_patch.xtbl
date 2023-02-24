@@ -219,6 +219,12 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
+		<LOD_Distances>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
+			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
 			<Damage_Max>200.0</Damage_Max>
@@ -465,6 +471,12 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
+		<LOD_Distances>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
+			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
 			<Damage_Max>200.0</Damage_Max>
@@ -656,6 +668,12 @@
 		<Min_Thrown_Damage_Percent>0.0</Min_Thrown_Damage_Percent>
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
+		<LOD_Distances>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
+			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
 			<Damage_Max>200.0</Damage_Max>

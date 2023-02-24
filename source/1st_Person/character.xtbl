@@ -115,10 +115,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -248,10 +248,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -381,10 +381,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -529,10 +529,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -676,10 +676,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -836,10 +836,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -997,10 +997,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1129,10 +1129,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1289,10 +1289,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1449,10 +1449,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1609,10 +1609,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1741,10 +1741,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -1873,10 +1873,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -2110,10 +2110,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -2438,10 +2438,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Death_Explosions>
 			<Death_Explosion>
@@ -2637,10 +2637,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -2805,10 +2805,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -2938,10 +2938,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -3093,10 +3093,10 @@
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Thrown_Gib_Threshold_Percent>1.35</Thrown_Gib_Threshold_Percent>
 		<Autopsy_Salvage_SP>1</Autopsy_Salvage_SP>
@@ -3460,10 +3460,10 @@
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Props>
 			<Prop>
@@ -3707,10 +3707,10 @@
 		<Max_Thrown_Damage_Percent>0.1</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -4059,10 +4059,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>60</Walk_Ramp_Frames>
@@ -4195,10 +4195,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4334,10 +4334,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4474,10 +4474,10 @@
 		<Max_Thrown_Damage_Percent>.75</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>3</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>3</Autopsy_Salvage_MP>
@@ -4702,10 +4702,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4836,10 +4836,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>Miner</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -4962,10 +4962,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -5116,10 +5116,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>30</Walk_Ramp_Frames>
@@ -5260,10 +5260,10 @@
 		<Max_Thrown_Damage_Percent>1.5</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>2</Autopsy_Salvage_MP>
@@ -5399,10 +5399,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>5</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>5</Autopsy_Salvage_MP>
@@ -5506,10 +5506,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>3</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>3</Autopsy_Salvage_MP>
@@ -5623,8 +5623,8 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>100</Distance>
-			<Distance>200</Distance>
+			<Distance>80</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Bounding_Box_Min_Correction>
 			<X>0.0</X>
@@ -5833,10 +5833,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
 		<Autopsy_Salvage_MP>2</Autopsy_Salvage_MP>
@@ -5978,10 +5978,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Nickname>winters</Nickname>
 		<Blend_Tree>player</Blend_Tree>
@@ -6147,10 +6147,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -6323,10 +6323,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -6458,10 +6458,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -6807,10 +6807,10 @@
 		<Max_Thrown_Damage_Percent>0.50</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Thrown_Gib_Threshold_Percent>1</Thrown_Gib_Threshold_Percent>
 		<Autopsy_Salvage_SP>2</Autopsy_Salvage_SP>
@@ -6998,10 +6998,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -7101,10 +7101,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -7235,10 +7235,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -7372,10 +7372,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -7554,10 +7554,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -7743,10 +7743,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -7931,10 +7931,10 @@
 		<Max_Thrown_Damage_Percent>1.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>marauder</Blend_Tree>
 		<Large_Flinch_Buildup>
@@ -8157,10 +8157,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8250,10 +8250,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8343,10 +8343,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8483,10 +8483,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>human</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -8663,10 +8663,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>60</Walk_Ramp_Frames>
@@ -8747,10 +8747,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -8865,10 +8865,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>Miner</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -8951,10 +8951,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -9106,10 +9106,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -9245,10 +9245,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -9356,10 +9356,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>Miner</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -9442,10 +9442,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -9532,10 +9532,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Weapon_Gib_Chance_Multiplier>0.0</Weapon_Gib_Chance_Multiplier>
 		<_Editor>
@@ -9661,10 +9661,10 @@
 		<Max_Thrown_Damage_Percent>0.1</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -9981,10 +9981,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Container_Type>player</Container_Type>
 		<Blend_Tree>player</Blend_Tree>
@@ -10129,10 +10129,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Death_Explosions>
 			<Death_Explosion>
@@ -10263,10 +10263,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Streamed_Effects>
 			<Streamed_Effect>
@@ -10607,10 +10607,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>30</Walk_Ramp_Frames>
@@ -10745,10 +10745,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Blend_Tree>npc</Blend_Tree>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
@@ -10852,10 +10852,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
 		<Fine_Aim_Snap_Head_Radius>0.2</Fine_Aim_Snap_Head_Radius>
@@ -10962,10 +10962,10 @@
 		<Max_Thrown_Damage_Percent>0.0</Max_Thrown_Damage_Percent>
 		<Thrown_Gib_Chance>0.0</Thrown_Gib_Chance>
 		<LOD_Distances>
-			<Distance>50</Distance>
-			<Distance>100</Distance>
-			<Distance>150</Distance>
-			<Distance>200</Distance>
+			<Distance>40</Distance>
+			<Distance>80</Distance>
+			<Distance>120</Distance>
+			<Distance>160</Distance>
 			</LOD_Distances>
 		<Walk_Ramp_Frames>0</Walk_Ramp_Frames>
 		<Fine_Aim_Snap_Head_Radius>0.2</Fine_Aim_Snap_Head_Radius>
