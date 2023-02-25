@@ -200,7 +200,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>100</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -446,7 +446,7 @@
 		<ModelType>cultist</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>100</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
@@ -637,7 +637,7 @@
 		<ModelType>cultist officer</ModelType>
 		<Spinebend>human</Spinebend>
 		<Controller_Type>Human NPC</Controller_Type>
-		<Fade_Out_Distance>100</Fade_Out_Distance>
+		<Fade_Out_Distance>200</Fade_Out_Distance>
 		<Turn_Shuffle_Type>action shuffle</Turn_Shuffle_Type>
 		<Effect_material_type>Flesh</Effect_material_type>
 		<Indicator_Stand_Offset>
