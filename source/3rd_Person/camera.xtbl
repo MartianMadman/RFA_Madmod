@@ -197,7 +197,7 @@
 	<camera_view>
 		<Name>ragdoll</Name>
 		<change_view_time>0</change_view_time>
-		<distance>3.0</distance>
+		<distance>2.0</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov_zoom>False</use_weapon_fov_zoom>
