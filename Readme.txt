@@ -201,6 +201,9 @@ Red Faction Armageddon Madmod is a major overhaul mod that is dedicated towards 
 -More ai melee distance fixes.
 -Optimize use of gibs.
 
+\Changelog v0.9.51/
+-Use ragdoll bullet push force.
+
 \Issues/
 -Destructibles with moving parts when repaired may spontaneously break shortly after. This is caused by spawned salvage getting stuck in moving parts.
 
