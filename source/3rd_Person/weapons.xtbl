@@ -1813,7 +1813,7 @@
 								</Damage_Scaling_Min>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Smoke>wep_muzzle_smoke_plasma</Muzzle_Smoke>
 								<Fire_Camera_Shake>weapon_fire_ar</Fire_Camera_Shake>
@@ -1976,7 +1976,7 @@
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Smoke>wep_muzzle_smoke_plasma</Muzzle_Smoke>
 								<Fire_Camera_Shake>weapon_fire_ar</Fire_Camera_Shake>
@@ -2141,7 +2141,7 @@
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>167</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Smoke>wep_muzzle_smoke_plasma</Muzzle_Smoke>
 								<Fire_Camera_Shake>weapon_fire_ar</Fire_Camera_Shake>
@@ -2331,7 +2331,7 @@
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<Ammo_Type>Shotgun</Ammo_Type>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Sounds>
 								<sound_event>WEP_MARUADER_SHOTGUN</sound_event>
 								<Npc_sound_event>WEP_MARUADER_SHOTGUN_NPC</Npc_sound_event>
@@ -3626,7 +3626,7 @@
 							<Dropped_Ammo_Scale>0.4</Dropped_Ammo_Scale>
 							<Spread_Shots_To_Max>2</Spread_Shots_To_Max>
 							<Spread_Multiplier_Moving>1.0</Spread_Multiplier_Moving>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Autoaim_Override>0.5</Autoaim_Override>
 							<Bullet_hole_scale>1.5</Bullet_hole_scale>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
@@ -4044,7 +4044,7 @@
 								<Muzzle_Flash>wep_bullet_pistol_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
 								</Visuals>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Shots_Per_Round>1</Shots_Per_Round>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Chance>0</Gib_Chance>
@@ -4495,7 +4495,7 @@
 								<Structural_Damage>0.0</Structural_Damage>
 								</Damage_Scaling_Max>
 							<NPC_Refire_Delay_ms>3000</NPC_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Structure_Force>50</Structure_Force>
 							<Visuals>
 								<Muzzle_Smoke>des_concrete_impact_terrain_lg</Muzzle_Smoke>
@@ -5654,7 +5654,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Flags>
@@ -5855,7 +5855,7 @@
 								<Structural_Damage>0</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>Default m16</NPC_Firing_Pattern>
 							<Visuals>
 								<Muzzle_Flash>wep_mar_fly_rapid_muzz</Muzzle_Flash>
@@ -6419,7 +6419,7 @@
 								<Structural_Damage>4000</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>50</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Flash>wep_lav_turret_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
@@ -6695,7 +6695,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -6907,7 +6907,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>250</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -7166,7 +7166,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>2500</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>200</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Flags>
@@ -8374,7 +8374,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>2000</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>50</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -9390,7 +9390,7 @@
 								<Structural_Damage>0.0</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Flash>wep_mar_chrg_can_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
@@ -9600,7 +9600,7 @@
 								<Structural_Damage>0.0</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>500</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Flash>wep_mar_chrg_can_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
@@ -9765,7 +9765,7 @@
 								<Structural_Damage>0</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>Default m16</NPC_Firing_Pattern>
 							<Visuals>
 								<Muzzle_Flash>wep_mar_fly_rapid_muzz</Muzzle_Flash>
@@ -10027,7 +10027,7 @@
 								<Muzzle_Flash>wep_a_t_pistol_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
 								</Visuals>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Shots_Per_Round>1</Shots_Per_Round>
 							<Gib_Head_On_Death_Chance>1.0</Gib_Head_On_Death_Chance>
 							<Gib_Threshold_Percent>0.6</Gib_Threshold_Percent>
@@ -10148,7 +10148,7 @@
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Smoke>wep_muzzle_smoke_plasma</Muzzle_Smoke>
 								<Fire_Camera_Shake>weapon_fire_ar</Fire_Camera_Shake>
@@ -10599,7 +10599,7 @@
 								<Structural_Damage>4000</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>50</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Flash>wep_lav_turret_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
@@ -11700,7 +11700,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -11827,7 +11827,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -11965,7 +11965,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -12711,7 +12711,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>1800</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>turret_machinegun</NPC_Firing_Pattern>
 							<NPC_Aim_Drift>VehicleMGTurret</NPC_Aim_Drift>
 							<Visuals>
@@ -13356,7 +13356,7 @@
 								<Structural_Damage>0.0</Structural_Damage>
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Muzzle_Flash>wep_mar_chrg_can_muzz</Muzzle_Flash>
 								<Muzzle_Smoke>wep_muzzle_smoke_a</Muzzle_Smoke>
@@ -13895,7 +13895,7 @@
 							<NPC_Min_Range>0.0</NPC_Min_Range>
 							<Desired_Interface_Position>upper right</Desired_Interface_Position>
 							<Ammo_Type>Shotgun</Ammo_Type>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Sounds>
 								<sound_event>WEP_MARUADER_SHOTGUN</sound_event>
 								<Npc_sound_event>WEP_MARUADER_SHOTGUN_NPC</Npc_sound_event>
@@ -14136,7 +14136,7 @@
 							<Overheat_Increase_Rate>0.0</Overheat_Increase_Rate>
 							<Overheat_Cool_Down_Time_ms>3000</Overheat_Cool_Down_Time_ms>
 							<Player_Refire_Delay_ms>100</Player_Refire_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<NPC_Firing_Pattern>Default m16</NPC_Firing_Pattern>
 							<Visuals>
 								<Muzzle_Flash>wep_mar_fly_rapid_muzz</Muzzle_Flash>
@@ -14948,7 +14948,7 @@
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Fire_Camera_Shake>weapon_fire_ar</Fire_Camera_Shake>
 								<Muzzle_Flash>wep_quill_muzz</Muzzle_Flash>
@@ -15428,7 +15428,7 @@
 								</Damage_Scaling_Max>
 							<Player_Refire_Delay_ms>150</Player_Refire_Delay_ms>
 							<Empty_Reload_Delay_ms>0</Empty_Reload_Delay_ms>
-							<Ragdoll_Force>0</Ragdoll_Force>
+							<Ragdoll_Force>2</Ragdoll_Force>
 							<Visuals>
 								<Fire_Camera_Shake>weapon_fire_ar</Fire_Camera_Shake>
 								<Muzzle_Flash>wep_quill_muzz</Muzzle_Flash>
